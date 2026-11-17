@@ -9,6 +9,7 @@ class Tour {
 
 public:
     Tour(vector<City*>); // Calculate fitness as well
+    Tour();
     // Recalculate fitness and update cities order after shuffle or swap
     void shuffleCities(); // Use random to randomize the index order
     void swapCities(int index1, int index2);
