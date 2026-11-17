@@ -4,6 +4,8 @@
 using namespace std;
 
 class Population {
+    static const int POPULATION_SIZE = 30;    
+
     vector<Tour> tours;
 
     void generateTours(vector<City>& cities, int popSize); // Use shuffle on cities to generate popSize number of tours
