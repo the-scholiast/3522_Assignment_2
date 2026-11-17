@@ -377,3 +377,241 @@
 {"t":1794954583336,"file":"City.hpp","type":"insert","rangeStart":419,"rangeEnd":419,"text":"t","textLength":1,"docVersion":7}
 {"t":1794954584378,"file":"City.hpp","type":"file-save"}
 {"t":1794954591134,"file":"City.hpp","type":"copy-command","size":49}
+{"t":1794954609232,"file":"City.cpp","type":"insert","rangeStart":291,"rangeEnd":291,"text":"\r\n    ","textLength":6,"docVersion":293}
+{"t":1794954609390,"file":"City.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"\r\n    ","textLength":6,"docVersion":294}
+{"t":1794954609390,"file":"City.cpp","type":"delete","rangeStart":293,"rangeEnd":297,"text":"","textLength":0,"docVersion":294}
+{"t":1794954609898,"file":"City.cpp","type":"delete","rangeStart":295,"rangeEnd":299,"text":"","textLength":0,"docVersion":295}
+{"t":1794954610079,"file":"City.cpp","type":"delete","rangeStart":293,"rangeEnd":295,"text":"","textLength":0,"docVersion":296}
+{"t":1794954610469,"file":"City.cpp","type":"delete","rangeStart":291,"rangeEnd":293,"text":"","textLength":0,"docVersion":297}
+{"t":1794954611487,"file":"City.cpp","type":"file-save"}
+{"t":1794954612300,"file":"City.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"\r\n","textLength":2,"docVersion":298}
+{"t":1794954612641,"file":"City.cpp","type":"paste-command","size":49}
+{"t":1794954612648,"file":"City.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"double calculateDistance(const City& other) const","textLength":49,"docVersion":299,"source":"paste-refactor"}
+{"t":1794954612724,"file":"City.cpp","type":"delete","rangeStart":334,"rangeEnd":335,"text":"","textLength":0,"docVersion":300}
+{"t":1794954612724,"file":"City.cpp","type":"insert","rangeStart":333,"rangeEnd":333,"text":" ","textLength":1,"docVersion":300}
+{"t":1794954613762,"file":"City.cpp","type":"file-save"}
+{"t":1794954614312,"file":"City.cpp","type":"insert","rangeStart":347,"rangeEnd":347,"text":" ","textLength":1,"docVersion":301}
+{"t":1794954614902,"file":"City.cpp","type":"insert","rangeStart":348,"rangeEnd":348,"text":"{}","textLength":2,"docVersion":302}
+{"t":1794954615169,"file":"City.cpp","type":"insert","rangeStart":349,"rangeEnd":349,"text":"\r\n    \r\n","textLength":8,"docVersion":303}
+{"t":1794954616202,"file":"City.cpp","type":"file-save"}
+{"t":1794954629416,"file":"City.cpp","type":"delete","rangeStart":351,"rangeEnd":355,"text":"","textLength":0,"docVersion":304}
+{"t":1794954629416,"file":"City.cpp","type":"delete","rangeStart":333,"rangeEnd":334,"text":"","textLength":0,"docVersion":304}
+{"t":1794954629967,"file":"City.cpp","type":"insert","rangeStart":334,"rangeEnd":334,"text":" ","textLength":1,"docVersion":305}
+{"t":1794954630996,"file":"City.cpp","type":"file-save"}
+{"t":1794954667095,"file":"City.cpp","type":"insert","rangeStart":351,"rangeEnd":351,"text":"    ","textLength":4,"docVersion":306}
+{"t":1794954667943,"file":"City.cpp","type":"insert","rangeStart":355,"rangeEnd":355,"text":"d","textLength":1,"docVersion":307}
+{"t":1794954668115,"file":"City.cpp","type":"insert","rangeStart":356,"rangeEnd":356,"text":"i","textLength":1,"docVersion":308}
+{"t":1794954668557,"file":"City.cpp","type":"insert","rangeStart":357,"rangeEnd":357,"text":"s","textLength":1,"docVersion":309}
+{"t":1794954668801,"file":"City.cpp","type":"insert","rangeStart":358,"rangeEnd":358,"text":"t","textLength":1,"docVersion":310}
+{"t":1794954669542,"file":"City.cpp","type":"replace","rangeStart":355,"rangeEnd":359,"text":"distance","textLength":8,"docVersion":311}
+{"t":1794954670594,"file":"City.cpp","type":"file-save"}
+{"t":1794954670703,"file":"City.cpp","type":"insert","rangeStart":363,"rangeEnd":363,"text":" ","textLength":1,"docVersion":312}
+{"t":1794954670965,"file":"City.cpp","type":"insert","rangeStart":364,"rangeEnd":364,"text":"=","textLength":1,"docVersion":313}
+{"t":1794954671846,"file":"City.cpp","type":"insert","rangeStart":365,"rangeEnd":365,"text":" ","textLength":1,"docVersion":314}
+{"t":1794954672523,"file":"City.cpp","type":"insert","rangeStart":366,"rangeEnd":366,"text":"s","textLength":1,"docVersion":315}
+{"t":1794954672837,"file":"City.cpp","type":"insert","rangeStart":367,"rangeEnd":367,"text":"q","textLength":1,"docVersion":316}
+{"t":1794954673343,"file":"City.cpp","type":"insert","rangeStart":368,"rangeEnd":368,"text":"r","textLength":1,"docVersion":317}
+{"t":1794954673563,"file":"City.cpp","type":"insert","rangeStart":369,"rangeEnd":369,"text":"t","textLength":1,"docVersion":318}
+{"t":1794954674606,"file":"City.cpp","type":"file-save"}
+{"t":1794954676354,"file":"City.cpp","type":"insert","rangeStart":370,"rangeEnd":370,"text":"()","textLength":2,"docVersion":319}
+{"t":1794954676506,"file":"City.cpp","type":"insert","rangeStart":371,"rangeEnd":371,"text":"()","textLength":2,"docVersion":320}
+{"t":1794954677557,"file":"City.cpp","type":"file-save"}
+{"t":1794954678419,"file":"City.cpp","type":"insert","rangeStart":372,"rangeEnd":372,"text":"x","textLength":1,"docVersion":321}
+{"t":1794954679090,"file":"City.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"1","textLength":1,"docVersion":322}
+{"t":1794954679361,"file":"City.cpp","type":"insert","rangeStart":374,"rangeEnd":374,"text":"-","textLength":1,"docVersion":323}
+{"t":1794954680395,"file":"City.cpp","type":"file-save"}
+{"t":1794954680654,"file":"City.cpp","type":"insert","rangeStart":375,"rangeEnd":375,"text":"x","textLength":1,"docVersion":324}
+{"t":1794954681050,"file":"City.cpp","type":"insert","rangeStart":376,"rangeEnd":376,"text":"2","textLength":1,"docVersion":325}
+{"t":1794954682095,"file":"City.cpp","type":"file-save"}
+{"t":1794954683894,"file":"City.cpp","type":"insert","rangeStart":378,"rangeEnd":378,"text":"^","textLength":1,"docVersion":326}
+{"t":1794954684933,"file":"City.cpp","type":"file-save"}
+{"t":1794954686197,"file":"City.cpp","type":"insert","rangeStart":379,"rangeEnd":379,"text":"2","textLength":1,"docVersion":327}
+{"t":1794954686345,"file":"City.cpp","type":"insert","rangeStart":380,"rangeEnd":380,"text":" ","textLength":1,"docVersion":328}
+{"t":1794954687390,"file":"City.cpp","type":"file-save"}
+{"t":1794954688204,"file":"City.cpp","type":"insert","rangeStart":381,"rangeEnd":381,"text":"+","textLength":1,"docVersion":329}
+{"t":1794954689250,"file":"City.cpp","type":"file-save"}
+{"t":1794954690412,"file":"City.cpp","type":"insert","rangeStart":382,"rangeEnd":382,"text":"()","textLength":2,"docVersion":330}
+{"t":1794954691461,"file":"City.cpp","type":"file-save"}
+{"t":1794954692955,"file":"City.cpp","type":"insert","rangeStart":383,"rangeEnd":383,"text":"y","textLength":1,"docVersion":331}
+{"t":1794954693148,"file":"City.cpp","type":"insert","rangeStart":384,"rangeEnd":384,"text":"1","textLength":1,"docVersion":332}
+{"t":1794954693534,"file":"City.cpp","type":"insert","rangeStart":385,"rangeEnd":385,"text":"-","textLength":1,"docVersion":333}
+{"t":1794954693937,"file":"City.cpp","type":"insert","rangeStart":386,"rangeEnd":386,"text":"y","textLength":1,"docVersion":334}
+{"t":1794954694269,"file":"City.cpp","type":"insert","rangeStart":387,"rangeEnd":387,"text":"2","textLength":1,"docVersion":335}
+{"t":1794954695282,"file":"City.cpp","type":"file-save"}
+{"t":1794954697682,"file":"City.cpp","type":"insert","rangeStart":389,"rangeEnd":389,"text":"^","textLength":1,"docVersion":336}
+{"t":1794954698270,"file":"City.cpp","type":"insert","rangeStart":390,"rangeEnd":390,"text":"2","textLength":1,"docVersion":337}
+{"t":1794954699302,"file":"City.cpp","type":"file-save"}
+{"t":1794954700349,"file":"City.cpp","type":"insert","rangeStart":392,"rangeEnd":392,"text":";","textLength":1,"docVersion":338}
+{"t":1794954701394,"file":"City.cpp","type":"file-save"}
+{"t":1794954722737,"file":"City.cpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"\r\n","textLength":2,"docVersion":339}
+{"t":1794954723379,"file":"City.cpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"#","textLength":1,"docVersion":340}
+{"t":1794954723600,"file":"City.cpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":"i","textLength":1,"docVersion":341}
+{"t":1794954723801,"file":"City.cpp","type":"insert","rangeStart":23,"rangeEnd":23,"text":"n","textLength":1,"docVersion":342}
+{"t":1794954724285,"file":"City.cpp","type":"replace","rangeStart":22,"rangeEnd":24,"text":"include","textLength":7,"docVersion":343}
+{"t":1794954725325,"file":"City.cpp","type":"file-save"}
+{"t":1794954726565,"file":"City.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":" ","textLength":1,"docVersion":344}
+{"t":1794954727363,"file":"City.cpp","type":"insert","rangeStart":30,"rangeEnd":30,"text":"<","textLength":1,"docVersion":345}
+{"t":1794954728078,"file":"City.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"c","textLength":1,"docVersion":346}
+{"t":1794954728210,"file":"City.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"m","textLength":1,"docVersion":347}
+{"t":1794954728750,"file":"City.cpp","type":"replace","rangeStart":31,"rangeEnd":33,"text":"cmath>","textLength":6,"docVersion":348}
+{"t":1794954729788,"file":"City.cpp","type":"file-save"}
+{"t":1794954735553,"file":"City.cpp","type":"insert","rangeStart":367,"rangeEnd":367,"text":"\r\n    ","textLength":6,"docVersion":349}
+{"t":1794954736594,"file":"City.cpp","type":"file-save"}
+{"t":1794954737739,"file":"City.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"o","textLength":1,"docVersion":350}
+{"t":1794954738148,"file":"City.cpp","type":"insert","rangeStart":374,"rangeEnd":374,"text":"=","textLength":1,"docVersion":351}
+{"t":1794954738294,"file":"City.cpp","type":"insert","rangeStart":375,"rangeEnd":375,"text":"d","textLength":1,"docVersion":352}
+{"t":1794954738448,"file":"City.cpp","type":"insert","rangeStart":376,"rangeEnd":376,"text":"o","textLength":1,"docVersion":353}
+{"t":1794954738745,"file":"City.cpp","type":"delete","rangeStart":376,"rangeEnd":377,"text":"","textLength":0,"docVersion":354}
+{"t":1794954738931,"file":"City.cpp","type":"delete","rangeStart":375,"rangeEnd":376,"text":"","textLength":0,"docVersion":355}
+{"t":1794954739113,"file":"City.cpp","type":"delete","rangeStart":374,"rangeEnd":375,"text":"","textLength":0,"docVersion":356}
+{"t":1794954739290,"file":"City.cpp","type":"delete","rangeStart":373,"rangeEnd":374,"text":"","textLength":0,"docVersion":357}
+{"t":1794954739540,"file":"City.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"d","textLength":1,"docVersion":358}
+{"t":1794954740121,"file":"City.cpp","type":"insert","rangeStart":374,"rangeEnd":374,"text":"o","textLength":1,"docVersion":359}
+{"t":1794954740359,"file":"City.cpp","type":"insert","rangeStart":375,"rangeEnd":375,"text":"u","textLength":1,"docVersion":360}
+{"t":1794954740580,"file":"City.cpp","type":"insert","rangeStart":376,"rangeEnd":376,"text":"b","textLength":1,"docVersion":361}
+{"t":1794954740798,"file":"City.cpp","type":"insert","rangeStart":377,"rangeEnd":377,"text":"l","textLength":1,"docVersion":362}
+{"t":1794954740900,"file":"City.cpp","type":"insert","rangeStart":378,"rangeEnd":378,"text":"e","textLength":1,"docVersion":363}
+{"t":1794954741078,"file":"City.cpp","type":"insert","rangeStart":379,"rangeEnd":379,"text":" ","textLength":1,"docVersion":364}
+{"t":1794954742024,"file":"City.cpp","type":"insert","rangeStart":380,"rangeEnd":380,"text":"d","textLength":1,"docVersion":365}
+{"t":1794954742192,"file":"City.cpp","type":"insert","rangeStart":381,"rangeEnd":381,"text":"i","textLength":1,"docVersion":366}
+{"t":1794954742293,"file":"City.cpp","type":"insert","rangeStart":382,"rangeEnd":382,"text":"s","textLength":1,"docVersion":367}
+{"t":1794954743066,"file":"City.cpp","type":"insert","rangeStart":383,"rangeEnd":383,"text":"t","textLength":1,"docVersion":368}
+{"t":1794954743228,"file":"City.cpp","type":"insert","rangeStart":384,"rangeEnd":384,"text":"a","textLength":1,"docVersion":369}
+{"t":1794954743371,"file":"City.cpp","type":"insert","rangeStart":385,"rangeEnd":385,"text":"n","textLength":1,"docVersion":370}
+{"t":1794954743651,"file":"City.cpp","type":"insert","rangeStart":386,"rangeEnd":386,"text":"c","textLength":1,"docVersion":371}
+{"t":1794954743775,"file":"City.cpp","type":"insert","rangeStart":387,"rangeEnd":387,"text":"e","textLength":1,"docVersion":372}
+{"t":1794954744248,"file":"City.cpp","type":"insert","rangeStart":388,"rangeEnd":388,"text":";","textLength":1,"docVersion":373}
+{"t":1794954745266,"file":"City.cpp","type":"file-save"}
+{"t":1794954767004,"file":"City.cpp","type":"copy-command","size":11}
+{"t":1794954768368,"file":"City.cpp","type":"paste-command","size":11}
+{"t":1794954768371,"file":"City.cpp","type":"replace","rangeStart":412,"rangeEnd":414,"text":"xCoordinate","textLength":11,"docVersion":374,"source":"paste-refactor"}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":439,"rangeEnd":439,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":438,"rangeEnd":438,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":435,"rangeEnd":435,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":434,"rangeEnd":434,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":431,"rangeEnd":431,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":428,"rangeEnd":428,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":427,"rangeEnd":427,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":424,"rangeEnd":424,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954768412,"file":"City.cpp","type":"insert","rangeStart":423,"rangeEnd":423,"text":" ","textLength":1,"docVersion":375}
+{"t":1794954769450,"file":"City.cpp","type":"file-save"}
+{"t":1794954770500,"file":"City.cpp","type":"replace","rangeStart":426,"rangeEnd":428,"text":"o","textLength":1,"docVersion":376}
+{"t":1794954770612,"file":"City.cpp","type":"insert","rangeStart":427,"rangeEnd":427,"text":"t","textLength":1,"docVersion":377}
+{"t":1794954770744,"file":"City.cpp","type":"insert","rangeStart":428,"rangeEnd":428,"text":"h","textLength":1,"docVersion":378}
+{"t":1794954770862,"file":"City.cpp","type":"insert","rangeStart":429,"rangeEnd":429,"text":"e","textLength":1,"docVersion":379}
+{"t":1794954771020,"file":"City.cpp","type":"insert","rangeStart":430,"rangeEnd":430,"text":"r","textLength":1,"docVersion":380}
+{"t":1794954771705,"file":"City.cpp","type":"insert","rangeStart":431,"rangeEnd":431,"text":".","textLength":1,"docVersion":381}
+{"t":1794954772031,"file":"City.cpp","type":"paste-command","size":11}
+{"t":1794954772039,"file":"City.cpp","type":"insert","rangeStart":432,"rangeEnd":432,"text":"xCoordinate","textLength":11,"docVersion":382,"source":"paste-refactor"}
+{"t":1794954773082,"file":"City.cpp","type":"file-save"}
+{"t":1794954783110,"file":"City.cpp","type":"paste-command","size":11}
+{"t":1794954783119,"file":"City.cpp","type":"replace","rangeStart":452,"rangeEnd":454,"text":"xCoordinate","textLength":11,"docVersion":383,"source":"paste-refactor"}
+{"t":1794954784157,"file":"City.cpp","type":"file-save"}
+{"t":1794954785053,"file":"City.cpp","type":"replace","rangeStart":452,"rangeEnd":453,"text":"y","textLength":1,"docVersion":384}
+{"t":1794954786083,"file":"City.cpp","type":"file-save"}
+{"t":1794954786354,"file":"City.cpp","type":"paste-command","size":11}
+{"t":1794954786363,"file":"City.cpp","type":"replace","rangeStart":466,"rangeEnd":468,"text":"xCoordinate","textLength":11,"docVersion":385,"source":"paste-refactor"}
+{"t":1794954787396,"file":"City.cpp","type":"file-save"}
+{"t":1794954788340,"file":"City.cpp","type":"delete","rangeStart":466,"rangeEnd":467,"text":"","textLength":0,"docVersion":386}
+{"t":1794954788778,"file":"City.cpp","type":"insert","rangeStart":466,"rangeEnd":466,"text":"o","textLength":1,"docVersion":387}
+{"t":1794954789119,"file":"City.cpp","type":"insert","rangeStart":467,"rangeEnd":467,"text":"t","textLength":1,"docVersion":388}
+{"t":1794954789268,"file":"City.cpp","type":"insert","rangeStart":468,"rangeEnd":468,"text":"h","textLength":1,"docVersion":389}
+{"t":1794954789354,"file":"City.cpp","type":"insert","rangeStart":469,"rangeEnd":469,"text":"e","textLength":1,"docVersion":390}
+{"t":1794954789486,"file":"City.cpp","type":"insert","rangeStart":470,"rangeEnd":470,"text":"r","textLength":1,"docVersion":391}
+{"t":1794954790506,"file":"City.cpp","type":"file-save"}
+{"t":1794954790768,"file":"City.cpp","type":"insert","rangeStart":471,"rangeEnd":471,"text":".","textLength":1,"docVersion":392}
+{"t":1794954791022,"file":"City.cpp","type":"insert","rangeStart":472,"rangeEnd":472,"text":"y","textLength":1,"docVersion":393}
+{"t":1794954792046,"file":"City.cpp","type":"file-save"}
+{"t":1794954810937,"file":"City.cpp","type":"insert","rangeStart":412,"rangeEnd":412,"text":"t","textLength":1,"docVersion":394}
+{"t":1794954811307,"file":"City.cpp","type":"insert","rangeStart":413,"rangeEnd":413,"text":"i","textLength":1,"docVersion":395}
+{"t":1794954811809,"file":"City.cpp","type":"delete","rangeStart":413,"rangeEnd":414,"text":"","textLength":0,"docVersion":396}
+{"t":1794954812844,"file":"City.cpp","type":"file-save"}
+{"t":1794954812883,"file":"City.cpp","type":"insert","rangeStart":413,"rangeEnd":413,"text":"h","textLength":1,"docVersion":397}
+{"t":1794954813674,"file":"City.cpp","type":"insert","rangeStart":414,"rangeEnd":414,"text":"s","textLength":1,"docVersion":398}
+{"t":1794954814686,"file":"City.cpp","type":"delete","rangeStart":414,"rangeEnd":415,"text":"","textLength":0,"docVersion":399}
+{"t":1794954814737,"file":"City.cpp","type":"file-save"}
+{"t":1794954815047,"file":"City.cpp","type":"insert","rangeStart":414,"rangeEnd":414,"text":"i","textLength":1,"docVersion":400}
+{"t":1794954815180,"file":"City.cpp","type":"insert","rangeStart":415,"rangeEnd":415,"text":"s","textLength":1,"docVersion":401}
+{"t":1794954815370,"file":"City.cpp","type":"insert","rangeStart":416,"rangeEnd":416,"text":".","textLength":1,"docVersion":402}
+{"t":1794954816385,"file":"City.cpp","type":"file-save"}
+{"t":1794954818968,"file":"City.cpp","type":"insert","rangeStart":457,"rangeEnd":457,"text":"t","textLength":1,"docVersion":403}
+{"t":1794954819112,"file":"City.cpp","type":"insert","rangeStart":458,"rangeEnd":458,"text":"h","textLength":1,"docVersion":404}
+{"t":1794954819268,"file":"City.cpp","type":"insert","rangeStart":459,"rangeEnd":459,"text":"i","textLength":1,"docVersion":405}
+{"t":1794954819411,"file":"City.cpp","type":"insert","rangeStart":460,"rangeEnd":460,"text":"s","textLength":1,"docVersion":406}
+{"t":1794954820070,"file":"City.cpp","type":"insert","rangeStart":461,"rangeEnd":461,"text":".","textLength":1,"docVersion":407}
+{"t":1794954821102,"file":"City.cpp","type":"file-save"}
+{"t":1794954826356,"file":"City.cpp","type":"window-blur"}
+{"t":1794954836204,"file":"City.cpp","type":"window-focus"}
+{"t":1794954847171,"file":"City.cpp","type":"insert","rangeStart":500,"rangeEnd":500,"text":"\r\n    ","textLength":6,"docVersion":408}
+{"t":1794954848221,"file":"City.cpp","type":"file-save"}
+{"t":1794954848505,"file":"City.cpp","type":"insert","rangeStart":506,"rangeEnd":506,"text":"r","textLength":1,"docVersion":409}
+{"t":1794954848616,"file":"City.cpp","type":"insert","rangeStart":507,"rangeEnd":507,"text":"e","textLength":1,"docVersion":410}
+{"t":1794954849651,"file":"City.cpp","type":"file-save"}
+{"t":1794954849790,"file":"City.cpp","type":"insert","rangeStart":508,"rangeEnd":508,"text":"t","textLength":1,"docVersion":411}
+{"t":1794954850279,"file":"City.cpp","type":"insert","rangeStart":509,"rangeEnd":509,"text":"u","textLength":1,"docVersion":412}
+{"t":1794954850409,"file":"City.cpp","type":"insert","rangeStart":510,"rangeEnd":510,"text":"r","textLength":1,"docVersion":413}
+{"t":1794954850547,"file":"City.cpp","type":"insert","rangeStart":511,"rangeEnd":511,"text":"n","textLength":1,"docVersion":414}
+{"t":1794954850745,"file":"City.cpp","type":"insert","rangeStart":512,"rangeEnd":512,"text":" ","textLength":1,"docVersion":415}
+{"t":1794954851359,"file":"City.cpp","type":"insert","rangeStart":513,"rangeEnd":513,"text":"d","textLength":1,"docVersion":416}
+{"t":1794954851546,"file":"City.cpp","type":"insert","rangeStart":514,"rangeEnd":514,"text":"i","textLength":1,"docVersion":417}
+{"t":1794954852589,"file":"City.cpp","type":"file-save"}
+{"t":1794954855156,"file":"City.cpp","type":"replace","rangeStart":513,"rangeEnd":515,"text":"distance","textLength":8,"docVersion":418}
+{"t":1794954855526,"file":"City.cpp","type":"insert","rangeStart":521,"rangeEnd":521,"text":"；","textLength":1,"docVersion":419}
+{"t":1794954855538,"file":"City.cpp","type":"replace","rangeStart":521,"rangeEnd":522,"text":"；","textLength":1,"docVersion":420}
+{"t":1794954856590,"file":"City.cpp","type":"file-save"}
+{"t":1794954857126,"file":"City.cpp","type":"delete","rangeStart":521,"rangeEnd":522,"text":"","textLength":0,"docVersion":421}
+{"t":1794954857527,"file":"City.cpp","type":"insert","rangeStart":521,"rangeEnd":521,"text":";","textLength":1,"docVersion":422}
+{"t":1794954858543,"file":"City.cpp","type":"file-save"}
+{"t":1794954865167,"file":"City.cpp","type":"copy-command","size":6}
+{"t":1794954866090,"file":"City.cpp","type":"paste-command","size":6}
+{"t":1794954866099,"file":"City.cpp","type":"insert","rangeStart":323,"rangeEnd":323,"text":"City::","textLength":6,"docVersion":423,"source":"paste-refactor"}
+{"t":1794954866169,"file":"City.cpp","type":"replace","rangeStart":371,"rangeEnd":372,"text":"\r\n","textLength":2,"docVersion":424}
+{"t":1794954866169,"file":"City.cpp","type":"insert","rangeStart":359,"rangeEnd":359,"text":"&","textLength":1,"docVersion":424}
+{"t":1794954866169,"file":"City.cpp","type":"delete","rangeStart":357,"rangeEnd":358,"text":"","textLength":0,"docVersion":424}
+{"t":1794954867198,"file":"City.cpp","type":"file-save"}
+{"t":1794954895240,"file":"City.cpp","type":"replace","rangeStart":423,"rangeEnd":424,"text":"-","textLength":1,"docVersion":425}
+{"t":1794954895576,"file":"City.cpp","type":"insert","rangeStart":424,"rangeEnd":424,"text":">","textLength":1,"docVersion":426}
+{"t":1794954896580,"file":"City.cpp","type":"file-save"}
+{"t":1794954900926,"file":"City.cpp","type":"delete","rangeStart":424,"rangeEnd":425,"text":"","textLength":0,"docVersion":427}
+{"t":1794954901163,"file":"City.cpp","type":"delete","rangeStart":423,"rangeEnd":424,"text":"","textLength":0,"docVersion":428}
+{"t":1794954901368,"file":"City.cpp","type":"delete","rangeStart":422,"rangeEnd":423,"text":"","textLength":0,"docVersion":429}
+{"t":1794954901550,"file":"City.cpp","type":"delete","rangeStart":421,"rangeEnd":422,"text":"","textLength":0,"docVersion":430}
+{"t":1794954901788,"file":"City.cpp","type":"delete","rangeStart":420,"rangeEnd":421,"text":"","textLength":0,"docVersion":431}
+{"t":1794954902063,"file":"City.cpp","type":"delete","rangeStart":419,"rangeEnd":420,"text":"","textLength":0,"docVersion":432}
+{"t":1794954903100,"file":"City.cpp","type":"file-save"}
+{"t":1794954903736,"file":"City.cpp","type":"delete","rangeStart":463,"rangeEnd":464,"text":"","textLength":0,"docVersion":433}
+{"t":1794954903940,"file":"City.cpp","type":"delete","rangeStart":462,"rangeEnd":463,"text":"","textLength":0,"docVersion":434}
+{"t":1794954904147,"file":"City.cpp","type":"delete","rangeStart":461,"rangeEnd":462,"text":"","textLength":0,"docVersion":435}
+{"t":1794954904373,"file":"City.cpp","type":"delete","rangeStart":460,"rangeEnd":461,"text":"","textLength":0,"docVersion":436}
+{"t":1794954904639,"file":"City.cpp","type":"delete","rangeStart":459,"rangeEnd":460,"text":"","textLength":0,"docVersion":437}
+{"t":1794954905662,"file":"City.cpp","type":"file-save"}
+{"t":1794954907436,"file":"City.cpp","type":"delete","rangeStart":454,"rangeEnd":455,"text":"","textLength":0,"docVersion":438}
+{"t":1794954907654,"file":"City.cpp","type":"delete","rangeStart":453,"rangeEnd":454,"text":"","textLength":0,"docVersion":439}
+{"t":1794954907838,"file":"City.cpp","type":"delete","rangeStart":452,"rangeEnd":453,"text":"","textLength":0,"docVersion":440}
+{"t":1794954908138,"file":"City.cpp","type":"delete","rangeStart":451,"rangeEnd":452,"text":"","textLength":0,"docVersion":441}
+{"t":1794954909250,"file":"City.cpp","type":"file-save"}
+{"t":1794954915172,"file":"City.cpp","type":"insert","rangeStart":451,"rangeEnd":451,"text":"*","textLength":1,"docVersion":442}
+{"t":1794954916219,"file":"City.cpp","type":"file-save"}
+{"t":1794954918110,"file":"City.cpp","type":"copy-command","size":33}
+{"t":1794954919341,"file":"City.cpp","type":"paste-command","size":33}
+{"t":1794954919345,"file":"City.cpp","type":"insert","rangeStart":452,"rangeEnd":452,"text":"(xCoordinate - other.xCoordinate)","textLength":33,"docVersion":443,"source":"paste-refactor"}
+{"t":1794954919392,"file":"City.cpp","type":"insert","rangeStart":452,"rangeEnd":452,"text":" ","textLength":1,"docVersion":444}
+{"t":1794954919392,"file":"City.cpp","type":"insert","rangeStart":451,"rangeEnd":451,"text":" ","textLength":1,"docVersion":444}
+{"t":1794954920439,"file":"City.cpp","type":"file-save"}
+{"t":1794954922434,"file":"City.cpp","type":"delete","rangeStart":526,"rangeEnd":527,"text":"","textLength":0,"docVersion":445}
+{"t":1794954922614,"file":"City.cpp","type":"delete","rangeStart":525,"rangeEnd":526,"text":"","textLength":0,"docVersion":446}
+{"t":1794954922824,"file":"City.cpp","type":"delete","rangeStart":524,"rangeEnd":525,"text":"","textLength":0,"docVersion":447}
+{"t":1794954923091,"file":"City.cpp","type":"delete","rangeStart":523,"rangeEnd":524,"text":"","textLength":0,"docVersion":448}
+{"t":1794954924116,"file":"City.cpp","type":"file-save"}
+{"t":1794954924173,"file":"City.cpp","type":"insert","rangeStart":523,"rangeEnd":523,"text":"*","textLength":1,"docVersion":449}
+{"t":1794954925202,"file":"City.cpp","type":"file-save"}
+{"t":1794954928656,"file":"City.cpp","type":"copy-command","size":33}
+{"t":1794954929645,"file":"City.cpp","type":"paste-command","size":33}
+{"t":1794954929655,"file":"City.cpp","type":"insert","rangeStart":524,"rangeEnd":524,"text":"(yCoordinate - other.yCoordinate)","textLength":33,"docVersion":450,"source":"paste-refactor"}
+{"t":1794954929717,"file":"City.cpp","type":"insert","rangeStart":524,"rangeEnd":524,"text":" ","textLength":1,"docVersion":451}
+{"t":1794954929717,"file":"City.cpp","type":"insert","rangeStart":523,"rangeEnd":523,"text":" ","textLength":1,"docVersion":451}
+{"t":1794954930753,"file":"City.cpp","type":"file-save"}
+{"t":1794954933448,"file":"City.cpp","type":"window-blur"}
+{"t":1794954971572,"file":"City.cpp","type":"window-blur"}
+{"t":1794955105752,"file":"City.cpp","type":"window-blur"}
+{"t":1794955105762,"file":"City.cpp","type":"window-focus"}
