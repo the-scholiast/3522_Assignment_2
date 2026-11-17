@@ -13,5 +13,5 @@ public:
     double getX() const;
     double getY() const;
     // Distance between this city vs the other city. Check the slides for formula.
-    double calculateDistance(const City& other);
+    double calculateDistance(const City& other) const;
 };
