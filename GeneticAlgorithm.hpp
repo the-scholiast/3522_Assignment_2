@@ -20,8 +20,8 @@ public:
     Tour crossover(const Tour& tour1, const Tour& tour2);
     void mutate(Tour& tour);
     void createNewPopulation();
-    void evaluateNewPopulation(); // Checks if the new pop contains a better Tour
+    bool evaluateNewPopulation(); // Checks if the new pop contains a better Tour
     bool metTarget() const; // Checks it the new best tour has reached the target of 1.2 (baseTour/bestTour)
-    void printProgress() const; // Prints current iteration, base and best fittness, and improvment ratio of new pop
+    void printProgress(bool) const; // Prints current iteration, base and best fittness, and improvment ratio of new pop
     void printResults() const; // Prints initial and best tour and fittness, # of iterations, improvement ratio, if target reached,  
 };

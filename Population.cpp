@@ -43,7 +43,7 @@ size_t Population::getBestIndex() const
     return smallestFitness;
 }
 
-const Tour &Population::getBestFitness() const // Find the tour with the lowest fitness
+const Tour& Population::getBestFitness() const // Find the tour with the lowest fitness
 {
     return tours[getBestIndex()];
 }
@@ -55,8 +55,21 @@ void Population::moveBestTourToFront(){
 void Population::replaceTours(vector<Tour> &newTours){
     tours = newTours;
 }
+
 const Tour& Population::getRandomTour() const{
     static std::mt19937 rng(std::random_device{}()); //generate seed
     std::uniform_int_distribution<size_t> dist(0, tours.size() -1); //get the random index
     return tours[dist(rng)];
+}
+
+const Tour& Population::getBestNonElite() {
+    Tour& bestNonEliteTour = tours[1];
+
+    for (int i = 2; i < tours.size(); i++) {
+        if (tours[i].getFitness() < bestNonEliteTour.getFitness()) {
+            bestNonEliteTour = tours[i];
+        }
+    }
+
+    return bestNonEliteTour;
 }

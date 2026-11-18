@@ -19,4 +19,5 @@ public:
     int getPopSize() const;
     const Tour& getRandomTour() const;
     void moveBestTourToFront(); // Move fittest tour to index[0] of tours
+    const Tour& getBestNonElite();
 };
