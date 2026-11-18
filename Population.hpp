@@ -3,12 +3,14 @@
 #pragma once
 using namespace std;
 
-class Population {
+class Population { 
     vector<Tour> tours;
 
     void generateTours(vector<City>& cities, int popSize); // Use shuffle on cities to generate popSize number of tours
 
 public:
+    static const int POPULATION_SIZE = 30;  
+    
     Population(vector<City>& cities, int popSize); // Use generateTours in here
     const vector<City>& getTours() const;
     const Tour& getBestFitness() const; // Find the tour with the lowest fitness

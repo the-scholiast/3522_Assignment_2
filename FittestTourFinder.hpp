@@ -5,6 +5,10 @@ class City;
 using namespace std;
 
 class FittestTourFinder {
+    static const int CITY_COUNT = 20;
+    static const int MIN_COORDINATE = 0;
+    static const int MAX_COORDINATE = 1000;
+
     vector<City> cities;
     Population* population;
     GeneticAlgorithm* algorithm;

@@ -3,6 +3,11 @@
 using namespace std;
 
 class GeneticAlgorithm {
+    static const int RANDOM_SIZE = 5;
+    static const double MUTATION_RATE = 0.15;
+    static const double TARGET_RATIO = 1.2;
+    static const int MAX_ITERATIONS = 1000;
+
     Population& population;
     Tour baseTour;
     Tour bestTour;

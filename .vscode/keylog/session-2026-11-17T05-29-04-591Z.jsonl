@@ -1,0 +1,1182 @@
+{"t":1794893344592,"file":"","type":"session-start"}
+{"t":1794893344940,"file":"FittestTourFinder.hpp","type":"file-open"}
+{"t":1794893345011,"file":"City.hpp","type":"file-preexisting","size":403}
+{"t":1794893345011,"file":".coderewind-record","type":"file-preexisting","size":0}
+{"t":1794893345011,"file":".~lock.README.md#","type":"file-preexisting","size":113}
+{"t":1794893345011,"file":"Population.hpp","type":"file-preexisting","size":639}
+{"t":1794893345011,"file":".coderewindignore","type":"file-preexisting","size":10}
+{"t":1794893345011,"file":"GeneticAlgorithm.hpp","type":"file-preexisting","size":939}
+{"t":1794893345011,"file":"Tour.hpp","type":"file-preexisting","size":606}
+{"t":1794893345011,"file":"FittestTourFinder.hpp","type":"file-preexisting","size":551}
+{"t":1794893346863,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"\n    ","textLength":5,"docVersion":2}
+{"t":1794893347051,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"\n    ","textLength":5,"docVersion":3}
+{"t":1794893347051,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":120,"rangeEnd":124,"text":"","textLength":0,"docVersion":3}
+{"t":1794893348071,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893348322,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":121,"rangeEnd":125,"text":"","textLength":0,"docVersion":4}
+{"t":1794893348322,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"    ","textLength":4,"docVersion":4}
+{"t":1794893348950,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893349338,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893350286,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893351247,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893353082,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893353631,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"s","textLength":1,"docVersion":5}
+{"t":1794893353761,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"t","textLength":1,"docVersion":6}
+{"t":1794893353892,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":"a","textLength":1,"docVersion":7}
+{"t":1794893354017,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"t","textLength":1,"docVersion":8}
+{"t":1794893354137,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"i","textLength":1,"docVersion":9}
+{"t":1794893354334,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"c","textLength":1,"docVersion":10}
+{"t":1794893354451,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":" ","textLength":1,"docVersion":11}
+{"t":1794893354950,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"c","textLength":1,"docVersion":12}
+{"t":1794893355064,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":"o","textLength":1,"docVersion":13}
+{"t":1794893355224,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":"n","textLength":1,"docVersion":14}
+{"t":1794893355327,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":134,"rangeEnd":134,"text":"s","textLength":1,"docVersion":15}
+{"t":1794893355407,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":"t","textLength":1,"docVersion":16}
+{"t":1794893355557,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":" ","textLength":1,"docVersion":17}
+{"t":1794893355942,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893356573,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893356919,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893357366,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"i","textLength":1,"docVersion":18}
+{"t":1794893357526,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":138,"rangeEnd":138,"text":"n","textLength":1,"docVersion":19}
+{"t":1794893357630,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":"t","textLength":1,"docVersion":20}
+{"t":1794893357754,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":140,"rangeEnd":140,"text":" ","textLength":1,"docVersion":21}
+{"t":1794893358028,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":141,"rangeEnd":141,"text":"C","textLength":1,"docVersion":22}
+{"t":1794893358224,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":142,"rangeEnd":142,"text":"I","textLength":1,"docVersion":23}
+{"t":1794893358899,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":143,"rangeEnd":143,"text":"T","textLength":1,"docVersion":24}
+{"t":1794893359089,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":144,"rangeEnd":144,"text":"Y","textLength":1,"docVersion":25}
+{"t":1794893359565,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":145,"rangeEnd":145,"text":"_","textLength":1,"docVersion":26}
+{"t":1794893360127,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893360580,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893360719,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893360941,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":"C","textLength":1,"docVersion":27}
+{"t":1794893361045,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":147,"rangeEnd":147,"text":"O","textLength":1,"docVersion":28}
+{"t":1794893361217,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":148,"rangeEnd":148,"text":"U","textLength":1,"docVersion":29}
+{"t":1794893361385,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":"N","textLength":1,"docVersion":30}
+{"t":1794893361489,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":150,"rangeEnd":150,"text":"T","textLength":1,"docVersion":31}
+{"t":1794893361748,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":151,"rangeEnd":151,"text":" ","textLength":1,"docVersion":32}
+{"t":1794893362054,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":152,"rangeEnd":152,"text":"=","textLength":1,"docVersion":33}
+{"t":1794893362173,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":153,"rangeEnd":153,"text":" ","textLength":1,"docVersion":34}
+{"t":1794893362509,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":154,"rangeEnd":154,"text":"2","textLength":1,"docVersion":35}
+{"t":1794893362890,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":155,"rangeEnd":155,"text":"0","textLength":1,"docVersion":36}
+{"t":1794893363340,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":156,"rangeEnd":156,"text":";","textLength":1,"docVersion":37}
+{"t":1794893364362,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893365743,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":157,"rangeEnd":157,"text":"\n    ","textLength":5,"docVersion":38}
+{"t":1794893366763,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893367031,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893367576,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893367895,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"S","textLength":1,"docVersion":39}
+{"t":1794893368037,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":"T","textLength":1,"docVersion":40}
+{"t":1794893368162,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":"A","textLength":1,"docVersion":41}
+{"t":1794893368265,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":165,"rangeEnd":165,"text":"T","textLength":1,"docVersion":42}
+{"t":1794893368429,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":166,"rangeEnd":166,"text":"I","textLength":1,"docVersion":43}
+{"t":1794893368785,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":166,"rangeEnd":167,"text":"","textLength":0,"docVersion":44}
+{"t":1794893368958,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":165,"rangeEnd":166,"text":"","textLength":0,"docVersion":45}
+{"t":1794893369121,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":164,"rangeEnd":165,"text":"","textLength":0,"docVersion":46}
+{"t":1794893369282,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":163,"rangeEnd":164,"text":"","textLength":0,"docVersion":47}
+{"t":1794893369448,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":162,"rangeEnd":163,"text":"","textLength":0,"docVersion":48}
+{"t":1794893369867,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"s","textLength":1,"docVersion":49}
+{"t":1794893370006,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":"t","textLength":1,"docVersion":50}
+{"t":1794893370145,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":"a","textLength":1,"docVersion":51}
+{"t":1794893370277,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":165,"rangeEnd":165,"text":"t","textLength":1,"docVersion":52}
+{"t":1794893370423,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":166,"rangeEnd":166,"text":"i","textLength":1,"docVersion":53}
+{"t":1794893370606,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":167,"rangeEnd":167,"text":"c","textLength":1,"docVersion":54}
+{"t":1794893370722,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":168,"rangeEnd":168,"text":" ","textLength":1,"docVersion":55}
+{"t":1794893370903,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"c","textLength":1,"docVersion":56}
+{"t":1794893371025,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"o","textLength":1,"docVersion":57}
+{"t":1794893371161,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":171,"rangeEnd":171,"text":"n","textLength":1,"docVersion":58}
+{"t":1794893371274,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"s","textLength":1,"docVersion":59}
+{"t":1794893371371,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":173,"rangeEnd":173,"text":"t","textLength":1,"docVersion":60}
+{"t":1794893371514,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":" ","textLength":1,"docVersion":61}
+{"t":1794893371725,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":175,"rangeEnd":175,"text":"i","textLength":1,"docVersion":62}
+{"t":1794893371871,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":176,"rangeEnd":176,"text":"n","textLength":1,"docVersion":63}
+{"t":1794893371992,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":"t","textLength":1,"docVersion":64}
+{"t":1794893372179,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":" ","textLength":1,"docVersion":65}
+{"t":1794893372784,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893373195,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893373445,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893373688,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":179,"rangeEnd":179,"text":"M","textLength":1,"docVersion":66}
+{"t":1794893373869,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":"I","textLength":1,"docVersion":67}
+{"t":1794893374013,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"N","textLength":1,"docVersion":68}
+{"t":1794893374411,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"_","textLength":1,"docVersion":69}
+{"t":1794893374646,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":"C","textLength":1,"docVersion":70}
+{"t":1794893374838,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"O","textLength":1,"docVersion":71}
+{"t":1794893374990,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"O","textLength":1,"docVersion":72}
+{"t":1794893375138,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"R","textLength":1,"docVersion":73}
+{"t":1794893375353,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"D","textLength":1,"docVersion":74}
+{"t":1794893375435,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"I","textLength":1,"docVersion":75}
+{"t":1794893375572,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"N","textLength":1,"docVersion":76}
+{"t":1794893375666,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"A","textLength":1,"docVersion":77}
+{"t":1794893375751,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":"T","textLength":1,"docVersion":78}
+{"t":1794893375848,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"E","textLength":1,"docVersion":79}
+{"t":1794893376044,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":" ","textLength":1,"docVersion":80}
+{"t":1794893376239,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"=","textLength":1,"docVersion":81}
+{"t":1794893376343,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":" ","textLength":1,"docVersion":82}
+{"t":1794893376562,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"0","textLength":1,"docVersion":83}
+{"t":1794893376972,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":";","textLength":1,"docVersion":84}
+{"t":1794893377987,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893378215,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"\n    ","textLength":5,"docVersion":85}
+{"t":1794893378929,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"s","textLength":1,"docVersion":86}
+{"t":1794893379047,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"t","textLength":1,"docVersion":87}
+{"t":1794893379179,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"a","textLength":1,"docVersion":88}
+{"t":1794893379555,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"t","textLength":1,"docVersion":89}
+{"t":1794893379737,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"i","textLength":1,"docVersion":90}
+{"t":1794893379948,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":"c","textLength":1,"docVersion":91}
+{"t":1794893380064,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":" ","textLength":1,"docVersion":92}
+{"t":1794893380226,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"c","textLength":1,"docVersion":93}
+{"t":1794893380346,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":"o","textLength":1,"docVersion":94}
+{"t":1794893380505,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"n","textLength":1,"docVersion":95}
+{"t":1794893380608,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"s","textLength":1,"docVersion":96}
+{"t":1794893380715,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":214,"rangeEnd":214,"text":"t","textLength":1,"docVersion":97}
+{"t":1794893381293,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":215,"rangeEnd":215,"text":" ","textLength":1,"docVersion":98}
+{"t":1794893381643,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":"i","textLength":1,"docVersion":99}
+{"t":1794893381794,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":217,"rangeEnd":217,"text":"n","textLength":1,"docVersion":100}
+{"t":1794893381890,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":"t","textLength":1,"docVersion":101}
+{"t":1794893382034,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":" ","textLength":1,"docVersion":102}
+{"t":1794893382912,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"M","textLength":1,"docVersion":103}
+{"t":1794893383015,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":"A","textLength":1,"docVersion":104}
+{"t":1794893383140,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"X","textLength":1,"docVersion":105}
+{"t":1794893383430,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":223,"rangeEnd":223,"text":"_","textLength":1,"docVersion":106}
+{"t":1794893383609,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":224,"rangeEnd":224,"text":"C","textLength":1,"docVersion":107}
+{"t":1794893383770,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":225,"rangeEnd":225,"text":"O","textLength":1,"docVersion":108}
+{"t":1794893383918,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":226,"rangeEnd":226,"text":"O","textLength":1,"docVersion":109}
+{"t":1794893384012,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"R","textLength":1,"docVersion":110}
+{"t":1794893384251,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"D","textLength":1,"docVersion":111}
+{"t":1794893384370,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":229,"rangeEnd":229,"text":"I","textLength":1,"docVersion":112}
+{"t":1794893384503,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":230,"rangeEnd":230,"text":"N","textLength":1,"docVersion":113}
+{"t":1794893384613,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":"A","textLength":1,"docVersion":114}
+{"t":1794893384711,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":"T","textLength":1,"docVersion":115}
+{"t":1794893384832,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"E","textLength":1,"docVersion":116}
+{"t":1794893385081,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":" ","textLength":1,"docVersion":117}
+{"t":1794893385916,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"=","textLength":1,"docVersion":118}
+{"t":1794893386216,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":236,"rangeEnd":236,"text":" ","textLength":1,"docVersion":119}
+{"t":1794893386605,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":237,"rangeEnd":237,"text":"0","textLength":1,"docVersion":120}
+{"t":1794893387056,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":";","textLength":1,"docVersion":121}
+{"t":1794893388079,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893388539,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":237,"rangeEnd":237,"text":"1","textLength":1,"docVersion":122}
+{"t":1794893389420,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":"0","textLength":1,"docVersion":123}
+{"t":1794893389589,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"0","textLength":1,"docVersion":124}
+{"t":1794893390611,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1794893394135,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794893402132,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794893403826,"file":"Population.hpp","type":"file-open"}
+{"t":1794893405635,"file":"Population.hpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"\n    ","textLength":5,"docVersion":2}
+{"t":1794893406212,"file":"Population.hpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"s","textLength":1,"docVersion":3}
+{"t":1794893406280,"file":"Population.hpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"t","textLength":1,"docVersion":4}
+{"t":1794893406677,"file":"Population.hpp","type":"delete","rangeStart":97,"rangeEnd":98,"text":"","textLength":0,"docVersion":5}
+{"t":1794893406858,"file":"Population.hpp","type":"delete","rangeStart":96,"rangeEnd":97,"text":"","textLength":0,"docVersion":6}
+{"t":1794893407201,"file":"Population.hpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"\n    ","textLength":5,"docVersion":7}
+{"t":1794893408209,"file":"Population.hpp","type":"file-save"}
+{"t":1794893408702,"file":"Population.hpp","type":"delete","rangeStart":97,"rangeEnd":101,"text":"","textLength":0,"docVersion":8}
+{"t":1794893409724,"file":"Population.hpp","type":"file-save"}
+{"t":1794893410011,"file":"Population.hpp","type":"insert","rangeStart":92,"rangeEnd":92,"text":"    ","textLength":4,"docVersion":9}
+{"t":1794893410620,"file":"Population.hpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"s","textLength":1,"docVersion":10}
+{"t":1794893410877,"file":"Population.hpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"t","textLength":1,"docVersion":11}
+{"t":1794893411027,"file":"Population.hpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"a","textLength":1,"docVersion":12}
+{"t":1794893411138,"file":"Population.hpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"t","textLength":1,"docVersion":13}
+{"t":1794893411287,"file":"Population.hpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"i","textLength":1,"docVersion":14}
+{"t":1794893411460,"file":"Population.hpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"c","textLength":1,"docVersion":15}
+{"t":1794893411576,"file":"Population.hpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":" ","textLength":1,"docVersion":16}
+{"t":1794893411678,"file":"Population.hpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"c","textLength":1,"docVersion":17}
+{"t":1794893411822,"file":"Population.hpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"o","textLength":1,"docVersion":18}
+{"t":1794893411956,"file":"Population.hpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"n","textLength":1,"docVersion":19}
+{"t":1794893412067,"file":"Population.hpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"s","textLength":1,"docVersion":20}
+{"t":1794893412148,"file":"Population.hpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"t","textLength":1,"docVersion":21}
+{"t":1794893412309,"file":"Population.hpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":" ","textLength":1,"docVersion":22}
+{"t":1794893412701,"file":"Population.hpp","type":"window-blur"}
+{"t":1794893413326,"file":"Population.hpp","type":"file-save"}
+{"t":1794893414398,"file":"Population.hpp","type":"window-focus"}
+{"t":1794893414825,"file":"Population.hpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"i","textLength":1,"docVersion":23}
+{"t":1794893414980,"file":"Population.hpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"n","textLength":1,"docVersion":24}
+{"t":1794893415107,"file":"Population.hpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"t","textLength":1,"docVersion":25}
+{"t":1794893415255,"file":"Population.hpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":" ","textLength":1,"docVersion":26}
+{"t":1794893415928,"file":"Population.hpp","type":"window-blur"}
+{"t":1794893416272,"file":"Population.hpp","type":"file-save"}
+{"t":1794893416480,"file":"Population.hpp","type":"window-focus"}
+{"t":1794893416653,"file":"Population.hpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"p","textLength":1,"docVersion":27}
+{"t":1794893416790,"file":"Population.hpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"o","textLength":1,"docVersion":28}
+{"t":1794893416902,"file":"Population.hpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"p","textLength":1,"docVersion":29}
+{"t":1794893417188,"file":"Population.hpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"u","textLength":1,"docVersion":30}
+{"t":1794893417541,"file":"Population.hpp","type":"delete","rangeStart":116,"rangeEnd":117,"text":"","textLength":0,"docVersion":31}
+{"t":1794893417713,"file":"Population.hpp","type":"delete","rangeStart":115,"rangeEnd":116,"text":"","textLength":0,"docVersion":32}
+{"t":1794893417872,"file":"Population.hpp","type":"delete","rangeStart":114,"rangeEnd":115,"text":"","textLength":0,"docVersion":33}
+{"t":1794893418355,"file":"Population.hpp","type":"delete","rangeStart":113,"rangeEnd":114,"text":"","textLength":0,"docVersion":34}
+{"t":1794893418860,"file":"Population.hpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"P","textLength":1,"docVersion":35}
+{"t":1794893419075,"file":"Population.hpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"O","textLength":1,"docVersion":36}
+{"t":1794893419209,"file":"Population.hpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"P","textLength":1,"docVersion":37}
+{"t":1794893419439,"file":"Population.hpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"U","textLength":1,"docVersion":38}
+{"t":1794893419595,"file":"Population.hpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"L","textLength":1,"docVersion":39}
+{"t":1794893419714,"file":"Population.hpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"A","textLength":1,"docVersion":40}
+{"t":1794893419804,"file":"Population.hpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"T","textLength":1,"docVersion":41}
+{"t":1794893419905,"file":"Population.hpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":"I","textLength":1,"docVersion":42}
+{"t":1794893419976,"file":"Population.hpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"O","textLength":1,"docVersion":43}
+{"t":1794893420135,"file":"Population.hpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":"N","textLength":1,"docVersion":44}
+{"t":1794893420478,"file":"Population.hpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"_","textLength":1,"docVersion":45}
+{"t":1794893420657,"file":"Population.hpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"S","textLength":1,"docVersion":46}
+{"t":1794893420908,"file":"Population.hpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"I","textLength":1,"docVersion":47}
+{"t":1794893421017,"file":"Population.hpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":"Z","textLength":1,"docVersion":48}
+{"t":1794893421168,"file":"Population.hpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"E","textLength":1,"docVersion":49}
+{"t":1794893421335,"file":"Population.hpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":" ","textLength":1,"docVersion":50}
+{"t":1794893421622,"file":"Population.hpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"=","textLength":1,"docVersion":51}
+{"t":1794893422120,"file":"Population.hpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":" ","textLength":1,"docVersion":52}
+{"t":1794893422580,"file":"Population.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"2","textLength":1,"docVersion":53}
+{"t":1794893422715,"file":"Population.hpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":"0","textLength":1,"docVersion":54}
+{"t":1794893423245,"file":"Population.hpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":";","textLength":1,"docVersion":55}
+{"t":1794893423593,"file":"Population.hpp","type":"window-blur"}
+{"t":1794893424052,"file":"Population.hpp","type":"window-focus"}
+{"t":1794893424251,"file":"Population.hpp","type":"file-save"}
+{"t":1794893425851,"file":"Population.hpp","type":"delete","rangeStart":131,"rangeEnd":132,"text":"","textLength":0,"docVersion":56}
+{"t":1794893425979,"file":"Population.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"3","textLength":1,"docVersion":57}
+{"t":1794893426993,"file":"Population.hpp","type":"file-save"}
+{"t":1794893429230,"file":"Population.hpp","type":"window-blur"}
+{"t":1794893450285,"file":"Population.hpp","type":"window-focus"}
+{"t":1794893453417,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"\n    ","textLength":5,"docVersion":2}
+{"t":1794893453577,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":"\n    ","textLength":5,"docVersion":3}
+{"t":1794893453577,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":86,"rangeEnd":90,"text":"","textLength":0,"docVersion":3}
+{"t":1794893454573,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":87,"rangeEnd":91,"text":"","textLength":0,"docVersion":4}
+{"t":1794893454573,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"    ","textLength":4,"docVersion":4}
+{"t":1794893454967,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893455587,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893463261,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893464083,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":"s","textLength":1,"docVersion":5}
+{"t":1794893464310,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"t","textLength":1,"docVersion":6}
+{"t":1794893464459,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":92,"rangeEnd":92,"text":"a","textLength":1,"docVersion":7}
+{"t":1794893464565,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":"t","textLength":1,"docVersion":8}
+{"t":1794893464731,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":94,"rangeEnd":94,"text":"i","textLength":1,"docVersion":9}
+{"t":1794893464942,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"c","textLength":1,"docVersion":10}
+{"t":1794893465061,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":" ","textLength":1,"docVersion":11}
+{"t":1794893465191,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"c","textLength":1,"docVersion":12}
+{"t":1794893465338,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"o","textLength":1,"docVersion":13}
+{"t":1794893465792,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"n","textLength":1,"docVersion":14}
+{"t":1794893465968,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"s","textLength":1,"docVersion":15}
+{"t":1794893466075,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"t","textLength":1,"docVersion":16}
+{"t":1794893466409,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":" ","textLength":1,"docVersion":17}
+{"t":1794893466726,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893467391,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893467431,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893467655,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"i","textLength":1,"docVersion":18}
+{"t":1794893467811,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"n","textLength":1,"docVersion":19}
+{"t":1794893467915,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"t","textLength":1,"docVersion":20}
+{"t":1794893468087,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":" ","textLength":1,"docVersion":21}
+{"t":1794893468662,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"R","textLength":1,"docVersion":22}
+{"t":1794893468795,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":"A","textLength":1,"docVersion":23}
+{"t":1794893468937,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"N","textLength":1,"docVersion":24}
+{"t":1794893469097,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"D","textLength":1,"docVersion":25}
+{"t":1794893469193,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"O","textLength":1,"docVersion":26}
+{"t":1794893469338,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"M","textLength":1,"docVersion":27}
+{"t":1794893469819,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"_","textLength":1,"docVersion":28}
+{"t":1794893470823,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"S","textLength":1,"docVersion":29}
+{"t":1794893470844,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893470992,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"I","textLength":1,"docVersion":30}
+{"t":1794893471085,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"Z","textLength":1,"docVersion":31}
+{"t":1794893471242,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"E","textLength":1,"docVersion":32}
+{"t":1794893471970,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":" ","textLength":1,"docVersion":33}
+{"t":1794893472236,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"=","textLength":1,"docVersion":34}
+{"t":1794893472481,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":" ","textLength":1,"docVersion":35}
+{"t":1794893472849,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"5","textLength":1,"docVersion":36}
+{"t":1794893473162,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":";","textLength":1,"docVersion":37}
+{"t":1794893474170,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893475480,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"\n    ","textLength":5,"docVersion":38}
+{"t":1794893476291,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893476494,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893481145,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893482347,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"s","textLength":1,"docVersion":39}
+{"t":1794893482547,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":"t","textLength":1,"docVersion":40}
+{"t":1794893482669,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":130,"rangeEnd":130,"text":"a","textLength":1,"docVersion":41}
+{"t":1794893482790,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"t","textLength":1,"docVersion":42}
+{"t":1794893482929,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":132,"rangeEnd":132,"text":"i","textLength":1,"docVersion":43}
+{"t":1794893483181,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":133,"rangeEnd":133,"text":"c","textLength":1,"docVersion":44}
+{"t":1794893483280,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":134,"rangeEnd":134,"text":" ","textLength":1,"docVersion":45}
+{"t":1794893483383,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":"c","textLength":1,"docVersion":46}
+{"t":1794893483512,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":136,"rangeEnd":136,"text":"o","textLength":1,"docVersion":47}
+{"t":1794893483668,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"n","textLength":1,"docVersion":48}
+{"t":1794893483780,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":138,"rangeEnd":138,"text":"s","textLength":1,"docVersion":49}
+{"t":1794893483859,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":"t","textLength":1,"docVersion":50}
+{"t":1794893483982,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":140,"rangeEnd":140,"text":" ","textLength":1,"docVersion":51}
+{"t":1794893484159,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":141,"rangeEnd":141,"text":"d","textLength":1,"docVersion":52}
+{"t":1794893484268,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":142,"rangeEnd":142,"text":"o","textLength":1,"docVersion":53}
+{"t":1794893484443,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":143,"rangeEnd":143,"text":"u","textLength":1,"docVersion":54}
+{"t":1794893484587,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":144,"rangeEnd":144,"text":"b","textLength":1,"docVersion":55}
+{"t":1794893484704,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":145,"rangeEnd":145,"text":"l","textLength":1,"docVersion":56}
+{"t":1794893484833,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":"e","textLength":1,"docVersion":57}
+{"t":1794893484952,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":147,"rangeEnd":147,"text":" ","textLength":1,"docVersion":58}
+{"t":1794893485343,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893485967,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893485991,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893486563,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":148,"rangeEnd":148,"text":"M","textLength":1,"docVersion":59}
+{"t":1794893486966,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":"U","textLength":1,"docVersion":60}
+{"t":1794893487081,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":150,"rangeEnd":150,"text":"T","textLength":1,"docVersion":61}
+{"t":1794893487211,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":151,"rangeEnd":151,"text":"A","textLength":1,"docVersion":62}
+{"t":1794893487309,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":152,"rangeEnd":152,"text":"T","textLength":1,"docVersion":63}
+{"t":1794893487500,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":153,"rangeEnd":153,"text":"I","textLength":1,"docVersion":64}
+{"t":1794893487576,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":154,"rangeEnd":154,"text":"O","textLength":1,"docVersion":65}
+{"t":1794893488227,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":155,"rangeEnd":155,"text":"N","textLength":1,"docVersion":66}
+{"t":1794893489114,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":156,"rangeEnd":156,"text":"_","textLength":1,"docVersion":67}
+{"t":1794893490135,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893492113,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893492540,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893493073,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893494248,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893494841,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":157,"rangeEnd":157,"text":"R","textLength":1,"docVersion":68}
+{"t":1794893495008,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":158,"rangeEnd":158,"text":"A","textLength":1,"docVersion":69}
+{"t":1794893495148,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":159,"rangeEnd":159,"text":"T","textLength":1,"docVersion":70}
+{"t":1794893495298,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":160,"rangeEnd":160,"text":"E","textLength":1,"docVersion":71}
+{"t":1794893495525,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":161,"rangeEnd":161,"text":" ","textLength":1,"docVersion":72}
+{"t":1794893495821,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":162,"rangeEnd":162,"text":"=","textLength":1,"docVersion":73}
+{"t":1794893495980,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":163,"rangeEnd":163,"text":" ","textLength":1,"docVersion":74}
+{"t":1794893496864,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":".","textLength":1,"docVersion":75}
+{"t":1794893497148,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":165,"rangeEnd":165,"text":"1","textLength":1,"docVersion":76}
+{"t":1794893497289,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":166,"rangeEnd":166,"text":"5","textLength":1,"docVersion":77}
+{"t":1794893497580,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":167,"rangeEnd":167,"text":";","textLength":1,"docVersion":78}
+{"t":1794893498586,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893499637,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":168,"rangeEnd":168,"text":"\n    ","textLength":5,"docVersion":79}
+{"t":1794893500651,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893502588,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":169,"rangeEnd":173,"text":"","textLength":0,"docVersion":80}
+{"t":1794893502588,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":164,"rangeEnd":164,"text":"0","textLength":1,"docVersion":80}
+{"t":1794893503607,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893504813,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":169,"rangeEnd":170,"text":"","textLength":0,"docVersion":81}
+{"t":1794893505411,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"\n    ","textLength":5,"docVersion":82}
+{"t":1794893506260,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893506417,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893508428,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893509042,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":"s","textLength":1,"docVersion":83}
+{"t":1794893509263,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":175,"rangeEnd":175,"text":"t","textLength":1,"docVersion":84}
+{"t":1794893509403,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":176,"rangeEnd":176,"text":"a","textLength":1,"docVersion":85}
+{"t":1794893509500,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":"t","textLength":1,"docVersion":86}
+{"t":1794893509712,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":"i","textLength":1,"docVersion":87}
+{"t":1794893509887,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":179,"rangeEnd":179,"text":"c","textLength":1,"docVersion":88}
+{"t":1794893510016,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":" ","textLength":1,"docVersion":89}
+{"t":1794893510140,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"c","textLength":1,"docVersion":90}
+{"t":1794893510249,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"o","textLength":1,"docVersion":91}
+{"t":1794893510420,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":"n","textLength":1,"docVersion":92}
+{"t":1794893510572,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"s","textLength":1,"docVersion":93}
+{"t":1794893510734,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"t","textLength":1,"docVersion":94}
+{"t":1794893510980,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":" ","textLength":1,"docVersion":95}
+{"t":1794893511298,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"d","textLength":1,"docVersion":96}
+{"t":1794893511399,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"o","textLength":1,"docVersion":97}
+{"t":1794893511560,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"u","textLength":1,"docVersion":98}
+{"t":1794893511703,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"b","textLength":1,"docVersion":99}
+{"t":1794893511818,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":"l","textLength":1,"docVersion":100}
+{"t":1794893511957,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"e","textLength":1,"docVersion":101}
+{"t":1794893512056,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":" ","textLength":1,"docVersion":102}
+{"t":1794893512450,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893513070,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893513408,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893514512,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"T","textLength":1,"docVersion":103}
+{"t":1794893514659,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":"A","textLength":1,"docVersion":104}
+{"t":1794893514792,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"R","textLength":1,"docVersion":105}
+{"t":1794893515103,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"G","textLength":1,"docVersion":106}
+{"t":1794893515262,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"E","textLength":1,"docVersion":107}
+{"t":1794893515331,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":199,"rangeEnd":199,"text":"T","textLength":1,"docVersion":108}
+{"t":1794893516277,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":" ","textLength":1,"docVersion":109}
+{"t":1794893517220,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"=","textLength":1,"docVersion":110}
+{"t":1794893517769,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":" ","textLength":1,"docVersion":111}
+{"t":1794893518784,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893518891,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"1","textLength":1,"docVersion":112}
+{"t":1794893519374,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":203,"rangeEnd":204,"text":"","textLength":0,"docVersion":113}
+{"t":1794893519542,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":202,"rangeEnd":203,"text":"","textLength":0,"docVersion":114}
+{"t":1794893519708,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":201,"rangeEnd":202,"text":"","textLength":0,"docVersion":115}
+{"t":1794893519919,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":200,"rangeEnd":201,"text":"","textLength":0,"docVersion":116}
+{"t":1794893520930,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893521584,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":"_","textLength":1,"docVersion":117}
+{"t":1794893522596,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893524267,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"R","textLength":1,"docVersion":118}
+{"t":1794893524470,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":"A","textLength":1,"docVersion":119}
+{"t":1794893524639,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"T","textLength":1,"docVersion":120}
+{"t":1794893524763,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"I","textLength":1,"docVersion":121}
+{"t":1794893524883,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"O","textLength":1,"docVersion":122}
+{"t":1794893525182,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":" ","textLength":1,"docVersion":123}
+{"t":1794893525533,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"=","textLength":1,"docVersion":124}
+{"t":1794893525970,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":" ","textLength":1,"docVersion":125}
+{"t":1794893526988,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893527158,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":"1","textLength":1,"docVersion":126}
+{"t":1794893527310,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":".","textLength":1,"docVersion":127}
+{"t":1794893527448,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":"2","textLength":1,"docVersion":128}
+{"t":1794893527890,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":";","textLength":1,"docVersion":129}
+{"t":1794893528506,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"\n    ","textLength":5,"docVersion":130}
+{"t":1794893528911,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893529522,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893529657,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893530320,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":"s","textLength":1,"docVersion":131}
+{"t":1794893530477,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"t","textLength":1,"docVersion":132}
+{"t":1794893530590,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"a","textLength":1,"docVersion":133}
+{"t":1794893530668,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":"t","textLength":1,"docVersion":134}
+{"t":1794893530832,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"i","textLength":1,"docVersion":135}
+{"t":1794893531062,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":223,"rangeEnd":223,"text":"c","textLength":1,"docVersion":136}
+{"t":1794893531218,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":224,"rangeEnd":224,"text":" ","textLength":1,"docVersion":137}
+{"t":1794893531559,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893532092,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893532238,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893532339,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":225,"rangeEnd":225,"text":"c","textLength":1,"docVersion":138}
+{"t":1794893532541,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":226,"rangeEnd":226,"text":"o","textLength":1,"docVersion":139}
+{"t":1794893532713,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"n","textLength":1,"docVersion":140}
+{"t":1794893532842,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"s","textLength":1,"docVersion":141}
+{"t":1794893532948,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":229,"rangeEnd":229,"text":"t","textLength":1,"docVersion":142}
+{"t":1794893533099,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":230,"rangeEnd":230,"text":" ","textLength":1,"docVersion":143}
+{"t":1794893533300,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":"i","textLength":1,"docVersion":144}
+{"t":1794893533445,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":"n","textLength":1,"docVersion":145}
+{"t":1794893533557,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"t","textLength":1,"docVersion":146}
+{"t":1794893533704,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":" ","textLength":1,"docVersion":147}
+{"t":1794893534029,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893534722,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893534796,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893535341,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"M","textLength":1,"docVersion":148}
+{"t":1794893535457,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":236,"rangeEnd":236,"text":"A","textLength":1,"docVersion":149}
+{"t":1794893535632,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":237,"rangeEnd":237,"text":"X","textLength":1,"docVersion":150}
+{"t":1794893536547,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":238,"rangeEnd":238,"text":"_","textLength":1,"docVersion":151}
+{"t":1794893536912,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"I","textLength":1,"docVersion":152}
+{"t":1794893537064,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":240,"rangeEnd":240,"text":"N","textLength":1,"docVersion":153}
+{"t":1794893537097,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":241,"rangeEnd":241,"text":"T","textLength":1,"docVersion":154}
+{"t":1794893537247,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":242,"rangeEnd":242,"text":"E","textLength":1,"docVersion":155}
+{"t":1794893537317,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":243,"rangeEnd":243,"text":"R","textLength":1,"docVersion":156}
+{"t":1794893537473,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":244,"rangeEnd":244,"text":"A","textLength":1,"docVersion":157}
+{"t":1794893537577,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":245,"rangeEnd":245,"text":"T","textLength":1,"docVersion":158}
+{"t":1794893537650,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":246,"rangeEnd":246,"text":"I","textLength":1,"docVersion":159}
+{"t":1794893537779,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":"O","textLength":1,"docVersion":160}
+{"t":1794893537915,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":248,"rangeEnd":248,"text":"N","textLength":1,"docVersion":161}
+{"t":1794893538144,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":249,"rangeEnd":249,"text":"S","textLength":1,"docVersion":162}
+{"t":1794893538496,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":250,"rangeEnd":250,"text":" ","textLength":1,"docVersion":163}
+{"t":1794893538690,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"=","textLength":1,"docVersion":164}
+{"t":1794893538807,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":" ","textLength":1,"docVersion":165}
+{"t":1794893538998,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":"1","textLength":1,"docVersion":166}
+{"t":1794893539159,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":"0","textLength":1,"docVersion":167}
+{"t":1794893539327,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":"0","textLength":1,"docVersion":168}
+{"t":1794893539492,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":"0","textLength":1,"docVersion":169}
+{"t":1794893540342,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":";","textLength":1,"docVersion":170}
+{"t":1794893541358,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794893543974,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893569187,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893571420,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893593553,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794893792845,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893793534,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794893798847,"file":"main.cpp","type":"file-open"}
+{"t":1794893798899,"file":"main.cpp","type":"file-created","size":0}
+{"t":1794893801332,"file":"main.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"\n","textLength":1,"docVersion":2}
+{"t":1794893802348,"file":"main.cpp","type":"file-save"}
+{"t":1794893807269,"file":"main.cpp","type":"window-blur"}
+{"t":1794893822709,"file":"main.cpp","type":"window-focus"}
+{"t":1794893823852,"file":"main.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":3}
+{"t":1794893824020,"file":"main.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":4}
+{"t":1794893824115,"file":"main.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"t","textLength":1,"docVersion":5}
+{"t":1794893824226,"file":"main.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":" ","textLength":1,"docVersion":6}
+{"t":1794893824397,"file":"main.cpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"m","textLength":1,"docVersion":7}
+{"t":1794893824564,"file":"main.cpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"a","textLength":1,"docVersion":8}
+{"t":1794893824679,"file":"main.cpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":"i","textLength":1,"docVersion":9}
+{"t":1794893824838,"file":"main.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":"n","textLength":1,"docVersion":10}
+{"t":1794893825042,"file":"main.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":" ","textLength":1,"docVersion":11}
+{"t":1794893825364,"file":"main.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"()","textLength":2,"docVersion":12}
+{"t":1794893825477,"file":"main.cpp","type":"replace","rangeStart":11,"rangeEnd":12,"text":")","textLength":1,"docVersion":13}
+{"t":1794893826323,"file":"main.cpp","type":"delete","rangeStart":11,"rangeEnd":12,"text":"","textLength":0,"docVersion":14}
+{"t":1794893826495,"file":"main.cpp","type":"delete","rangeStart":10,"rangeEnd":11,"text":"","textLength":0,"docVersion":15}
+{"t":1794893826763,"file":"main.cpp","type":"delete","rangeStart":9,"rangeEnd":10,"text":"","textLength":0,"docVersion":16}
+{"t":1794893827221,"file":"main.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"()","textLength":2,"docVersion":17}
+{"t":1794893827316,"file":"main.cpp","type":"replace","rangeStart":10,"rangeEnd":11,"text":")","textLength":1,"docVersion":18}
+{"t":1794893827522,"file":"main.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":" ","textLength":1,"docVersion":19}
+{"t":1794893827817,"file":"main.cpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"{}","textLength":2,"docVersion":20}
+{"t":1794893828044,"file":"main.cpp","type":"insert","rangeStart":13,"rangeEnd":13,"text":"\n    \n","textLength":6,"docVersion":21}
+{"t":1794893829060,"file":"main.cpp","type":"file-save"}
+{"t":1794893830448,"file":"main.cpp","type":"delete","rangeStart":14,"rangeEnd":18,"text":"","textLength":0,"docVersion":22}
+{"t":1794893830448,"file":"main.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"\n","textLength":1,"docVersion":22}
+{"t":1794893830644,"file":"main.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"\n","textLength":1,"docVersion":23}
+{"t":1794893831660,"file":"main.cpp","type":"file-save"}
+{"t":1794893831665,"file":"main.cpp","type":"window-blur"}
+{"t":1794893834478,"file":"main.cpp","type":"window-focus"}
+{"t":1794893835505,"file":"main.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":24}
+{"t":1794893835942,"file":"main.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":25}
+{"t":1794893836087,"file":"main.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":26}
+{"t":1794893836240,"file":"main.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"c","textLength":1,"docVersion":27}
+{"t":1794893836352,"file":"main.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"l","textLength":1,"docVersion":28}
+{"t":1794893836575,"file":"main.cpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"u","textLength":1,"docVersion":29}
+{"t":1794893837280,"file":"main.cpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"d","textLength":1,"docVersion":30}
+{"t":1794893837393,"file":"main.cpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":"e","textLength":1,"docVersion":31}
+{"t":1794893838410,"file":"main.cpp","type":"file-save"}
+{"t":1794893838676,"file":"main.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":" ","textLength":1,"docVersion":32}
+{"t":1794893838935,"file":"main.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"F","textLength":1,"docVersion":33}
+{"t":1794893839153,"file":"main.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"i","textLength":1,"docVersion":34}
+{"t":1794893839829,"file":"main.cpp","type":"delete","rangeStart":10,"rangeEnd":11,"text":"","textLength":0,"docVersion":35}
+{"t":1794893840008,"file":"main.cpp","type":"delete","rangeStart":9,"rangeEnd":10,"text":"","textLength":0,"docVersion":36}
+{"t":1794893840539,"file":"main.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"\"\"","textLength":2,"docVersion":37}
+{"t":1794893841023,"file":"main.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"F","textLength":1,"docVersion":38}
+{"t":1794893841299,"file":"main.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"i","textLength":1,"docVersion":39}
+{"t":1794893841922,"file":"main.cpp","type":"replace","rangeStart":10,"rangeEnd":12,"text":"FittestTourFinder.hpp","textLength":21,"docVersion":40}
+{"t":1794893842943,"file":"main.cpp","type":"file-save"}
+{"t":1794893844092,"file":"main.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"\n","textLength":1,"docVersion":41}
+{"t":1794893844755,"file":"main.cpp","type":"window-blur"}
+{"t":1794893845107,"file":"main.cpp","type":"file-save"}
+{"t":1794893849043,"file":"main.cpp","type":"window-focus"}
+{"t":1794893849678,"file":"main.cpp","type":"paste-command","size":35}
+{"t":1794893849684,"file":"main.cpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"#include <ctime>\n#include <cstdlib>","textLength":35,"docVersion":42,"source":"paste-external"}
+{"t":1794893850700,"file":"main.cpp","type":"file-save"}
+{"t":1794893851776,"file":"main.cpp","type":"window-blur"}
+{"t":1794893856097,"file":"main.cpp","type":"window-focus"}
+{"t":1794893857582,"file":"main.cpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"\n    ","textLength":5,"docVersion":43}
+{"t":1794893857917,"file":"main.cpp","type":"paste-command","size":15}
+{"t":1794893857921,"file":"main.cpp","type":"insert","rangeStart":88,"rangeEnd":88,"text":"srand(time(0));","textLength":15,"docVersion":44,"source":"paste-external"}
+{"t":1794893858939,"file":"main.cpp","type":"file-save"}
+{"t":1794893953535,"file":"main.cpp","type":"window-focus"}
+{"t":1794894000494,"file":"main.cpp","type":"window-focus"}
+{"t":1794894017057,"file":"GeneticAlgorithm.cpp","type":"file-open"}
+{"t":1794894017152,"file":"GeneticAlgorithm.cpp","type":"file-created","size":0}
+{"t":1794894019534,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":2}
+{"t":1794894020113,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":3}
+{"t":1794894020261,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":4}
+{"t":1794894020403,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"c","textLength":1,"docVersion":5}
+{"t":1794894020501,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"l","textLength":1,"docVersion":6}
+{"t":1794894020689,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":5,"rangeEnd":5,"text":"u","textLength":1,"docVersion":7}
+{"t":1794894020817,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":6,"rangeEnd":6,"text":"d","textLength":1,"docVersion":8}
+{"t":1794894020904,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":7,"rangeEnd":7,"text":"e","textLength":1,"docVersion":9}
+{"t":1794894021065,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":" ","textLength":1,"docVersion":10}
+{"t":1794894022117,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894025805,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"\"\"","textLength":2,"docVersion":11}
+{"t":1794894026245,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"G","textLength":1,"docVersion":12}
+{"t":1794894026954,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":10,"rangeEnd":11,"text":"GeneticAlgorithm.hpp","textLength":20,"docVersion":13}
+{"t":1794894027972,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894028378,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"\n","textLength":1,"docVersion":14}
+{"t":1794894028638,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"\n","textLength":1,"docVersion":15}
+{"t":1794894029655,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894079481,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894080563,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894089388,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":33,"rangeEnd":33,"text":"G","textLength":1,"docVersion":16}
+{"t":1794894090405,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894090482,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":33,"rangeEnd":34,"text":"GeneticAlgorithm","textLength":16,"docVersion":17}
+{"t":1794894091117,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":49,"rangeEnd":49,"text":":","textLength":1,"docVersion":18}
+{"t":1794894091275,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":":","textLength":1,"docVersion":19}
+{"t":1794894092295,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894093165,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":51,"rangeEnd":51,"text":"G","textLength":1,"docVersion":20}
+{"t":1794894093964,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":51,"rangeEnd":52,"text":"GeneticAlgorithm","textLength":16,"docVersion":21}
+{"t":1794894094950,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":67,"rangeEnd":67,"text":"()","textLength":2,"docVersion":22}
+{"t":1794894095967,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894100135,"file":"GeneticAlgorithm.hpp","type":"copy-command","size":16}
+{"t":1794894101181,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":16}
+{"t":1794894101188,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":68,"rangeEnd":68,"text":"Population& pop)","textLength":16,"docVersion":23,"source":"paste-refactor"}
+{"t":1794894102206,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894104246,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":83,"rangeEnd":84,"text":"","textLength":0,"docVersion":24}
+{"t":1794894105265,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894106063,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":" ","textLength":1,"docVersion":25}
+{"t":1794894107084,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894109430,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":":","textLength":1,"docVersion":26}
+{"t":1794894110448,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894111469,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"\n","textLength":1,"docVersion":27}
+{"t":1794894112487,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894114785,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"    ","textLength":4,"docVersion":28}
+{"t":1794894115808,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894115950,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":88,"rangeEnd":89,"text":"","textLength":0,"docVersion":29}
+{"t":1794894116168,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":87,"rangeEnd":88,"text":"","textLength":0,"docVersion":30}
+{"t":1794894116362,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":86,"rangeEnd":87,"text":"","textLength":0,"docVersion":31}
+{"t":1794894116696,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":85,"rangeEnd":86,"text":"","textLength":0,"docVersion":32}
+{"t":1794894117053,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":84,"rangeEnd":85,"text":"","textLength":0,"docVersion":33}
+{"t":1794894117628,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":84,"rangeEnd":84,"text":"\n","textLength":1,"docVersion":34}
+{"t":1794894118255,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"    ","textLength":4,"docVersion":35}
+{"t":1794894119274,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894120878,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":" ","textLength":1,"docVersion":36}
+{"t":1794894121899,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894124783,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"()","textLength":2,"docVersion":37}
+{"t":1794894125802,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894129425,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":92,"rangeEnd":92,"text":"p","textLength":1,"docVersion":38}
+{"t":1794894129617,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":"o","textLength":1,"docVersion":39}
+{"t":1794894129740,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":94,"rangeEnd":94,"text":"p","textLength":1,"docVersion":40}
+{"t":1794894130571,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"u","textLength":1,"docVersion":41}
+{"t":1794894130750,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"l","textLength":1,"docVersion":42}
+{"t":1794894130868,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"a","textLength":1,"docVersion":43}
+{"t":1794894131010,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"t","textLength":1,"docVersion":44}
+{"t":1794894131126,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"i","textLength":1,"docVersion":45}
+{"t":1794894131230,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"o","textLength":1,"docVersion":46}
+{"t":1794894131382,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":"n","textLength":1,"docVersion":47}
+{"t":1794894131630,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":" ","textLength":1,"docVersion":48}
+{"t":1794894132372,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"=","textLength":1,"docVersion":49}
+{"t":1794894132567,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":" ","textLength":1,"docVersion":50}
+{"t":1794894133030,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"p","textLength":1,"docVersion":51}
+{"t":1794894133144,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"o","textLength":1,"docVersion":52}
+{"t":1794894133248,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"p","textLength":1,"docVersion":53}
+{"t":1794894134258,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894137388,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":" ","textLength":1,"docVersion":54}
+{"t":1794894137830,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"{}","textLength":2,"docVersion":55}
+{"t":1794894137924,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":111,"rangeEnd":112,"text":"}","textLength":1,"docVersion":56}
+{"t":1794894138943,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894147303,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894186296,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894201695,"file":"GeneticAlgorithm.cpp","type":"copy-command","size":11}
+{"t":1794894203213,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":11}
+{"t":1794894203219,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":92,"rangeEnd":92,"text":"Population&","textLength":11,"docVersion":57,"source":"paste-refactor"}
+{"t":1794894204156,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":" ","textLength":1,"docVersion":58}
+{"t":1794894205179,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894212829,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":91,"rangeEnd":92,"text":"","textLength":0,"docVersion":59}
+{"t":1794894213851,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894215031,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":119,"rangeEnd":120,"text":"","textLength":0,"docVersion":60}
+{"t":1794894216054,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894220671,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":91,"rangeEnd":102,"text":"","textLength":0,"docVersion":61}
+{"t":1794894221687,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894221836,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":91,"rangeEnd":92,"text":"","textLength":0,"docVersion":62}
+{"t":1794894222854,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894229288,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894230300,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894233205,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894251571,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894253508,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":103,"rangeEnd":104,"text":"","textLength":0,"docVersion":63}
+{"t":1794894253669,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":102,"rangeEnd":103,"text":"","textLength":0,"docVersion":64}
+{"t":1794894254368,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":"(","textLength":1,"docVersion":65}
+{"t":1794894255374,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894256396,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":")","textLength":1,"docVersion":66}
+{"t":1794894257415,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894260195,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894267969,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894277154,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":",","textLength":1,"docVersion":67}
+{"t":1794894277375,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":" ","textLength":1,"docVersion":68}
+{"t":1794894278395,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894282406,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"T","textLength":1,"docVersion":69}
+{"t":1794894283319,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":109,"rangeEnd":110,"text":"","textLength":0,"docVersion":70}
+{"t":1794894283641,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"b","textLength":1,"docVersion":71}
+{"t":1794894283815,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"a","textLength":1,"docVersion":72}
+{"t":1794894284068,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"s","textLength":1,"docVersion":73}
+{"t":1794894284204,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"e","textLength":1,"docVersion":74}
+{"t":1794894284625,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"T","textLength":1,"docVersion":75}
+{"t":1794894284844,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"o","textLength":1,"docVersion":76}
+{"t":1794894285096,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"u","textLength":1,"docVersion":77}
+{"t":1794894285260,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"r","textLength":1,"docVersion":78}
+{"t":1794894286276,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894286597,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":" ","textLength":1,"docVersion":79}
+{"t":1794894286856,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"()","textLength":2,"docVersion":80}
+{"t":1794894287872,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894290232,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":101,"rangeEnd":102,"text":"","textLength":0,"docVersion":81}
+{"t":1794894291248,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894293138,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":116,"rangeEnd":117,"text":"","textLength":0,"docVersion":82}
+{"t":1794894294154,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894305201,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"p","textLength":1,"docVersion":83}
+{"t":1794894305347,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"o","textLength":1,"docVersion":84}
+{"t":1794894305468,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"p","textLength":1,"docVersion":85}
+{"t":1794894306070,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":120,"rangeEnd":120,"text":".","textLength":1,"docVersion":86}
+{"t":1794894307035,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":121,"rangeEnd":121,"text":"getBestFitness","textLength":14,"docVersion":87}
+{"t":1794894308053,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894308875,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":135,"rangeEnd":135,"text":"()","textLength":2,"docVersion":88}
+{"t":1794894308977,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":136,"rangeEnd":137,"text":")","textLength":1,"docVersion":89}
+{"t":1794894309996,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894318646,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":138,"rangeEnd":138,"text":",","textLength":1,"docVersion":90}
+{"t":1794894319665,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894319667,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":" ","textLength":1,"docVersion":91}
+{"t":1794894320686,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894325485,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":140,"rangeEnd":141,"text":"","textLength":0,"docVersion":92}
+{"t":1794894325695,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":139,"rangeEnd":140,"text":"","textLength":0,"docVersion":93}
+{"t":1794894326104,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":139,"rangeEnd":139,"text":" ","textLength":1,"docVersion":94}
+{"t":1794894327109,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894328443,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":140,"rangeEnd":140,"text":"b","textLength":1,"docVersion":95}
+{"t":1794894328786,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":141,"rangeEnd":141,"text":"e","textLength":1,"docVersion":96}
+{"t":1794894329286,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":142,"rangeEnd":142,"text":"s","textLength":1,"docVersion":97}
+{"t":1794894330004,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":140,"rangeEnd":143,"text":"bestTour","textLength":8,"docVersion":98}
+{"t":1794894331018,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894332925,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":148,"rangeEnd":148,"text":"(","textLength":1,"docVersion":99}
+{"t":1794894333746,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":")","textLength":1,"docVersion":100}
+{"t":1794894334764,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894340804,"file":"GeneticAlgorithm.cpp","type":"copy-command","size":20}
+{"t":1794894342424,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":20}
+{"t":1794894342429,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":149,"rangeEnd":149,"text":"pop.getBestFitness()","textLength":20,"docVersion":101,"source":"paste-refactor"}
+{"t":1794894343443,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894349487,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":" ","textLength":1,"docVersion":102}
+{"t":1794894350506,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894351966,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"\n        \n    ","textLength":14,"docVersion":103}
+{"t":1794894352985,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894360208,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"i","textLength":1,"docVersion":104}
+{"t":1794894360360,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"n","textLength":1,"docVersion":105}
+{"t":1794894360467,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":"t","textLength":1,"docVersion":106}
+{"t":1794894360670,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"e","textLength":1,"docVersion":107}
+{"t":1794894360753,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"r","textLength":1,"docVersion":108}
+{"t":1794894361292,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"a","textLength":1,"docVersion":109}
+{"t":1794894361372,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"t","textLength":1,"docVersion":110}
+{"t":1794894361484,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"i","textLength":1,"docVersion":111}
+{"t":1794894361615,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"o","textLength":1,"docVersion":112}
+{"t":1794894361734,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"n","textLength":1,"docVersion":113}
+{"t":1794894361923,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":" ","textLength":1,"docVersion":114}
+{"t":1794894362195,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"=","textLength":1,"docVersion":115}
+{"t":1794894362297,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":" ","textLength":1,"docVersion":116}
+{"t":1794894362504,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"0","textLength":1,"docVersion":117}
+{"t":1794894363017,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":";","textLength":1,"docVersion":118}
+{"t":1794894364034,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894366886,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":181,"rangeEnd":191,"text":"i","textLength":1,"docVersion":119}
+{"t":1794894367461,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"t","textLength":1,"docVersion":120}
+{"t":1794894367649,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":"e","textLength":1,"docVersion":121}
+{"t":1794894367738,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"r","textLength":1,"docVersion":122}
+{"t":1794894367908,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"a","textLength":1,"docVersion":123}
+{"t":1794894368015,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"t","textLength":1,"docVersion":124}
+{"t":1794894368135,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"i","textLength":1,"docVersion":125}
+{"t":1794894368251,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"o","textLength":1,"docVersion":126}
+{"t":1794894368345,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"n","textLength":1,"docVersion":127}
+{"t":1794894369360,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894371056,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":"\n    ","textLength":5,"docVersion":128}
+{"t":1794894372069,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894372107,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":203,"rangeEnd":207,"text":"","textLength":0,"docVersion":129}
+{"t":1794894373124,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894399320,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"c","textLength":1,"docVersion":130}
+{"t":1794894399781,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"o","textLength":1,"docVersion":131}
+{"t":1794894399958,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"n","textLength":1,"docVersion":132}
+{"t":1794894400076,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"s","textLength":1,"docVersion":133}
+{"t":1794894400174,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"t","textLength":1,"docVersion":134}
+{"t":1794894400331,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":" ","textLength":1,"docVersion":135}
+{"t":1794894401013,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":"T","textLength":1,"docVersion":136}
+{"t":1794894401171,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"o","textLength":1,"docVersion":137}
+{"t":1794894401377,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":"u","textLength":1,"docVersion":138}
+{"t":1794894401552,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"r","textLength":1,"docVersion":139}
+{"t":1794894402200,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"&","textLength":1,"docVersion":140}
+{"t":1794894403207,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894404107,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":214,"rangeEnd":214,"text":" ","textLength":1,"docVersion":141}
+{"t":1794894404764,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":215,"rangeEnd":215,"text":"G","textLength":1,"docVersion":142}
+{"t":1794894405042,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":"e","textLength":1,"docVersion":143}
+{"t":1794894405173,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":217,"rangeEnd":217,"text":"n","textLength":1,"docVersion":144}
+{"t":1794894405775,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":215,"rangeEnd":218,"text":"GeneticAlgorithm","textLength":16,"docVersion":145}
+{"t":1794894406279,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":":","textLength":1,"docVersion":146}
+{"t":1794894406455,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":232,"rangeEnd":232,"text":":","textLength":1,"docVersion":147}
+{"t":1794894407478,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894408099,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":233,"rangeEnd":233,"text":"r","textLength":1,"docVersion":148}
+{"t":1794894408222,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":234,"rangeEnd":234,"text":"a","textLength":1,"docVersion":149}
+{"t":1794894408368,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":235,"rangeEnd":235,"text":"n","textLength":1,"docVersion":150}
+{"t":1794894408945,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":233,"rangeEnd":236,"text":"randomBestTour","textLength":14,"docVersion":151}
+{"t":1794894409961,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894410306,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":"()","textLength":2,"docVersion":152}
+{"t":1794894410391,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":248,"rangeEnd":249,"text":")","textLength":1,"docVersion":153}
+{"t":1794894410806,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":249,"rangeEnd":249,"text":" ","textLength":1,"docVersion":154}
+{"t":1794894411063,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":250,"rangeEnd":250,"text":"c","textLength":1,"docVersion":155}
+{"t":1794894411171,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"o","textLength":1,"docVersion":156}
+{"t":1794894411344,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"n","textLength":1,"docVersion":157}
+{"t":1794894411464,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":"s","textLength":1,"docVersion":158}
+{"t":1794894411621,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":"t","textLength":1,"docVersion":159}
+{"t":1794894411935,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":" ","textLength":1,"docVersion":160}
+{"t":1794894412355,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":"{}","textLength":2,"docVersion":161}
+{"t":1794894412581,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":"\n    \n","textLength":6,"docVersion":162}
+{"t":1794894413596,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894444960,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894450103,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894470689,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894498970,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894556826,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894559601,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894560325,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":258,"rangeEnd":262,"text":"","textLength":0,"docVersion":163}
+{"t":1794894560325,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":31,"rangeEnd":31,"text":"\n","textLength":1,"docVersion":163}
+{"t":1794894560593,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":18}
+{"t":1794894560597,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":32,"rangeEnd":32,"text":"#include <cstdlib>","textLength":18,"docVersion":164,"source":"paste-external"}
+{"t":1794894561614,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894564034,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"\n","textLength":1,"docVersion":165}
+{"t":1794894565050,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894567185,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":50,"rangeEnd":51,"text":"","textLength":0,"docVersion":166}
+{"t":1794894568201,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894573011,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":276,"rangeEnd":277,"text":"","textLength":0,"docVersion":167}
+{"t":1794894573557,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":276,"rangeEnd":276,"text":"\n    ","textLength":5,"docVersion":168}
+{"t":1794894574571,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894576205,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894582947,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894608784,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":281,"rangeEnd":281,"text":"T","textLength":1,"docVersion":169}
+{"t":1794894608996,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":282,"rangeEnd":282,"text":"o","textLength":1,"docVersion":170}
+{"t":1794894609537,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":283,"rangeEnd":283,"text":"u","textLength":1,"docVersion":171}
+{"t":1794894609671,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":284,"rangeEnd":284,"text":"r","textLength":1,"docVersion":172}
+{"t":1794894610688,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894610690,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":285,"rangeEnd":285,"text":" ","textLength":1,"docVersion":173}
+{"t":1794894611710,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894612722,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":286,"rangeEnd":286,"text":"f","textLength":1,"docVersion":174}
+{"t":1794894612985,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":287,"rangeEnd":287,"text":"i","textLength":1,"docVersion":175}
+{"t":1794894613144,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":288,"rangeEnd":288,"text":"t","textLength":1,"docVersion":176}
+{"t":1794894613299,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":289,"rangeEnd":289,"text":"t","textLength":1,"docVersion":177}
+{"t":1794894613413,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":290,"rangeEnd":290,"text":"e","textLength":1,"docVersion":178}
+{"t":1794894613553,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":291,"rangeEnd":291,"text":"s","textLength":1,"docVersion":179}
+{"t":1794894613665,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":292,"rangeEnd":292,"text":"t","textLength":1,"docVersion":180}
+{"t":1794894614108,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":293,"rangeEnd":293,"text":"T","textLength":1,"docVersion":181}
+{"t":1794894614334,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":294,"rangeEnd":294,"text":"o","textLength":1,"docVersion":182}
+{"t":1794894614830,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"u","textLength":1,"docVersion":183}
+{"t":1794894614969,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"r","textLength":1,"docVersion":184}
+{"t":1794894615988,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894616959,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":" ","textLength":1,"docVersion":185}
+{"t":1794894617222,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"=","textLength":1,"docVersion":186}
+{"t":1794894617384,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":" ","textLength":1,"docVersion":187}
+{"t":1794894617987,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":299,"rangeEnd":300,"text":"","textLength":0,"docVersion":188}
+{"t":1794894618156,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":298,"rangeEnd":299,"text":"","textLength":0,"docVersion":189}
+{"t":1794894618336,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":297,"rangeEnd":298,"text":"","textLength":0,"docVersion":190}
+{"t":1794894619249,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":";","textLength":1,"docVersion":191}
+{"t":1794894620267,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894629866,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":297,"rangeEnd":298,"text":"","textLength":0,"docVersion":192}
+{"t":1794894630827,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":" ","textLength":1,"docVersion":193}
+{"t":1794894631447,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"=","textLength":1,"docVersion":194}
+{"t":1794894631642,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":" ","textLength":1,"docVersion":195}
+{"t":1794894631893,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":300,"rangeEnd":300,"text":"n","textLength":1,"docVersion":196}
+{"t":1794894632111,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":301,"rangeEnd":301,"text":"u","textLength":1,"docVersion":197}
+{"t":1794894632312,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":302,"rangeEnd":302,"text":"l","textLength":1,"docVersion":198}
+{"t":1794894632468,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":303,"rangeEnd":303,"text":"l","textLength":1,"docVersion":199}
+{"t":1794894633000,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":300,"rangeEnd":304,"text":"nullptr","textLength":7,"docVersion":200}
+{"t":1794894633560,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":307,"rangeEnd":307,"text":";","textLength":1,"docVersion":201}
+{"t":1794894634577,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894635743,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":307,"rangeEnd":308,"text":"","textLength":0,"docVersion":202}
+{"t":1794894636432,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":306,"rangeEnd":307,"text":"","textLength":0,"docVersion":203}
+{"t":1794894636613,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":305,"rangeEnd":306,"text":"","textLength":0,"docVersion":204}
+{"t":1794894636805,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":304,"rangeEnd":305,"text":"","textLength":0,"docVersion":205}
+{"t":1794894636991,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":303,"rangeEnd":304,"text":"","textLength":0,"docVersion":206}
+{"t":1794894637176,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":302,"rangeEnd":303,"text":"","textLength":0,"docVersion":207}
+{"t":1794894637375,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":301,"rangeEnd":302,"text":"","textLength":0,"docVersion":208}
+{"t":1794894637570,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":300,"rangeEnd":301,"text":"","textLength":0,"docVersion":209}
+{"t":1794894638087,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":299,"rangeEnd":300,"text":"","textLength":0,"docVersion":210}
+{"t":1794894639103,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894639341,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":298,"rangeEnd":299,"text":"","textLength":0,"docVersion":211}
+{"t":1794894639696,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":297,"rangeEnd":298,"text":"","textLength":0,"docVersion":212}
+{"t":1794894640715,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894656017,"file":"Tour.hpp","type":"file-open"}
+{"t":1794894671306,"file":"Tour.hpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"\n    ","textLength":5,"docVersion":2}
+{"t":1794894671840,"file":"Tour.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"T","textLength":1,"docVersion":3}
+{"t":1794894672203,"file":"Tour.hpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"o","textLength":1,"docVersion":4}
+{"t":1794894672659,"file":"Tour.hpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"u","textLength":1,"docVersion":5}
+{"t":1794894672764,"file":"Tour.hpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"r","textLength":1,"docVersion":6}
+{"t":1794894673778,"file":"Tour.hpp","type":"file-save"}
+{"t":1794894673821,"file":"Tour.hpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"()","textLength":2,"docVersion":7}
+{"t":1794894673914,"file":"Tour.hpp","type":"replace","rangeStart":208,"rangeEnd":209,"text":")","textLength":1,"docVersion":8}
+{"t":1794894674588,"file":"Tour.hpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":";","textLength":1,"docVersion":9}
+{"t":1794894675602,"file":"Tour.hpp","type":"file-save"}
+{"t":1794894684473,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":";","textLength":1,"docVersion":213}
+{"t":1794894685495,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894721098,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"\n    ","textLength":5,"docVersion":214}
+{"t":1794894721908,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":303,"rangeEnd":303,"text":"\n    ","textLength":5,"docVersion":215}
+{"t":1794894721908,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":299,"rangeEnd":303,"text":"","textLength":0,"docVersion":215}
+{"t":1794894722925,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894736488,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":304,"rangeEnd":304,"text":"f","textLength":1,"docVersion":216}
+{"t":1794894736974,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":305,"rangeEnd":305,"text":"o","textLength":1,"docVersion":217}
+{"t":1794894737148,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":306,"rangeEnd":306,"text":"r","textLength":1,"docVersion":218}
+{"t":1794894738154,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894743127,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":307,"rangeEnd":307,"text":" ","textLength":1,"docVersion":219}
+{"t":1794894743732,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":308,"rangeEnd":308,"text":"()","textLength":2,"docVersion":220}
+{"t":1794894744363,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":309,"rangeEnd":309,"text":"i","textLength":1,"docVersion":221}
+{"t":1794894744539,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":310,"rangeEnd":310,"text":"n","textLength":1,"docVersion":222}
+{"t":1794894745028,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":311,"rangeEnd":311,"text":"t","textLength":1,"docVersion":223}
+{"t":1794894745155,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":312,"rangeEnd":312,"text":" ","textLength":1,"docVersion":224}
+{"t":1794894745343,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":313,"rangeEnd":313,"text":"i","textLength":1,"docVersion":225}
+{"t":1794894745559,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":314,"rangeEnd":314,"text":" ","textLength":1,"docVersion":226}
+{"t":1794894745798,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":315,"rangeEnd":315,"text":"=","textLength":1,"docVersion":227}
+{"t":1794894745949,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":316,"rangeEnd":316,"text":" ","textLength":1,"docVersion":228}
+{"t":1794894746407,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":316,"rangeEnd":317,"text":"","textLength":0,"docVersion":229}
+{"t":1794894746686,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":316,"rangeEnd":316,"text":" ","textLength":1,"docVersion":230}
+{"t":1794894746894,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":317,"rangeEnd":317,"text":"0","textLength":1,"docVersion":231}
+{"t":1794894747331,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":318,"rangeEnd":318,"text":";","textLength":1,"docVersion":232}
+{"t":1794894748351,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894752123,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":319,"rangeEnd":319,"text":" ","textLength":1,"docVersion":233}
+{"t":1794894753140,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894755217,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":320,"rangeEnd":320,"text":"i","textLength":1,"docVersion":234}
+{"t":1794894755368,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":321,"rangeEnd":321,"text":" ","textLength":1,"docVersion":235}
+{"t":1794894755785,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":322,"rangeEnd":322,"text":"<","textLength":1,"docVersion":236}
+{"t":1794894756062,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":323,"rangeEnd":323,"text":" ","textLength":1,"docVersion":237}
+{"t":1794894756781,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":324,"rangeEnd":324,"text":"R","textLength":1,"docVersion":238}
+{"t":1794894757235,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":325,"rangeEnd":325,"text":"A","textLength":1,"docVersion":239}
+{"t":1794894758250,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894758566,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":324,"rangeEnd":326,"text":"RANDOM_SIZE","textLength":11,"docVersion":240}
+{"t":1794894759486,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":335,"rangeEnd":335,"text":";","textLength":1,"docVersion":241}
+{"t":1794894759653,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":336,"rangeEnd":336,"text":" ","textLength":1,"docVersion":242}
+{"t":1794894760475,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":337,"rangeEnd":337,"text":"i","textLength":1,"docVersion":243}
+{"t":1794894760826,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":338,"rangeEnd":338,"text":"+","textLength":1,"docVersion":244}
+{"t":1794894760986,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":339,"rangeEnd":339,"text":"+","textLength":1,"docVersion":245}
+{"t":1794894761796,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":340,"rangeEnd":341,"text":")","textLength":1,"docVersion":246}
+{"t":1794894762058,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":341,"rangeEnd":341,"text":" ","textLength":1,"docVersion":247}
+{"t":1794894762352,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":342,"rangeEnd":342,"text":"{}","textLength":2,"docVersion":248}
+{"t":1794894762607,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":343,"rangeEnd":343,"text":"\n        \n    ","textLength":14,"docVersion":249}
+{"t":1794894763623,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894772916,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894773609,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894774411,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894776137,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894780362,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":352,"rangeEnd":352,"text":"i","textLength":1,"docVersion":250}
+{"t":1794894780557,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":353,"rangeEnd":353,"text":"n","textLength":1,"docVersion":251}
+{"t":1794894781429,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":354,"rangeEnd":354,"text":"t","textLength":1,"docVersion":252}
+{"t":1794894781706,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":355,"rangeEnd":355,"text":" ","textLength":1,"docVersion":253}
+{"t":1794894782724,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894782980,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":356,"rangeEnd":356,"text":"r","textLength":1,"docVersion":254}
+{"t":1794894783084,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":357,"rangeEnd":357,"text":"a","textLength":1,"docVersion":255}
+{"t":1794894783273,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":358,"rangeEnd":358,"text":"n","textLength":1,"docVersion":256}
+{"t":1794894784068,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":359,"rangeEnd":359,"text":"d","textLength":1,"docVersion":257}
+{"t":1794894784202,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":360,"rangeEnd":360,"text":"o","textLength":1,"docVersion":258}
+{"t":1794894784372,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":361,"rangeEnd":361,"text":"m","textLength":1,"docVersion":259}
+{"t":1794894784785,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":362,"rangeEnd":362,"text":"I","textLength":1,"docVersion":260}
+{"t":1794894784942,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":363,"rangeEnd":363,"text":"n","textLength":1,"docVersion":261}
+{"t":1794894785055,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":364,"rangeEnd":364,"text":"d","textLength":1,"docVersion":262}
+{"t":1794894785167,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":365,"rangeEnd":365,"text":"e","textLength":1,"docVersion":263}
+{"t":1794894785493,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":366,"rangeEnd":366,"text":"x","textLength":1,"docVersion":264}
+{"t":1794894786004,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":367,"rangeEnd":367,"text":" ","textLength":1,"docVersion":265}
+{"t":1794894786157,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":368,"rangeEnd":368,"text":"=","textLength":1,"docVersion":266}
+{"t":1794894786291,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":369,"rangeEnd":369,"text":" ","textLength":1,"docVersion":267}
+{"t":1794894787312,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894787705,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":370,"rangeEnd":370,"text":"r","textLength":1,"docVersion":268}
+{"t":1794894787828,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":371,"rangeEnd":371,"text":"a","textLength":1,"docVersion":269}
+{"t":1794894788024,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":372,"rangeEnd":372,"text":"n","textLength":1,"docVersion":270}
+{"t":1794894788182,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"d","textLength":1,"docVersion":271}
+{"t":1794894788470,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":374,"rangeEnd":374,"text":"()","textLength":2,"docVersion":272}
+{"t":1794894788584,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":375,"rangeEnd":376,"text":")","textLength":1,"docVersion":273}
+{"t":1794894789600,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894790397,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894791393,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894791792,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":376,"rangeEnd":376,"text":" ","textLength":1,"docVersion":274}
+{"t":1794894792273,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":377,"rangeEnd":377,"text":"*","textLength":1,"docVersion":275}
+{"t":1794894792794,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":378,"rangeEnd":378,"text":" ","textLength":1,"docVersion":276}
+{"t":1794894793241,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894793810,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894795065,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894796129,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":379,"rangeEnd":379,"text":"()","textLength":2,"docVersion":277}
+{"t":1794894797069,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894797135,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894799387,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894800747,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":380,"rangeEnd":380,"text":"P","textLength":1,"docVersion":278}
+{"t":1794894801763,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894801994,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":381,"rangeEnd":381,"text":"o","textLength":1,"docVersion":279}
+{"t":1794894802209,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":382,"rangeEnd":382,"text":"p","textLength":1,"docVersion":280}
+{"t":1794894802985,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":380,"rangeEnd":383,"text":"Population","textLength":10,"docVersion":281}
+{"t":1794894803459,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":390,"rangeEnd":390,"text":":","textLength":1,"docVersion":282}
+{"t":1794894803625,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":391,"rangeEnd":391,"text":":","textLength":1,"docVersion":283}
+{"t":1794894804643,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894810859,"file":"Population.hpp","type":"copy-command","size":15}
+{"t":1794894812124,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":15}
+{"t":1794894812129,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":392,"rangeEnd":392,"text":"POPULATION_SIZE","textLength":15,"docVersion":284,"source":"paste-refactor"}
+{"t":1794894813148,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894823593,"file":"Population.hpp","type":"copy-command","size":40}
+{"t":1794894824549,"file":"Population.hpp","type":"insert","rangeStart":293,"rangeEnd":293,"text":"\n","textLength":1,"docVersion":58}
+{"t":1794894824796,"file":"Population.hpp","type":"paste-command","size":40}
+{"t":1794894824800,"file":"Population.hpp","type":"insert","rangeStart":294,"rangeEnd":294,"text":"static const int POPULATION_SIZE = 30;  ","textLength":40,"docVersion":59,"source":"paste-refactor"}
+{"t":1794894825818,"file":"Population.hpp","type":"file-save"}
+{"t":1794894826777,"file":"Population.hpp","type":"insert","rangeStart":294,"rangeEnd":294,"text":"    ","textLength":4,"docVersion":60}
+{"t":1794894827792,"file":"Population.hpp","type":"file-save"}
+{"t":1794894829519,"file":"Population.hpp","type":"delete","rangeStart":92,"rangeEnd":137,"text":"","textLength":0,"docVersion":61}
+{"t":1794894830071,"file":"Population.hpp","type":"delete","rangeStart":91,"rangeEnd":92,"text":"","textLength":0,"docVersion":62}
+{"t":1794894831086,"file":"Population.hpp","type":"file-save"}
+{"t":1794894832537,"file":"Population.hpp","type":"delete","rangeStart":92,"rangeEnd":93,"text":"","textLength":0,"docVersion":63}
+{"t":1794894833561,"file":"Population.hpp","type":"file-save"}
+{"t":1794894839739,"file":"Population.hpp","type":"insert","rangeStart":291,"rangeEnd":291,"text":"\n    ","textLength":5,"docVersion":64}
+{"t":1794894840758,"file":"Population.hpp","type":"file-save"}
+{"t":1794894853425,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":407,"rangeEnd":407,"text":" ","textLength":1,"docVersion":285}
+{"t":1794894854439,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894855136,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894864244,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894865792,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":408,"rangeEnd":409,"text":"","textLength":0,"docVersion":286}
+{"t":1794894866010,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":407,"rangeEnd":408,"text":"","textLength":0,"docVersion":287}
+{"t":1794894867027,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894868625,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":379,"rangeEnd":380,"text":"","textLength":0,"docVersion":288}
+{"t":1794894869647,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894871831,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794894884528,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794894886896,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":377,"rangeEnd":378,"text":"","textLength":0,"docVersion":289}
+{"t":1794894887360,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":377,"rangeEnd":377,"text":"%","textLength":1,"docVersion":290}
+{"t":1794894888375,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894890796,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":406,"rangeEnd":406,"text":";","textLength":1,"docVersion":291}
+{"t":1794894891812,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894903606,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":407,"rangeEnd":407,"text":"\n        ","textLength":9,"docVersion":292}
+{"t":1794894904628,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894909715,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":416,"rangeEnd":416,"text":"T","textLength":1,"docVersion":293}
+{"t":1794894910589,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":416,"rangeEnd":417,"text":"","textLength":0,"docVersion":294}
+{"t":1794894911607,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894913094,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":416,"rangeEnd":416,"text":"T","textLength":1,"docVersion":295}
+{"t":1794894913305,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":417,"rangeEnd":417,"text":"o","textLength":1,"docVersion":296}
+{"t":1794894913505,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":418,"rangeEnd":418,"text":"u","textLength":1,"docVersion":297}
+{"t":1794894913582,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":419,"rangeEnd":419,"text":"r","textLength":1,"docVersion":298}
+{"t":1794894913928,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":420,"rangeEnd":420,"text":"&","textLength":1,"docVersion":299}
+{"t":1794894914272,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":421,"rangeEnd":421,"text":" ","textLength":1,"docVersion":300}
+{"t":1794894914571,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":422,"rangeEnd":422,"text":"r","textLength":1,"docVersion":301}
+{"t":1794894914669,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":423,"rangeEnd":423,"text":"a","textLength":1,"docVersion":302}
+{"t":1794894914798,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":424,"rangeEnd":424,"text":"n","textLength":1,"docVersion":303}
+{"t":1794894914968,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":425,"rangeEnd":425,"text":"d","textLength":1,"docVersion":304}
+{"t":1794894915055,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":426,"rangeEnd":426,"text":"o","textLength":1,"docVersion":305}
+{"t":1794894915213,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":427,"rangeEnd":427,"text":"m","textLength":1,"docVersion":306}
+{"t":1794894915415,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":428,"rangeEnd":428,"text":"T","textLength":1,"docVersion":307}
+{"t":1794894915605,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":429,"rangeEnd":429,"text":"o","textLength":1,"docVersion":308}
+{"t":1794894915803,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":430,"rangeEnd":430,"text":"u","textLength":1,"docVersion":309}
+{"t":1794894915989,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":431,"rangeEnd":431,"text":"r","textLength":1,"docVersion":310}
+{"t":1794894916440,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":432,"rangeEnd":432,"text":" ","textLength":1,"docVersion":311}
+{"t":1794894916705,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":433,"rangeEnd":433,"text":"=","textLength":1,"docVersion":312}
+{"t":1794894916810,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":434,"rangeEnd":434,"text":" ","textLength":1,"docVersion":313}
+{"t":1794894917827,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894976983,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":344,"rangeEnd":407,"text":"","textLength":0,"docVersion":314}
+{"t":1794894977368,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":343,"rangeEnd":344,"text":"","textLength":0,"docVersion":315}
+{"t":1794894978384,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894980578,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":371,"rangeEnd":371,"text":"p","textLength":1,"docVersion":316}
+{"t":1794894981215,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":372,"rangeEnd":372,"text":"o","textLength":1,"docVersion":317}
+{"t":1794894981849,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"p","textLength":1,"docVersion":318}
+{"t":1794894982866,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894983432,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":371,"rangeEnd":374,"text":"population","textLength":10,"docVersion":319}
+{"t":1794894983947,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":381,"rangeEnd":381,"text":".","textLength":1,"docVersion":320}
+{"t":1794894984966,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894987066,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":382,"rangeEnd":382,"text":"getRandomTour","textLength":13,"docVersion":321}
+{"t":1794894987988,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":395,"rangeEnd":395,"text":";","textLength":1,"docVersion":322}
+{"t":1794894989005,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794894991974,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":395,"rangeEnd":395,"text":"()","textLength":2,"docVersion":323}
+{"t":1794894992079,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":396,"rangeEnd":397,"text":")","textLength":1,"docVersion":324}
+{"t":1794894993099,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895002111,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":352,"rangeEnd":352,"text":"c","textLength":1,"docVersion":325}
+{"t":1794895002379,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":353,"rangeEnd":353,"text":"o","textLength":1,"docVersion":326}
+{"t":1794895002569,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":354,"rangeEnd":354,"text":"n","textLength":1,"docVersion":327}
+{"t":1794895002699,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":355,"rangeEnd":355,"text":"s","textLength":1,"docVersion":328}
+{"t":1794895002788,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":356,"rangeEnd":356,"text":"t","textLength":1,"docVersion":329}
+{"t":1794895002929,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":357,"rangeEnd":357,"text":" ","textLength":1,"docVersion":330}
+{"t":1794895003947,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895015908,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":404,"rangeEnd":404,"text":"\n        ","textLength":9,"docVersion":331}
+{"t":1794895016929,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895023791,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":413,"rangeEnd":413,"text":"i","textLength":1,"docVersion":332}
+{"t":1794895023939,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":414,"rangeEnd":414,"text":"f","textLength":1,"docVersion":333}
+{"t":1794895024116,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":415,"rangeEnd":415,"text":" ","textLength":1,"docVersion":334}
+{"t":1794895024681,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":416,"rangeEnd":416,"text":"()","textLength":2,"docVersion":335}
+{"t":1794895025698,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895026116,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":417,"rangeEnd":417,"text":"f","textLength":1,"docVersion":336}
+{"t":1794895026348,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":418,"rangeEnd":418,"text":"i","textLength":1,"docVersion":337}
+{"t":1794895026637,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":419,"rangeEnd":419,"text":"t","textLength":1,"docVersion":338}
+{"t":1794895027436,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":417,"rangeEnd":420,"text":"fittestTour","textLength":11,"docVersion":339}
+{"t":1794895028241,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":428,"rangeEnd":428,"text":".","textLength":1,"docVersion":340}
+{"t":1794895029260,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895032530,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":429,"rangeEnd":429,"text":"getFitness","textLength":10,"docVersion":341}
+{"t":1794895033548,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895035096,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":439,"rangeEnd":439,"text":"()","textLength":2,"docVersion":342}
+{"t":1794895035201,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":440,"rangeEnd":441,"text":")","textLength":1,"docVersion":343}
+{"t":1794895036216,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895042878,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":417,"rangeEnd":417,"text":" ","textLength":1,"docVersion":344}
+{"t":1794895043558,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":417,"rangeEnd":417,"text":"r","textLength":1,"docVersion":345}
+{"t":1794895043697,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":418,"rangeEnd":418,"text":"a","textLength":1,"docVersion":346}
+{"t":1794895044623,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":419,"rangeEnd":419,"text":"n","textLength":1,"docVersion":347}
+{"t":1794895045330,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":420,"rangeEnd":420,"text":"d","textLength":1,"docVersion":348}
+{"t":1794895045462,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":421,"rangeEnd":421,"text":"o","textLength":1,"docVersion":349}
+{"t":1794895045634,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":422,"rangeEnd":422,"text":"m","textLength":1,"docVersion":350}
+{"t":1794895046242,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":423,"rangeEnd":423,"text":"T","textLength":1,"docVersion":351}
+{"t":1794895046401,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":424,"rangeEnd":424,"text":"o","textLength":1,"docVersion":352}
+{"t":1794895046600,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":425,"rangeEnd":425,"text":"u","textLength":1,"docVersion":353}
+{"t":1794895046739,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":426,"rangeEnd":426,"text":"r","textLength":1,"docVersion":354}
+{"t":1794895047306,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":427,"rangeEnd":427,"text":".","textLength":1,"docVersion":355}
+{"t":1794895047466,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":428,"rangeEnd":428,"text":"g","textLength":1,"docVersion":356}
+{"t":1794895047597,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":429,"rangeEnd":429,"text":"e","textLength":1,"docVersion":357}
+{"t":1794895047721,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":430,"rangeEnd":430,"text":"t","textLength":1,"docVersion":358}
+{"t":1794895048442,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":428,"rangeEnd":431,"text":"getFitness","textLength":10,"docVersion":359}
+{"t":1794895048926,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":438,"rangeEnd":438,"text":"()","textLength":2,"docVersion":360}
+{"t":1794895049055,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":439,"rangeEnd":440,"text":")","textLength":1,"docVersion":361}
+{"t":1794895050075,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895050129,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":440,"rangeEnd":440,"text":" ","textLength":1,"docVersion":362}
+{"t":1794895050484,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":441,"rangeEnd":441,"text":">","textLength":1,"docVersion":363}
+{"t":1794895051504,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895053471,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":468,"rangeEnd":468,"text":" ","textLength":1,"docVersion":364}
+{"t":1794895053839,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":469,"rangeEnd":469,"text":"{}","textLength":2,"docVersion":365}
+{"t":1794895054078,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":470,"rangeEnd":470,"text":"\n            \n        ","textLength":22,"docVersion":366}
+{"t":1794895055095,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895055852,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":483,"rangeEnd":483,"text":"f","textLength":1,"docVersion":367}
+{"t":1794895056028,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":484,"rangeEnd":484,"text":"i","textLength":1,"docVersion":368}
+{"t":1794895056498,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":485,"rangeEnd":485,"text":"t","textLength":1,"docVersion":369}
+{"t":1794895056670,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":486,"rangeEnd":486,"text":"t","textLength":1,"docVersion":370}
+{"t":1794895057123,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":483,"rangeEnd":487,"text":"fittestTour","textLength":11,"docVersion":371}
+{"t":1794895057471,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":494,"rangeEnd":494,"text":" ","textLength":1,"docVersion":372}
+{"t":1794895057888,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":495,"rangeEnd":495,"text":"=","textLength":1,"docVersion":373}
+{"t":1794895058245,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":496,"rangeEnd":496,"text":" ","textLength":1,"docVersion":374}
+{"t":1794895058555,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":497,"rangeEnd":497,"text":"r","textLength":1,"docVersion":375}
+{"t":1794895058678,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":498,"rangeEnd":498,"text":"a","textLength":1,"docVersion":376}
+{"t":1794895058817,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":499,"rangeEnd":499,"text":"n","textLength":1,"docVersion":377}
+{"t":1794895059833,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895060062,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":500,"rangeEnd":500,"text":"d","textLength":1,"docVersion":378}
+{"t":1794895060187,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":501,"rangeEnd":501,"text":"o","textLength":1,"docVersion":379}
+{"t":1794895060367,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":502,"rangeEnd":502,"text":"m","textLength":1,"docVersion":380}
+{"t":1794895060779,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":503,"rangeEnd":503,"text":"T","textLength":1,"docVersion":381}
+{"t":1794895060988,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":504,"rangeEnd":504,"text":"o","textLength":1,"docVersion":382}
+{"t":1794895061407,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":505,"rangeEnd":505,"text":"u","textLength":1,"docVersion":383}
+{"t":1794895061532,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":506,"rangeEnd":506,"text":"r","textLength":1,"docVersion":384}
+{"t":1794895062076,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":507,"rangeEnd":507,"text":";","textLength":1,"docVersion":385}
+{"t":1794895063097,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895075326,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":524,"rangeEnd":524,"text":"\n    ","textLength":5,"docVersion":386}
+{"t":1794895075812,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":529,"rangeEnd":529,"text":"\n    ","textLength":5,"docVersion":387}
+{"t":1794895075812,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":525,"rangeEnd":529,"text":"","textLength":0,"docVersion":387}
+{"t":1794895076137,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":530,"rangeEnd":530,"text":"r","textLength":1,"docVersion":388}
+{"t":1794895076228,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":531,"rangeEnd":531,"text":"e","textLength":1,"docVersion":389}
+{"t":1794895076440,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":532,"rangeEnd":532,"text":"t","textLength":1,"docVersion":390}
+{"t":1794895076643,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":533,"rangeEnd":533,"text":"u","textLength":1,"docVersion":391}
+{"t":1794895077312,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":534,"rangeEnd":534,"text":"r","textLength":1,"docVersion":392}
+{"t":1794895077435,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":535,"rangeEnd":535,"text":"n","textLength":1,"docVersion":393}
+{"t":1794895078038,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":536,"rangeEnd":536,"text":" ","textLength":1,"docVersion":394}
+{"t":1794895079057,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895080007,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":537,"rangeEnd":537,"text":"f","textLength":1,"docVersion":395}
+{"t":1794895080186,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":538,"rangeEnd":538,"text":"i","textLength":1,"docVersion":396}
+{"t":1794895080437,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":539,"rangeEnd":539,"text":"t","textLength":1,"docVersion":397}
+{"t":1794895080619,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":540,"rangeEnd":540,"text":"t","textLength":1,"docVersion":398}
+{"t":1794895081109,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":537,"rangeEnd":541,"text":"fittestTour","textLength":11,"docVersion":399}
+{"t":1794895081713,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":548,"rangeEnd":548,"text":";","textLength":1,"docVersion":400}
+{"t":1794895082720,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895112389,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":285,"rangeEnd":285,"text":"&","textLength":1,"docVersion":401}
+{"t":1794895113411,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895169411,"file":"GeneticAlgorithm.cpp","type":"copy-command","size":330}
+{"t":1794895170313,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794895218572,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794895259602,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794895260185,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794895260934,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":285,"rangeEnd":286,"text":"","textLength":0,"docVersion":402}
+{"t":1794895261379,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":285,"rangeEnd":285,"text":"*","textLength":1,"docVersion":403}
+{"t":1794895262400,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895264194,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":298,"rangeEnd":299,"text":"","textLength":0,"docVersion":404}
+{"t":1794895264408,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":" ","textLength":1,"docVersion":405}
+{"t":1794895264651,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":"=","textLength":1,"docVersion":406}
+{"t":1794895264970,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":300,"rangeEnd":300,"text":" ","textLength":1,"docVersion":407}
+{"t":1794895265991,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895271365,"file":"GeneticAlgorithm.cpp","type":"copy-command","size":23}
+{"t":1794895272965,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":301,"rangeEnd":301,"text":"&","textLength":1,"docVersion":408}
+{"t":1794895273603,"file":"GeneticAlgorithm.cpp","type":"paste-command","size":23}
+{"t":1794895273610,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":302,"rangeEnd":302,"text":"randomTour.getFitness()","textLength":23,"docVersion":409,"source":"paste-refactor"}
+{"t":1794895274626,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895274643,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":325,"rangeEnd":325,"text":";","textLength":1,"docVersion":410}
+{"t":1794895275663,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895277051,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":345,"rangeEnd":346,"text":"","textLength":0,"docVersion":411}
+{"t":1794895277273,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":345,"rangeEnd":345,"text":"1","textLength":1,"docVersion":412}
+{"t":1794895278294,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895282965,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":471,"rangeEnd":471,"text":"*","textLength":1,"docVersion":413}
+{"t":1794895283985,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895286583,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":471,"rangeEnd":472,"text":"","textLength":0,"docVersion":414}
+{"t":1794895287600,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895288429,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":482,"rangeEnd":483,"text":"","textLength":0,"docVersion":415}
+{"t":1794895288653,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":482,"rangeEnd":482,"text":"-","textLength":1,"docVersion":416}
+{"t":1794895288938,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":483,"rangeEnd":483,"text":">","textLength":1,"docVersion":417}
+{"t":1794895289953,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895295511,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":526,"rangeEnd":526,"text":"&","textLength":1,"docVersion":418}
+{"t":1794895296530,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895298067,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":567,"rangeEnd":567,"text":"*","textLength":1,"docVersion":419}
+{"t":1794895299089,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895305684,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794895310011,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794895312661,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":281,"rangeEnd":281,"text":"c","textLength":1,"docVersion":420}
+{"t":1794895312916,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":282,"rangeEnd":282,"text":"o","textLength":1,"docVersion":421}
+{"t":1794895313103,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":283,"rangeEnd":283,"text":"n","textLength":1,"docVersion":422}
+{"t":1794895313231,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":284,"rangeEnd":284,"text":"s","textLength":1,"docVersion":423}
+{"t":1794895313337,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":285,"rangeEnd":285,"text":"t","textLength":1,"docVersion":424}
+{"t":1794895313458,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":286,"rangeEnd":286,"text":" ","textLength":1,"docVersion":425}
+{"t":1794895314474,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895326969,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":308,"rangeEnd":318,"text":"","textLength":0,"docVersion":426}
+{"t":1794895327346,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":308,"rangeEnd":308,"text":"p","textLength":1,"docVersion":427}
+{"t":1794895327468,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":309,"rangeEnd":309,"text":"o","textLength":1,"docVersion":428}
+{"t":1794895327610,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":310,"rangeEnd":310,"text":"p","textLength":1,"docVersion":429}
+{"t":1794895328009,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":311,"rangeEnd":311,"text":"u","textLength":1,"docVersion":430}
+{"t":1794895328193,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":312,"rangeEnd":312,"text":"l","textLength":1,"docVersion":431}
+{"t":1794895328334,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":313,"rangeEnd":313,"text":"a","textLength":1,"docVersion":432}
+{"t":1794895328456,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":314,"rangeEnd":314,"text":"t","textLength":1,"docVersion":433}
+{"t":1794895328561,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":315,"rangeEnd":315,"text":"i","textLength":1,"docVersion":434}
+{"t":1794895328632,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":316,"rangeEnd":316,"text":"o","textLength":1,"docVersion":435}
+{"t":1794895328788,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":317,"rangeEnd":317,"text":"n","textLength":1,"docVersion":436}
+{"t":1794895329808,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895342202,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1794895344853,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1794895347182,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":319,"rangeEnd":329,"text":"g","textLength":1,"docVersion":437}
+{"t":1794895347340,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":320,"rangeEnd":320,"text":"e","textLength":1,"docVersion":438}
+{"t":1794895347509,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":321,"rangeEnd":321,"text":"t","textLength":1,"docVersion":439}
+{"t":1794895348526,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895349098,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":319,"rangeEnd":322,"text":"getRandomTour","textLength":13,"docVersion":440}
+{"t":1794895350114,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1794895369045,"file":"City.hpp","type":"file-open"}
+{"t":1794895375446,"file":"City.hpp","type":"copy-command","size":403}
+{"t":1794895376895,"file":"City.hpp","type":"window-blur"}
+{"t":1794895380919,"file":"City.hpp","type":"window-focus"}
+{"t":1794895382621,"file":"Tour.hpp","type":"copy-command","size":618}
+{"t":1794895383232,"file":"Tour.hpp","type":"window-blur"}
+{"t":1794895386493,"file":"Tour.hpp","type":"window-focus"}
+{"t":1794895387966,"file":"Population.hpp","type":"copy-command","size":690}
+{"t":1794895388533,"file":"Population.hpp","type":"window-blur"}
+{"t":1794895391381,"file":"Population.hpp","type":"window-focus"}
+{"t":1794895392873,"file":"FittestTourFinder.hpp","type":"copy-command","size":675}
+{"t":1794895393487,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1794895396350,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1794895397851,"file":"GeneticAlgorithm.hpp","type":"copy-command","size":1113}
+{"t":1794895398492,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794895450186,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896126134,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896126823,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896130706,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":240,"rangeEnd":241,"text":"","textLength":0,"docVersion":171}
+{"t":1794896131727,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1794896132781,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896196826,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896207348,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896210443,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896210610,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896211997,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896214762,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896280444,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1794896426245,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896432151,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1794896432290,"file":"GeneticAlgorithm.cpp","type":"file-open"}
