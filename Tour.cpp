@@ -48,3 +48,11 @@ void Tour::printCities() const{
     cout << cities[0]->getCityName();
     cout << ")" << endl;
 }
+
+const int Tour::getCitiesSize() const {
+    return cities.size();
+}
+
+City* Tour::getCityByIndex(int index) const {
+    return cities[index];
+}

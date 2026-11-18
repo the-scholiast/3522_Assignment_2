@@ -17,4 +17,6 @@ public:
     double getFitness() const;
     vector<City*> getCities() const;
     void printCities() const; // Print the route of the cities in order of index and then returning back to first city
+    const int getCitiesSize() const;
+    City* getCityByIndex(int) const;
 };
