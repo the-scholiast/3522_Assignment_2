@@ -1792,3 +1792,1253 @@
 {"t":1794963427961,"file":"Population.hpp","type":"insert","rangeStart":410,"rangeEnd":410,"text":"u","textLength":1,"docVersion":4}
 {"t":1794963428242,"file":"Population.hpp","type":"insert","rangeStart":411,"rangeEnd":411,"text":"r","textLength":1,"docVersion":5}
 {"t":1794963429277,"file":"Population.hpp","type":"file-save"}
+{"t":1794963483053,"file":"Population.cpp","type":"file-open"}
+{"t":1794963483128,"file":"Population.cpp","type":"file-created","size":0}
+{"t":1794963486424,"file":"Population.cpp","type":"insert","rangeStart":0,"rangeEnd":0,"text":"#","textLength":1,"docVersion":2}
+{"t":1794963486621,"file":"Population.cpp","type":"insert","rangeStart":1,"rangeEnd":1,"text":"i","textLength":1,"docVersion":3}
+{"t":1794963486812,"file":"Population.cpp","type":"insert","rangeStart":2,"rangeEnd":2,"text":"n","textLength":1,"docVersion":4}
+{"t":1794963486893,"file":"Population.cpp","type":"insert","rangeStart":3,"rangeEnd":3,"text":"c","textLength":1,"docVersion":5}
+{"t":1794963487059,"file":"Population.cpp","type":"insert","rangeStart":4,"rangeEnd":4,"text":"l","textLength":1,"docVersion":6}
+{"t":1794963487438,"file":"Population.cpp","type":"replace","rangeStart":1,"rangeEnd":5,"text":"include","textLength":7,"docVersion":7}
+{"t":1794963488318,"file":"Population.cpp","type":"insert","rangeStart":8,"rangeEnd":8,"text":" ","textLength":1,"docVersion":8}
+{"t":1794963489344,"file":"Population.cpp","type":"file-save"}
+{"t":1794963489780,"file":"Population.cpp","type":"insert","rangeStart":9,"rangeEnd":9,"text":"<","textLength":1,"docVersion":9}
+{"t":1794963490823,"file":"Population.cpp","type":"file-save"}
+{"t":1794963493785,"file":"Population.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"c","textLength":1,"docVersion":10}
+{"t":1794963493978,"file":"Population.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"p","textLength":1,"docVersion":11}
+{"t":1794963494158,"file":"Population.cpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"p","textLength":1,"docVersion":12}
+{"t":1794963495193,"file":"Population.cpp","type":"file-save"}
+{"t":1794963495326,"file":"Population.cpp","type":"delete","rangeStart":12,"rangeEnd":13,"text":"","textLength":0,"docVersion":13}
+{"t":1794963495508,"file":"Population.cpp","type":"delete","rangeStart":11,"rangeEnd":12,"text":"","textLength":0,"docVersion":14}
+{"t":1794963495698,"file":"Population.cpp","type":"delete","rangeStart":10,"rangeEnd":11,"text":"","textLength":0,"docVersion":15}
+{"t":1794963496739,"file":"Population.cpp","type":"file-save"}
+{"t":1794963496933,"file":"Population.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"P","textLength":1,"docVersion":16}
+{"t":1794963497224,"file":"Population.cpp","type":"insert","rangeStart":11,"rangeEnd":11,"text":"o","textLength":1,"docVersion":17}
+{"t":1794963498049,"file":"Population.cpp","type":"insert","rangeStart":12,"rangeEnd":12,"text":"p","textLength":1,"docVersion":18}
+{"t":1794963498993,"file":"Population.cpp","type":"insert","rangeStart":13,"rangeEnd":13,"text":"u","textLength":1,"docVersion":19}
+{"t":1794963499255,"file":"Population.cpp","type":"insert","rangeStart":14,"rangeEnd":14,"text":"l","textLength":1,"docVersion":20}
+{"t":1794963500038,"file":"Population.cpp","type":"insert","rangeStart":15,"rangeEnd":15,"text":"a","textLength":1,"docVersion":21}
+{"t":1794963501070,"file":"Population.cpp","type":"file-save"}
+{"t":1794963501578,"file":"Population.cpp","type":"insert","rangeStart":16,"rangeEnd":16,"text":"t","textLength":1,"docVersion":22}
+{"t":1794963501766,"file":"Population.cpp","type":"insert","rangeStart":17,"rangeEnd":17,"text":"i","textLength":1,"docVersion":23}
+{"t":1794963501920,"file":"Population.cpp","type":"insert","rangeStart":18,"rangeEnd":18,"text":"o","textLength":1,"docVersion":24}
+{"t":1794963502120,"file":"Population.cpp","type":"insert","rangeStart":19,"rangeEnd":19,"text":"n","textLength":1,"docVersion":25}
+{"t":1794963503151,"file":"Population.cpp","type":"file-save"}
+{"t":1794963503700,"file":"Population.cpp","type":"insert","rangeStart":20,"rangeEnd":20,"text":".","textLength":1,"docVersion":26}
+{"t":1794963503890,"file":"Population.cpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"c","textLength":1,"docVersion":27}
+{"t":1794963504097,"file":"Population.cpp","type":"insert","rangeStart":22,"rangeEnd":22,"text":"p","textLength":1,"docVersion":28}
+{"t":1794963504262,"file":"Population.cpp","type":"insert","rangeStart":23,"rangeEnd":23,"text":"p","textLength":1,"docVersion":29}
+{"t":1794963505065,"file":"Population.cpp","type":"insert","rangeStart":24,"rangeEnd":24,"text":">","textLength":1,"docVersion":30}
+{"t":1794963505391,"file":"Population.cpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"\r\n","textLength":2,"docVersion":31}
+{"t":1794963506430,"file":"Population.cpp","type":"file-save"}
+{"t":1794963507439,"file":"Population.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"\r\n","textLength":2,"docVersion":32}
+{"t":1794963508475,"file":"Population.cpp","type":"file-save"}
+{"t":1794963510135,"file":"Population.cpp","type":"delete","rangeStart":21,"rangeEnd":22,"text":"","textLength":0,"docVersion":33}
+{"t":1794963510701,"file":"Population.cpp","type":"insert","rangeStart":21,"rangeEnd":21,"text":"h","textLength":1,"docVersion":34}
+{"t":1794963511730,"file":"Population.cpp","type":"file-save"}
+{"t":1794963528447,"file":"Population.hpp","type":"copy-command","size":396}
+{"t":1794963530339,"file":"Population.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"\r\n","textLength":2,"docVersion":35}
+{"t":1794963530603,"file":"Population.cpp","type":"paste-command","size":396}
+{"t":1794963530612,"file":"Population.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"    Population(vector<City>& cities, int popSize); // Use generateTours in here\r\n    const vector<Tour>& getTours() const;\r\n    const Tour& getBestFitness() const; // Find the tour with the lowest fitness\r\n    void replaceTours(vector<Tour>& newTours);\r\n    int getPopSize() const;\r\n    const Tour& getRandomTour() const;\r\n    void moveBestTourToFront(); // Move fittest tour to index[0] of tours","textLength":396,"docVersion":36,"source":"paste-refactor"}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":352,"rangeEnd":356,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":327,"rangeEnd":328,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"insert","rangeStart":326,"rangeEnd":326,"text":" ","textLength":1,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":312,"rangeEnd":316,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":283,"rangeEnd":287,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":270,"rangeEnd":271,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"insert","rangeStart":269,"rangeEnd":269,"text":" ","textLength":1,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":235,"rangeEnd":239,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"&","textLength":1,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":167,"rangeEnd":168,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":153,"rangeEnd":157,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"insert","rangeStart":134,"rangeEnd":134,"text":"&","textLength":1,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":132,"rangeEnd":133,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":110,"rangeEnd":114,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":"&","textLength":1,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":56,"rangeEnd":57,"text":"","textLength":0,"docVersion":37}
+{"t":1794963530678,"file":"Population.cpp","type":"delete","rangeStart":29,"rangeEnd":33,"text":"","textLength":0,"docVersion":37}
+{"t":1794963531734,"file":"Population.cpp","type":"file-save"}
+{"t":1794963535319,"file":"Population.cpp","type":"delete","rangeStart":356,"rangeEnd":397,"text":"","textLength":0,"docVersion":38}
+{"t":1794963535968,"file":"Population.cpp","type":"delete","rangeStart":355,"rangeEnd":356,"text":"","textLength":0,"docVersion":39}
+{"t":1794963537006,"file":"Population.cpp","type":"file-save"}
+{"t":1794963546593,"file":"Population.cpp","type":"copy-command","size":10}
+{"t":1794963548272,"file":"Population.cpp","type":"paste-command","size":10}
+{"t":1794963548291,"file":"Population.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"Population","textLength":10,"docVersion":40,"source":"paste-refactor"}
+{"t":1794963549243,"file":"Population.cpp","type":"insert","rangeStart":39,"rangeEnd":39,"text":":","textLength":1,"docVersion":41}
+{"t":1794963549406,"file":"Population.cpp","type":"insert","rangeStart":40,"rangeEnd":40,"text":":","textLength":1,"docVersion":42}
+{"t":1794963550425,"file":"Population.cpp","type":"file-save"}
+{"t":1794963551862,"file":"Population.cpp","type":"copy-command","size":12}
+{"t":1794963562547,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963562556,"file":"Population.cpp","type":"insert","rangeStart":240,"rangeEnd":240,"text":"Population::","textLength":12,"docVersion":43,"source":"paste-refactor"}
+{"t":1794963563589,"file":"Population.cpp","type":"file-save"}
+{"t":1794963563917,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963563928,"file":"Population.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"Population::","textLength":12,"docVersion":44,"source":"paste-refactor"}
+{"t":1794963564965,"file":"Population.cpp","type":"file-save"}
+{"t":1794963582023,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963582031,"file":"Population.cpp","type":"insert","rangeStart":339,"rangeEnd":339,"text":"Population::","textLength":12,"docVersion":45,"source":"paste-refactor"}
+{"t":1794963583073,"file":"Population.cpp","type":"file-save"}
+{"t":1794963583564,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963583574,"file":"Population.cpp","type":"insert","rangeStart":381,"rangeEnd":381,"text":"Population::","textLength":12,"docVersion":46,"source":"paste-refactor"}
+{"t":1794963584617,"file":"Population.cpp","type":"file-save"}
+{"t":1794963585016,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963585022,"file":"Population.cpp","type":"insert","rangeStart":168,"rangeEnd":168,"text":"Population::","textLength":12,"docVersion":47,"source":"paste-refactor"}
+{"t":1794963585856,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963585861,"file":"Population.cpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"Population::","textLength":12,"docVersion":48,"source":"paste-refactor"}
+{"t":1794963586897,"file":"Population.cpp","type":"file-save"}
+{"t":1794963595791,"file":"Population.cpp","type":"delete","rangeStart":86,"rangeEnd":116,"text":"","textLength":0,"docVersion":49}
+{"t":1794963596845,"file":"Population.cpp","type":"file-save"}
+{"t":1794963606577,"file":"Population.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"{}","textLength":2,"docVersion":50}
+{"t":1794963606929,"file":"Population.cpp","type":"insert","rangeStart":87,"rangeEnd":87,"text":"\r\n    \r\n","textLength":8,"docVersion":51}
+{"t":1794963607959,"file":"Population.cpp","type":"file-save"}
+{"t":1794963610708,"file":"Population.cpp","type":"delete","rangeStart":89,"rangeEnd":93,"text":"","textLength":0,"docVersion":52}
+{"t":1794963611748,"file":"Population.cpp","type":"file-save"}
+{"t":1794963639471,"file":"Population.hpp","type":"copy-command","size":53}
+{"t":1794963642024,"file":"Population.cpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"\r\n","textLength":2,"docVersion":53}
+{"t":1794963642184,"file":"Population.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"\r\n","textLength":2,"docVersion":54}
+{"t":1794963642428,"file":"Population.cpp","type":"paste-command","size":53}
+{"t":1794963642442,"file":"Population.cpp","type":"insert","rangeStart":29,"rangeEnd":29,"text":"void generateTours(vector<City>& cities, int popSize)","textLength":53,"docVersion":55,"source":"paste-refactor"}
+{"t":1794963642490,"file":"Population.cpp","type":"insert","rangeStart":146,"rangeEnd":146,"text":"{","textLength":1,"docVersion":56}
+{"t":1794963642490,"file":"Population.cpp","type":"delete","rangeStart":143,"rangeEnd":144,"text":"","textLength":0,"docVersion":56}
+{"t":1794963642490,"file":"Population.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"    ","textLength":4,"docVersion":56}
+{"t":1794963642490,"file":"Population.cpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"&","textLength":1,"docVersion":56}
+{"t":1794963642490,"file":"Population.cpp","type":"delete","rangeStart":60,"rangeEnd":61,"text":"","textLength":0,"docVersion":56}
+{"t":1794963643596,"file":"Population.cpp","type":"file-save"}
+{"t":1794963646576,"file":"Population.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"    Population::Population(vector<City> &cities, int popSize)\r\n{\r\n","textLength":66,"docVersion":57}
+{"t":1794963647499,"file":"Population.cpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":"\r\n    Population::Population(vector<City> &cities, int popSize)\r\n{","textLength":66,"docVersion":58}
+{"t":1794963648343,"file":"Population.cpp","type":"delete","rangeStart":216,"rangeEnd":282,"text":"","textLength":0,"docVersion":59}
+{"t":1794963648660,"file":"Population.cpp","type":"delete","rangeStart":86,"rangeEnd":152,"text":"","textLength":0,"docVersion":60}
+{"t":1794963652796,"file":"Population.cpp","type":"delete","rangeStart":150,"rangeEnd":153,"text":"","textLength":0,"docVersion":61}
+{"t":1794963652796,"file":"Population.cpp","type":"delete","rangeStart":86,"rangeEnd":90,"text":"","textLength":0,"docVersion":61}
+{"t":1794963652796,"file":"Population.cpp","type":"insert","rangeStart":86,"rangeEnd":86,"text":"}\r\n","textLength":3,"docVersion":61}
+{"t":1794963653832,"file":"Population.cpp","type":"file-save"}
+{"t":1794963655904,"file":"Population.cpp","type":"delete","rangeStart":148,"rangeEnd":149,"text":"","textLength":0,"docVersion":62}
+{"t":1794963656957,"file":"Population.cpp","type":"file-save"}
+{"t":1794963657541,"file":"Population.cpp","type":"delete","rangeStart":86,"rangeEnd":87,"text":"","textLength":0,"docVersion":63}
+{"t":1794963658582,"file":"Population.cpp","type":"file-save"}
+{"t":1794963659755,"file":"Population.cpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":"{}","textLength":2,"docVersion":64}
+{"t":1794963660008,"file":"Population.cpp","type":"insert","rangeStart":83,"rangeEnd":83,"text":"\r\n    \r\n","textLength":8,"docVersion":65}
+{"t":1794963661046,"file":"Population.cpp","type":"file-save"}
+{"t":1794963677646,"file":"Population.cpp","type":"insert","rangeStart":89,"rangeEnd":89,"text":"v","textLength":1,"docVersion":66}
+{"t":1794963678196,"file":"Population.cpp","type":"insert","rangeStart":90,"rangeEnd":90,"text":"e","textLength":1,"docVersion":67}
+{"t":1794963678657,"file":"Population.cpp","type":"insert","rangeStart":91,"rangeEnd":91,"text":"c","textLength":1,"docVersion":68}
+{"t":1794963679085,"file":"Population.cpp","type":"replace","rangeStart":89,"rangeEnd":92,"text":"vector","textLength":6,"docVersion":69}
+{"t":1794963680126,"file":"Population.cpp","type":"file-save"}
+{"t":1794963681156,"file":"Population.cpp","type":"insert","rangeStart":95,"rangeEnd":95,"text":"<","textLength":1,"docVersion":70}
+{"t":1794963682095,"file":"Population.cpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"c","textLength":1,"docVersion":71}
+{"t":1794963682296,"file":"Population.cpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"i","textLength":1,"docVersion":72}
+{"t":1794963682625,"file":"Population.cpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"t","textLength":1,"docVersion":73}
+{"t":1794963683743,"file":"Population.cpp","type":"file-save"}
+{"t":1794963684438,"file":"Population.cpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"y","textLength":1,"docVersion":74}
+{"t":1794963685273,"file":"Population.cpp","type":"delete","rangeStart":99,"rangeEnd":100,"text":"","textLength":0,"docVersion":75}
+{"t":1794963685465,"file":"Population.cpp","type":"delete","rangeStart":98,"rangeEnd":99,"text":"","textLength":0,"docVersion":76}
+{"t":1794963685643,"file":"Population.cpp","type":"delete","rangeStart":97,"rangeEnd":98,"text":"","textLength":0,"docVersion":77}
+{"t":1794963685818,"file":"Population.cpp","type":"delete","rangeStart":96,"rangeEnd":97,"text":"","textLength":0,"docVersion":78}
+{"t":1794963686228,"file":"Population.cpp","type":"insert","rangeStart":96,"rangeEnd":96,"text":"C","textLength":1,"docVersion":79}
+{"t":1794963686514,"file":"Population.cpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"i","textLength":1,"docVersion":80}
+{"t":1794963686641,"file":"Population.cpp","type":"insert","rangeStart":98,"rangeEnd":98,"text":"t","textLength":1,"docVersion":81}
+{"t":1794963686914,"file":"Population.cpp","type":"insert","rangeStart":99,"rangeEnd":99,"text":"y","textLength":1,"docVersion":82}
+{"t":1794963687958,"file":"Population.cpp","type":"file-save"}
+{"t":1794963691354,"file":"Population.cpp","type":"insert","rangeStart":100,"rangeEnd":100,"text":"*","textLength":1,"docVersion":83}
+{"t":1794963692402,"file":"Population.cpp","type":"file-save"}
+{"t":1794963692812,"file":"Population.cpp","type":"insert","rangeStart":101,"rangeEnd":101,"text":">","textLength":1,"docVersion":84}
+{"t":1794963693848,"file":"Population.cpp","type":"file-save"}
+{"t":1794963696027,"file":"Population.cpp","type":"insert","rangeStart":102,"rangeEnd":102,"text":" ","textLength":1,"docVersion":85}
+{"t":1794963697054,"file":"Population.cpp","type":"file-save"}
+{"t":1794963700579,"file":"Population.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"c","textLength":1,"docVersion":86}
+{"t":1794963701069,"file":"Population.cpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"t","textLength":1,"docVersion":87}
+{"t":1794963701821,"file":"Population.cpp","type":"delete","rangeStart":104,"rangeEnd":105,"text":"","textLength":0,"docVersion":88}
+{"t":1794963702355,"file":"Population.cpp","type":"insert","rangeStart":104,"rangeEnd":104,"text":"i","textLength":1,"docVersion":89}
+{"t":1794963702468,"file":"Population.cpp","type":"insert","rangeStart":105,"rangeEnd":105,"text":"t","textLength":1,"docVersion":90}
+{"t":1794963702623,"file":"Population.cpp","type":"insert","rangeStart":106,"rangeEnd":106,"text":"i","textLength":1,"docVersion":91}
+{"t":1794963702960,"file":"Population.cpp","type":"insert","rangeStart":107,"rangeEnd":107,"text":"e","textLength":1,"docVersion":92}
+{"t":1794963703186,"file":"Population.cpp","type":"insert","rangeStart":108,"rangeEnd":108,"text":"s","textLength":1,"docVersion":93}
+{"t":1794963704109,"file":"Population.cpp","type":"insert","rangeStart":109,"rangeEnd":109,"text":"A","textLength":1,"docVersion":94}
+{"t":1794963704380,"file":"Population.cpp","type":"insert","rangeStart":110,"rangeEnd":110,"text":"d","textLength":1,"docVersion":95}
+{"t":1794963704595,"file":"Population.cpp","type":"insert","rangeStart":111,"rangeEnd":111,"text":"d","textLength":1,"docVersion":96}
+{"t":1794963705643,"file":"Population.cpp","type":"file-save"}
+{"t":1794963706077,"file":"Population.cpp","type":"insert","rangeStart":112,"rangeEnd":112,"text":"r","textLength":1,"docVersion":97}
+{"t":1794963706205,"file":"Population.cpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"e","textLength":1,"docVersion":98}
+{"t":1794963706521,"file":"Population.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"d","textLength":1,"docVersion":99}
+{"t":1794963706734,"file":"Population.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"d","textLength":1,"docVersion":100}
+{"t":1794963707104,"file":"Population.cpp","type":"delete","rangeStart":115,"rangeEnd":116,"text":"","textLength":0,"docVersion":101}
+{"t":1794963707294,"file":"Population.cpp","type":"delete","rangeStart":114,"rangeEnd":115,"text":"","textLength":0,"docVersion":102}
+{"t":1794963707394,"file":"Population.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"s","textLength":1,"docVersion":103}
+{"t":1794963707559,"file":"Population.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":"s","textLength":1,"docVersion":104}
+{"t":1794963708605,"file":"Population.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":" ","textLength":1,"docVersion":105}
+{"t":1794963708613,"file":"Population.cpp","type":"file-save"}
+{"t":1794963709640,"file":"Population.cpp","type":"file-save"}
+{"t":1794963712243,"file":"Population.cpp","type":"delete","rangeStart":116,"rangeEnd":117,"text":"","textLength":0,"docVersion":106}
+{"t":1794963712542,"file":"Population.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":";","textLength":1,"docVersion":107}
+{"t":1794963712785,"file":"Population.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"\r\n    ","textLength":6,"docVersion":108}
+{"t":1794963713837,"file":"Population.cpp","type":"file-save"}
+{"t":1794963720500,"file":"Tour.cpp","type":"copy-command","size":174}
+{"t":1794963721903,"file":"Population.cpp","type":"paste-command","size":174}
+{"t":1794963721909,"file":"Population.cpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"    for (size_t i = 0; i < cities.size(); i++) {\r\n        size_t next = (i + 1) % cities.size();\r\n        totalDistance += cities[i]->calculateDistance(*cities[next]);\r\n    }","textLength":174,"docVersion":109,"source":"paste-refactor"}
+{"t":1794963722000,"file":"Population.cpp","type":"insert","rangeStart":169,"rangeEnd":169,"text":"\r\n   ","textLength":5,"docVersion":110}
+{"t":1794963722000,"file":"Population.cpp","type":"delete","rangeStart":123,"rangeEnd":127,"text":"","textLength":0,"docVersion":110}
+{"t":1794963723037,"file":"Population.cpp","type":"file-save"}
+{"t":1794963726733,"file":"Population.cpp","type":"copy-command","size":13}
+{"t":1794963737919,"file":"Population.cpp","type":"paste-command","size":13}
+{"t":1794963737928,"file":"Population.cpp","type":"replace","rangeStart":174,"rangeEnd":291,"text":"citiesAddress","textLength":13,"docVersion":111,"source":"paste-refactor"}
+{"t":1794963737978,"file":"Population.cpp","type":"insert","rangeStart":174,"rangeEnd":174,"text":"        ","textLength":8,"docVersion":112}
+{"t":1794963739005,"file":"Population.cpp","type":"file-save"}
+{"t":1794963782604,"file":"Tour.cpp","type":"copy-command","size":11}
+{"t":1794963788836,"file":"Population.cpp","type":"paste-command","size":11}
+{"t":1794963788845,"file":"Population.cpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":": cities(c)","textLength":11,"docVersion":113,"source":"paste-refactor"}
+{"t":1794963788921,"file":"Population.cpp","type":"delete","rangeStart":216,"rangeEnd":218,"text":"","textLength":0,"docVersion":114}
+{"t":1794963788921,"file":"Population.cpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":"\r\n","textLength":2,"docVersion":114}
+{"t":1794963788921,"file":"Population.cpp","type":"insert","rangeStart":82,"rangeEnd":82,"text":" ","textLength":1,"docVersion":114}
+{"t":1794963789952,"file":"Population.cpp","type":"file-save"}
+{"t":1794963793954,"file":"Population.cpp","type":"copy-command","size":7}
+{"t":1794963796414,"file":"Population.cpp","type":"paste-command","size":7}
+{"t":1794963796421,"file":"Population.cpp","type":"replace","rangeStart":85,"rangeEnd":91,"text":"&cities","textLength":7,"docVersion":115,"source":"paste-refactor"}
+{"t":1794963797469,"file":"Population.cpp","type":"file-save"}
+{"t":1794963800677,"file":"Population.cpp","type":"delete","rangeStart":100,"rangeEnd":132,"text":"","textLength":0,"docVersion":116}
+{"t":1794963801171,"file":"Population.cpp","type":"delete","rangeStart":98,"rangeEnd":100,"text":"","textLength":0,"docVersion":117}
+{"t":1794963802216,"file":"Population.cpp","type":"file-save"}
+{"t":1794963808153,"file":"Population.cpp","type":"delete","rangeStart":100,"rangeEnd":183,"text":"","textLength":0,"docVersion":118}
+{"t":1794963809204,"file":"Population.cpp","type":"file-save"}
+{"t":1794963827603,"file":"Population.cpp","type":"copy-command","size":7}
+{"t":1794963830892,"file":"Population.cpp","type":"paste-command","size":7}
+{"t":1794963830899,"file":"Population.cpp","type":"replace","rangeStart":85,"rangeEnd":95,"text":"&cities","textLength":7,"docVersion":119,"source":"paste-refactor"}
+{"t":1794963831937,"file":"Population.cpp","type":"file-save"}
+{"t":1794963844456,"file":"Population.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"(","textLength":1,"docVersion":120}
+{"t":1794963845495,"file":"Population.cpp","type":"file-save"}
+{"t":1794963846222,"file":"Population.cpp","type":"insert","rangeStart":93,"rangeEnd":93,"text":")","textLength":1,"docVersion":121}
+{"t":1794963847275,"file":"Population.cpp","type":"file-save"}
+{"t":1794963851031,"file":"Population.cpp","type":"insert","rangeStart":97,"rangeEnd":97,"text":"\r\n    ","textLength":6,"docVersion":122}
+{"t":1794963852075,"file":"Population.cpp","type":"file-save"}
+{"t":1794963857684,"file":"Population.cpp","type":"copy-command","size":12}
+{"t":1794963858630,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963858637,"file":"Population.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"vector<City>","textLength":12,"docVersion":123,"source":"paste-refactor"}
+{"t":1794963858804,"file":"Population.cpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"                                                            ","textLength":60,"docVersion":124}
+{"t":1794963858804,"file":"Population.cpp","type":"insert","rangeStart":161,"rangeEnd":161,"text":" ","textLength":1,"docVersion":124}
+{"t":1794963858804,"file":"Population.cpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"                                                        ","textLength":56,"docVersion":124}
+{"t":1794963858804,"file":"Population.cpp","type":"insert","rangeStart":119,"rangeEnd":119,"text":"                                                        ","textLength":56,"docVersion":124}
+{"t":1794963858804,"file":"Population.cpp","type":"insert","rangeStart":103,"rangeEnd":103,"text":"                                                        ","textLength":56,"docVersion":124}
+{"t":1794963858804,"file":"Population.cpp","type":"delete","rangeStart":94,"rangeEnd":96,"text":"","textLength":0,"docVersion":124}
+{"t":1794963859847,"file":"Population.cpp","type":"file-save"}
+{"t":1794963860193,"file":"Population.cpp","type":"delete","rangeStart":352,"rangeEnd":412,"text":"","textLength":0,"docVersion":125}
+{"t":1794963860193,"file":"Population.cpp","type":"delete","rangeStart":327,"rangeEnd":328,"text":"","textLength":0,"docVersion":125}
+{"t":1794963860193,"file":"Population.cpp","type":"delete","rangeStart":234,"rangeEnd":290,"text":"","textLength":0,"docVersion":125}
+{"t":1794963860193,"file":"Population.cpp","type":"delete","rangeStart":173,"rangeEnd":229,"text":"","textLength":0,"docVersion":125}
+{"t":1794963860193,"file":"Population.cpp","type":"delete","rangeStart":101,"rangeEnd":157,"text":"","textLength":0,"docVersion":125}
+{"t":1794963860193,"file":"Population.cpp","type":"insert","rangeStart":94,"rangeEnd":94,"text":"\r\n","textLength":2,"docVersion":125}
+{"t":1794963861226,"file":"Population.cpp","type":"file-save"}
+{"t":1794963863428,"file":"Population.cpp","type":"insert","rangeStart":115,"rangeEnd":115,"text":" ","textLength":1,"docVersion":126}
+{"t":1794963864451,"file":"Population.cpp","type":"file-save"}
+{"t":1794963866108,"file":"Population.cpp","type":"insert","rangeStart":116,"rangeEnd":116,"text":"c","textLength":1,"docVersion":127}
+{"t":1794963866620,"file":"Population.cpp","type":"insert","rangeStart":117,"rangeEnd":117,"text":"t","textLength":1,"docVersion":128}
+{"t":1794963866865,"file":"Population.cpp","type":"insert","rangeStart":118,"rangeEnd":118,"text":"i","textLength":1,"docVersion":129}
+{"t":1794963867865,"file":"Population.cpp","type":"replace","rangeStart":116,"rangeEnd":119,"text":"cities","textLength":6,"docVersion":130}
+{"t":1794963868904,"file":"Population.cpp","type":"file-save"}
+{"t":1794963869208,"file":"Population.cpp","type":"insert","rangeStart":122,"rangeEnd":122,"text":"A","textLength":1,"docVersion":131}
+{"t":1794963869438,"file":"Population.cpp","type":"insert","rangeStart":123,"rangeEnd":123,"text":"d","textLength":1,"docVersion":132}
+{"t":1794963869613,"file":"Population.cpp","type":"insert","rangeStart":124,"rangeEnd":124,"text":"d","textLength":1,"docVersion":133}
+{"t":1794963869891,"file":"Population.cpp","type":"insert","rangeStart":125,"rangeEnd":125,"text":"r","textLength":1,"docVersion":134}
+{"t":1794963870104,"file":"Population.cpp","type":"insert","rangeStart":126,"rangeEnd":126,"text":"e","textLength":1,"docVersion":135}
+{"t":1794963870523,"file":"Population.cpp","type":"insert","rangeStart":127,"rangeEnd":127,"text":"s","textLength":1,"docVersion":136}
+{"t":1794963870777,"file":"Population.cpp","type":"insert","rangeStart":128,"rangeEnd":128,"text":"s","textLength":1,"docVersion":137}
+{"t":1794963871470,"file":"Population.cpp","type":"insert","rangeStart":129,"rangeEnd":129,"text":";","textLength":1,"docVersion":138}
+{"t":1794963872500,"file":"Population.cpp","type":"file-save"}
+{"t":1794963873793,"file":"Population.cpp","type":"copy-command","size":13}
+{"t":1794963875241,"file":"Population.cpp","type":"paste-command","size":13}
+{"t":1794963875264,"file":"Population.cpp","type":"insert","rangeStart":85,"rangeEnd":85,"text":"citiesAddress","textLength":13,"docVersion":139,"source":"paste-refactor"}
+{"t":1794963876298,"file":"Population.cpp","type":"file-save"}
+{"t":1794963893002,"file":"Population.cpp","type":"insert","rangeStart":143,"rangeEnd":143,"text":"\r\n    ","textLength":6,"docVersion":140}
+{"t":1794963894049,"file":"Population.cpp","type":"file-save"}
+{"t":1794963905319,"file":"Population.cpp","type":"window-blur"}
+{"t":1794963907088,"file":"Population.cpp","type":"window-focus"}
+{"t":1794963908326,"file":"Population.cpp","type":"copy-command","size":125}
+{"t":1794963909096,"file":"Population.cpp","type":"window-blur"}
+{"t":1794963931747,"file":"Population.cpp","type":"window-focus"}
+{"t":1794963934995,"file":"Population.cpp","type":"copy-command","size":12}
+{"t":1794963936380,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794963936393,"file":"Population.cpp","type":"delete","rangeStart":145,"rangeEnd":149,"text":"","textLength":0,"docVersion":141}
+{"t":1794963936393,"file":"Population.cpp","type":"insert","rangeStart":34,"rangeEnd":34,"text":"Population::","textLength":12,"docVersion":141,"source":"paste-refactor"}
+{"t":1794963937426,"file":"Population.cpp","type":"file-save"}
+{"t":1794963943909,"file":"Population.cpp","type":"delete","rangeStart":95,"rangeEnd":119,"text":"","textLength":0,"docVersion":142}
+{"t":1794963944291,"file":"Population.cpp","type":"delete","rangeStart":94,"rangeEnd":95,"text":"","textLength":0,"docVersion":143}
+{"t":1794963945324,"file":"Population.cpp","type":"file-save"}
+{"t":1794963950780,"file":"Population.cpp","type":"insert","rangeStart":113,"rangeEnd":113,"text":"*","textLength":1,"docVersion":144}
+{"t":1794963951829,"file":"Population.cpp","type":"file-save"}
+{"t":1794963958852,"file":"Tour.cpp","type":"copy-command","size":174}
+{"t":1794963963903,"file":"Population.cpp","type":"delete","rangeStart":113,"rangeEnd":114,"text":"","textLength":0,"docVersion":145}
+{"t":1794963964946,"file":"Population.cpp","type":"file-save"}
+{"t":1794963966130,"file":"Population.cpp","type":"insert","rangeStart":114,"rangeEnd":114,"text":"*","textLength":1,"docVersion":146}
+{"t":1794963967172,"file":"Population.cpp","type":"file-save"}
+{"t":1794963971707,"file":"Population.cpp","type":"insert","rangeStart":131,"rangeEnd":131,"text":"\r\n    ","textLength":6,"docVersion":147}
+{"t":1794963972522,"file":"Population.cpp","type":"paste-command","size":174}
+{"t":1794963972527,"file":"Population.cpp","type":"insert","rangeStart":137,"rangeEnd":137,"text":"    for (size_t i = 0; i < cities.size(); i++) {\r\n        size_t next = (i + 1) % cities.size();\r\n        totalDistance += cities[i]->calculateDistance(*cities[next]);\r\n    }","textLength":174,"docVersion":148,"source":"paste-refactor"}
+{"t":1794963972659,"file":"Population.cpp","type":"delete","rangeStart":311,"rangeEnd":315,"text":"","textLength":0,"docVersion":149}
+{"t":1794963972659,"file":"Population.cpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"  ","textLength":2,"docVersion":149}
+{"t":1794963972659,"file":"Population.cpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":"\r\n ","textLength":3,"docVersion":149}
+{"t":1794963972659,"file":"Population.cpp","type":"delete","rangeStart":137,"rangeEnd":141,"text":"","textLength":0,"docVersion":149}
+{"t":1794963973714,"file":"Population.cpp","type":"file-save"}
+{"t":1794963977768,"file":"Population.cpp","type":"delete","rangeStart":188,"rangeEnd":305,"text":"","textLength":0,"docVersion":150}
+{"t":1794963978812,"file":"Population.cpp","type":"file-save"}
+{"t":1794963978865,"file":"Population.cpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"        ","textLength":8,"docVersion":151}
+{"t":1794963979915,"file":"Population.cpp","type":"file-save"}
+{"t":1794963980175,"file":"Population.cpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"c","textLength":1,"docVersion":152}
+{"t":1794963980373,"file":"Population.cpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"i","textLength":1,"docVersion":153}
+{"t":1794963981416,"file":"Population.cpp","type":"file-save"}
+{"t":1794963982029,"file":"Population.cpp","type":"replace","rangeStart":196,"rangeEnd":198,"text":"citiesAddress","textLength":13,"docVersion":154}
+{"t":1794963983072,"file":"Population.cpp","type":"file-save"}
+{"t":1794963984253,"file":"Population.cpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":".","textLength":1,"docVersion":155}
+{"t":1794963984542,"file":"Population.cpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"p","textLength":1,"docVersion":156}
+{"t":1794963985580,"file":"Population.cpp","type":"file-save"}
+{"t":1794963988466,"file":"Population.cpp","type":"replace","rangeStart":210,"rangeEnd":211,"text":"push_back","textLength":9,"docVersion":157}
+{"t":1794963989494,"file":"Population.cpp","type":"file-save"}
+{"t":1794963991137,"file":"Population.cpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"()","textLength":2,"docVersion":158}
+{"t":1794963991278,"file":"Population.cpp","type":"replace","rangeStart":220,"rangeEnd":221,"text":")","textLength":1,"docVersion":159}
+{"t":1794963992310,"file":"Population.cpp","type":"file-save"}
+{"t":1794964014584,"file":"Population.cpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"&","textLength":1,"docVersion":160}
+{"t":1794964015483,"file":"Population.cpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":"c","textLength":1,"docVersion":161}
+{"t":1794964015727,"file":"Population.cpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"i","textLength":1,"docVersion":162}
+{"t":1794964016768,"file":"Population.cpp","type":"file-save"}
+{"t":1794964016940,"file":"Population.cpp","type":"replace","rangeStart":221,"rangeEnd":223,"text":"cities","textLength":6,"docVersion":163}
+{"t":1794964017986,"file":"Population.cpp","type":"insert","rangeStart":227,"rangeEnd":227,"text":"[]","textLength":2,"docVersion":164}
+{"t":1794964017991,"file":"Population.cpp","type":"file-save"}
+{"t":1794964019018,"file":"Population.cpp","type":"file-save"}
+{"t":1794964019157,"file":"Population.cpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"0","textLength":1,"docVersion":165}
+{"t":1794964020206,"file":"Population.cpp","type":"file-save"}
+{"t":1794964020731,"file":"Population.cpp","type":"delete","rangeStart":228,"rangeEnd":229,"text":"","textLength":0,"docVersion":166}
+{"t":1794964021778,"file":"Population.cpp","type":"file-save"}
+{"t":1794964021928,"file":"Population.cpp","type":"insert","rangeStart":228,"rangeEnd":228,"text":"i","textLength":1,"docVersion":167}
+{"t":1794964022985,"file":"Population.cpp","type":"file-save"}
+{"t":1794964027096,"file":"Population.cpp","type":"insert","rangeStart":231,"rangeEnd":231,"text":";","textLength":1,"docVersion":168}
+{"t":1794964028141,"file":"Population.cpp","type":"file-save"}
+{"t":1794964030044,"file":"Population.cpp","type":"copy-command","size":106}
+{"t":1794964031747,"file":"Population.cpp","type":"insert","rangeStart":239,"rangeEnd":239,"text":"\r\n    ","textLength":6,"docVersion":169}
+{"t":1794964032295,"file":"Population.cpp","type":"paste-command","size":106}
+{"t":1794964032304,"file":"Population.cpp","type":"insert","rangeStart":245,"rangeEnd":245,"text":"    for (size_t i = 0; i < cities.size(); i++)\r\n    {\r\n        citiesAddress.push_back(&cities[i]);\r\n    }","textLength":106,"docVersion":170,"source":"paste-refactor"}
+{"t":1794964032365,"file":"Population.cpp","type":"delete","rangeStart":245,"rangeEnd":249,"text":"","textLength":0,"docVersion":171}
+{"t":1794964033396,"file":"Population.cpp","type":"file-save"}
+{"t":1794964041264,"file":"Population.cpp","type":"replace","rangeStart":250,"rangeEnd":256,"text":"i","textLength":1,"docVersion":172}
+{"t":1794964041439,"file":"Population.cpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"n","textLength":1,"docVersion":173}
+{"t":1794964041599,"file":"Population.cpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"t","textLength":1,"docVersion":174}
+{"t":1794964042637,"file":"Population.cpp","type":"file-save"}
+{"t":1794964047172,"file":"Population.cpp","type":"copy-command","size":7}
+{"t":1794964051890,"file":"Population.cpp","type":"paste-command","size":7}
+{"t":1794964051899,"file":"Population.cpp","type":"replace","rangeStart":265,"rangeEnd":278,"text":"popSize","textLength":7,"docVersion":175,"source":"paste-refactor"}
+{"t":1794964052944,"file":"Population.cpp","type":"file-save"}
+{"t":1794964058297,"file":"Population.cpp","type":"delete","rangeStart":295,"rangeEnd":331,"text":"","textLength":0,"docVersion":176}
+{"t":1794964059347,"file":"Population.cpp","type":"file-save"}
+{"t":1794964131370,"file":"Population.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"n","textLength":1,"docVersion":177}
+{"t":1794964132000,"file":"Population.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"e","textLength":1,"docVersion":178}
+{"t":1794964133036,"file":"Population.cpp","type":"file-save"}
+{"t":1794964133039,"file":"Population.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"w","textLength":1,"docVersion":179}
+{"t":1794964134076,"file":"Population.cpp","type":"file-save"}
+{"t":1794964134239,"file":"Population.cpp","type":"delete","rangeStart":297,"rangeEnd":298,"text":"","textLength":0,"docVersion":180}
+{"t":1794964134421,"file":"Population.cpp","type":"delete","rangeStart":296,"rangeEnd":297,"text":"","textLength":0,"docVersion":181}
+{"t":1794964134605,"file":"Population.cpp","type":"delete","rangeStart":295,"rangeEnd":296,"text":"","textLength":0,"docVersion":182}
+{"t":1794964135641,"file":"Population.cpp","type":"file-save"}
+{"t":1794964137942,"file":"Population.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"t","textLength":1,"docVersion":183}
+{"t":1794964138595,"file":"Population.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"o","textLength":1,"docVersion":184}
+{"t":1794964138822,"file":"Population.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"u","textLength":1,"docVersion":185}
+{"t":1794964139089,"file":"Population.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"r","textLength":1,"docVersion":186}
+{"t":1794964139230,"file":"Population.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":" ","textLength":1,"docVersion":187}
+{"t":1794964139639,"file":"Population.cpp","type":"insert","rangeStart":300,"rangeEnd":300,"text":"=","textLength":1,"docVersion":188}
+{"t":1794964139868,"file":"Population.cpp","type":"insert","rangeStart":301,"rangeEnd":301,"text":" ","textLength":1,"docVersion":189}
+{"t":1794964140081,"file":"Population.cpp","type":"insert","rangeStart":302,"rangeEnd":302,"text":"n","textLength":1,"docVersion":190}
+{"t":1794964140327,"file":"Population.cpp","type":"insert","rangeStart":303,"rangeEnd":303,"text":"e","textLength":1,"docVersion":191}
+{"t":1794964140622,"file":"Population.cpp","type":"insert","rangeStart":304,"rangeEnd":304,"text":"w","textLength":1,"docVersion":192}
+{"t":1794964140771,"file":"Population.cpp","type":"insert","rangeStart":305,"rangeEnd":305,"text":" ","textLength":1,"docVersion":193}
+{"t":1794964141459,"file":"Population.cpp","type":"insert","rangeStart":306,"rangeEnd":306,"text":"T","textLength":1,"docVersion":194}
+{"t":1794964141818,"file":"Population.cpp","type":"insert","rangeStart":307,"rangeEnd":307,"text":"o","textLength":1,"docVersion":195}
+{"t":1794964142048,"file":"Population.cpp","type":"insert","rangeStart":308,"rangeEnd":308,"text":"u","textLength":1,"docVersion":196}
+{"t":1794964142474,"file":"Population.cpp","type":"insert","rangeStart":309,"rangeEnd":309,"text":"r","textLength":1,"docVersion":197}
+{"t":1794964142722,"file":"Population.cpp","type":"insert","rangeStart":310,"rangeEnd":310,"text":";","textLength":1,"docVersion":198}
+{"t":1794964142969,"file":"Population.cpp","type":"insert","rangeStart":311,"rangeEnd":311,"text":"\r\n        ","textLength":10,"docVersion":199}
+{"t":1794964144021,"file":"Population.cpp","type":"file-save"}
+{"t":1794964149663,"file":"Population.cpp","type":"delete","rangeStart":313,"rangeEnd":321,"text":"","textLength":0,"docVersion":200}
+{"t":1794964149663,"file":"Population.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"T","textLength":1,"docVersion":200}
+{"t":1794964149951,"file":"Population.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"o","textLength":1,"docVersion":201}
+{"t":1794964150157,"file":"Population.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"u","textLength":1,"docVersion":202}
+{"t":1794964150704,"file":"Population.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"r","textLength":1,"docVersion":203}
+{"t":1794964150889,"file":"Population.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":" ","textLength":1,"docVersion":204}
+{"t":1794964151904,"file":"Population.cpp","type":"file-save"}
+{"t":1794964178559,"file":"Tour.cpp","type":"copy-command","size":21}
+{"t":1794964189418,"file":"Population.cpp","type":"insert","rangeStart":318,"rangeEnd":318,"text":"        ","textLength":8,"docVersion":205}
+{"t":1794964190049,"file":"Population.cpp","type":"insert","rangeStart":326,"rangeEnd":326,"text":"    ","textLength":4,"docVersion":206}
+{"t":1794964191086,"file":"Population.cpp","type":"file-save"}
+{"t":1794964191098,"file":"Population.cpp","type":"paste-command","size":21}
+{"t":1794964191103,"file":"Population.cpp","type":"insert","rangeStart":330,"rangeEnd":330,"text":"Tour::shuffleCities()","textLength":21,"docVersion":207,"source":"paste-refactor"}
+{"t":1794964191154,"file":"Population.cpp","type":"delete","rangeStart":326,"rangeEnd":330,"text":"","textLength":0,"docVersion":208}
+{"t":1794964192191,"file":"Population.cpp","type":"file-save"}
+{"t":1794964195143,"file":"Population.cpp","type":"replace","rangeStart":326,"rangeEnd":332,"text":"t","textLength":1,"docVersion":209}
+{"t":1794964195361,"file":"Population.cpp","type":"insert","rangeStart":327,"rangeEnd":327,"text":"o","textLength":1,"docVersion":210}
+{"t":1794964195573,"file":"Population.cpp","type":"insert","rangeStart":328,"rangeEnd":328,"text":"u","textLength":1,"docVersion":211}
+{"t":1794964195811,"file":"Population.cpp","type":"insert","rangeStart":329,"rangeEnd":329,"text":"r","textLength":1,"docVersion":212}
+{"t":1794964196044,"file":"Population.cpp","type":"insert","rangeStart":330,"rangeEnd":330,"text":",","textLength":1,"docVersion":213}
+{"t":1794964196989,"file":"Population.cpp","type":"delete","rangeStart":330,"rangeEnd":331,"text":"","textLength":0,"docVersion":214}
+{"t":1794964198027,"file":"Population.cpp","type":"file-save"}
+{"t":1794964198099,"file":"Population.cpp","type":"insert","rangeStart":330,"rangeEnd":330,"text":".","textLength":1,"docVersion":215}
+{"t":1794964199154,"file":"Population.cpp","type":"file-save"}
+{"t":1794964232735,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964280772,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964286549,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964286556,"file":"Population.cpp","type":"window-focus"}
+{"t":1794964291529,"file":"Population.cpp","type":"replace","rangeStart":10,"rangeEnd":24,"text":"?","textLength":1,"docVersion":216}
+{"t":1794964292586,"file":"Population.cpp","type":"file-save"}
+{"t":1794964293029,"file":"Population.cpp","type":"delete","rangeStart":10,"rangeEnd":11,"text":"","textLength":0,"docVersion":217}
+{"t":1794964294072,"file":"Population.cpp","type":"file-save"}
+{"t":1794964296262,"file":"Population.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"?","textLength":1,"docVersion":218}
+{"t":1794964296676,"file":"Population.cpp","type":"replace","rangeStart":10,"rangeEnd":11,"text":"Population.hpp","textLength":14,"docVersion":219}
+{"t":1794964297713,"file":"Population.cpp","type":"file-save"}
+{"t":1794964298239,"file":"Population.cpp","type":"insert","rangeStart":24,"rangeEnd":24,"text":"\"","textLength":1,"docVersion":220}
+{"t":1794964298239,"file":"Population.cpp","type":"insert","rangeStart":10,"rangeEnd":10,"text":"\"","textLength":1,"docVersion":220}
+{"t":1794964299292,"file":"Population.cpp","type":"file-save"}
+{"t":1794964336937,"file":"Population.cpp","type":"delete","rangeStart":26,"rangeEnd":27,"text":"","textLength":0,"docVersion":221}
+{"t":1794964337981,"file":"Population.cpp","type":"file-save"}
+{"t":1794964339460,"file":"Population.cpp","type":"delete","rangeStart":9,"rangeEnd":10,"text":"","textLength":0,"docVersion":222}
+{"t":1794964340512,"file":"Population.cpp","type":"file-save"}
+{"t":1794964355727,"file":"Population.cpp","type":"delete","rangeStart":295,"rangeEnd":300,"text":"","textLength":0,"docVersion":223}
+{"t":1794964356773,"file":"Population.cpp","type":"file-save"}
+{"t":1794964359916,"file":"Population.cpp","type":"insert","rangeStart":295,"rangeEnd":295,"text":"T","textLength":1,"docVersion":224}
+{"t":1794964360363,"file":"Population.cpp","type":"insert","rangeStart":296,"rangeEnd":296,"text":"o","textLength":1,"docVersion":225}
+{"t":1794964360604,"file":"Population.cpp","type":"insert","rangeStart":297,"rangeEnd":297,"text":"u","textLength":1,"docVersion":226}
+{"t":1794964360866,"file":"Population.cpp","type":"insert","rangeStart":298,"rangeEnd":298,"text":"r","textLength":1,"docVersion":227}
+{"t":1794964361900,"file":"Population.cpp","type":"file-save"}
+{"t":1794964362767,"file":"Population.cpp","type":"insert","rangeStart":299,"rangeEnd":299,"text":" ","textLength":1,"docVersion":228}
+{"t":1794964363790,"file":"Population.cpp","type":"file-save"}
+{"t":1794964367156,"file":"Population.cpp","type":"delete","rangeStart":314,"rangeEnd":315,"text":"","textLength":0,"docVersion":229}
+{"t":1794964367370,"file":"Population.cpp","type":"delete","rangeStart":313,"rangeEnd":314,"text":"","textLength":0,"docVersion":230}
+{"t":1794964367582,"file":"Population.cpp","type":"delete","rangeStart":312,"rangeEnd":313,"text":"","textLength":0,"docVersion":231}
+{"t":1794964367770,"file":"Population.cpp","type":"delete","rangeStart":311,"rangeEnd":312,"text":"","textLength":0,"docVersion":232}
+{"t":1794964368177,"file":"Population.cpp","type":"delete","rangeStart":310,"rangeEnd":311,"text":"","textLength":0,"docVersion":233}
+{"t":1794964368381,"file":"Population.cpp","type":"delete","rangeStart":309,"rangeEnd":310,"text":"","textLength":0,"docVersion":234}
+{"t":1794964368561,"file":"Population.cpp","type":"delete","rangeStart":308,"rangeEnd":309,"text":"","textLength":0,"docVersion":235}
+{"t":1794964368747,"file":"Population.cpp","type":"delete","rangeStart":307,"rangeEnd":308,"text":"","textLength":0,"docVersion":236}
+{"t":1794964368928,"file":"Population.cpp","type":"delete","rangeStart":306,"rangeEnd":307,"text":"","textLength":0,"docVersion":237}
+{"t":1794964369131,"file":"Population.cpp","type":"delete","rangeStart":305,"rangeEnd":306,"text":"","textLength":0,"docVersion":238}
+{"t":1794964369367,"file":"Population.cpp","type":"delete","rangeStart":304,"rangeEnd":305,"text":"","textLength":0,"docVersion":239}
+{"t":1794964370399,"file":"Population.cpp","type":"file-save"}
+{"t":1794964370539,"file":"Population.cpp","type":"insert","rangeStart":304,"rangeEnd":304,"text":"()","textLength":2,"docVersion":240}
+{"t":1794964371588,"file":"Population.cpp","type":"file-save"}
+{"t":1794964371896,"file":"Population.cpp","type":"insert","rangeStart":305,"rangeEnd":305,"text":"c","textLength":1,"docVersion":241}
+{"t":1794964372250,"file":"Population.cpp","type":"insert","rangeStart":306,"rangeEnd":306,"text":"i","textLength":1,"docVersion":242}
+{"t":1794964373291,"file":"Population.cpp","type":"file-save"}
+{"t":1794964373670,"file":"Population.cpp","type":"replace","rangeStart":305,"rangeEnd":307,"text":"citiesAddress","textLength":13,"docVersion":243}
+{"t":1794964374722,"file":"Population.cpp","type":"file-save"}
+{"t":1794964388237,"file":"Population.cpp","type":"insert","rangeStart":350,"rangeEnd":350,"text":"\r\n        ","textLength":10,"docVersion":244}
+{"t":1794964389300,"file":"Population.cpp","type":"file-save"}
+{"t":1794964414776,"file":"Population.cpp","type":"insert","rangeStart":360,"rangeEnd":360,"text":"t","textLength":1,"docVersion":245}
+{"t":1794964415240,"file":"Population.cpp","type":"insert","rangeStart":361,"rangeEnd":361,"text":"o","textLength":1,"docVersion":246}
+{"t":1794964415541,"file":"Population.cpp","type":"insert","rangeStart":362,"rangeEnd":362,"text":"u","textLength":1,"docVersion":247}
+{"t":1794964415849,"file":"Population.cpp","type":"insert","rangeStart":363,"rangeEnd":363,"text":"r","textLength":1,"docVersion":248}
+{"t":1794964416082,"file":"Population.cpp","type":"insert","rangeStart":364,"rangeEnd":364,"text":"s","textLength":1,"docVersion":249}
+{"t":1794964417118,"file":"Population.cpp","type":"file-save"}
+{"t":1794964417181,"file":"Population.cpp","type":"insert","rangeStart":365,"rangeEnd":365,"text":".","textLength":1,"docVersion":250}
+{"t":1794964417532,"file":"Population.cpp","type":"insert","rangeStart":366,"rangeEnd":366,"text":"p","textLength":1,"docVersion":251}
+{"t":1794964417885,"file":"Population.cpp","type":"insert","rangeStart":367,"rangeEnd":367,"text":"u","textLength":1,"docVersion":252}
+{"t":1794964418681,"file":"Population.cpp","type":"insert","rangeStart":368,"rangeEnd":368,"text":"s","textLength":1,"docVersion":253}
+{"t":1794964419290,"file":"Population.cpp","type":"insert","rangeStart":369,"rangeEnd":369,"text":"h","textLength":1,"docVersion":254}
+{"t":1794964419540,"file":"Population.cpp","type":"insert","rangeStart":370,"rangeEnd":370,"text":"b","textLength":1,"docVersion":255}
+{"t":1794964420513,"file":"Population.cpp","type":"delete","rangeStart":370,"rangeEnd":371,"text":"","textLength":0,"docVersion":256}
+{"t":1794964421558,"file":"Population.cpp","type":"file-save"}
+{"t":1794964421597,"file":"Population.cpp","type":"insert","rangeStart":370,"rangeEnd":370,"text":"_","textLength":1,"docVersion":257}
+{"t":1794964422640,"file":"Population.cpp","type":"file-save"}
+{"t":1794964423732,"file":"Population.cpp","type":"insert","rangeStart":371,"rangeEnd":371,"text":"b","textLength":1,"docVersion":258}
+{"t":1794964424104,"file":"Population.cpp","type":"insert","rangeStart":372,"rangeEnd":372,"text":"a","textLength":1,"docVersion":259}
+{"t":1794964424421,"file":"Population.cpp","type":"insert","rangeStart":373,"rangeEnd":373,"text":"c","textLength":1,"docVersion":260}
+{"t":1794964425066,"file":"Population.cpp","type":"insert","rangeStart":374,"rangeEnd":374,"text":"k","textLength":1,"docVersion":261}
+{"t":1794964426097,"file":"Population.cpp","type":"file-save"}
+{"t":1794964427730,"file":"Population.cpp","type":"insert","rangeStart":375,"rangeEnd":375,"text":"()","textLength":2,"docVersion":262}
+{"t":1794964428781,"file":"Population.cpp","type":"file-save"}
+{"t":1794964428973,"file":"Population.cpp","type":"insert","rangeStart":376,"rangeEnd":376,"text":"t","textLength":1,"docVersion":263}
+{"t":1794964429156,"file":"Population.cpp","type":"insert","rangeStart":377,"rangeEnd":377,"text":"o","textLength":1,"docVersion":264}
+{"t":1794964429374,"file":"Population.cpp","type":"insert","rangeStart":378,"rangeEnd":378,"text":"u","textLength":1,"docVersion":265}
+{"t":1794964429687,"file":"Population.cpp","type":"insert","rangeStart":379,"rangeEnd":379,"text":"r","textLength":1,"docVersion":266}
+{"t":1794964430713,"file":"Population.cpp","type":"file-save"}
+{"t":1794964432334,"file":"Population.cpp","type":"insert","rangeStart":350,"rangeEnd":350,"text":";","textLength":1,"docVersion":267}
+{"t":1794964433356,"file":"Population.cpp","type":"file-save"}
+{"t":1794964434040,"file":"Population.cpp","type":"insert","rangeStart":382,"rangeEnd":382,"text":";","textLength":1,"docVersion":268}
+{"t":1794964435080,"file":"Population.cpp","type":"file-save"}
+{"t":1794964450676,"file":"Population.cpp","type":"insert","rangeStart":454,"rangeEnd":454,"text":"{}","textLength":2,"docVersion":269}
+{"t":1794964451082,"file":"Population.cpp","type":"insert","rangeStart":455,"rangeEnd":455,"text":"\r\n    \r\n","textLength":8,"docVersion":270}
+{"t":1794964451956,"file":"Population.cpp","type":"insert","rangeStart":461,"rangeEnd":461,"text":"g","textLength":1,"docVersion":271}
+{"t":1794964452212,"file":"Population.cpp","type":"insert","rangeStart":462,"rangeEnd":462,"text":"e","textLength":1,"docVersion":272}
+{"t":1794964452589,"file":"Population.cpp","type":"insert","rangeStart":463,"rangeEnd":463,"text":"n","textLength":1,"docVersion":273}
+{"t":1794964453617,"file":"Population.cpp","type":"file-save"}
+{"t":1794964454072,"file":"Population.cpp","type":"replace","rangeStart":461,"rangeEnd":464,"text":"generateTours","textLength":13,"docVersion":274}
+{"t":1794964455123,"file":"Population.cpp","type":"file-save"}
+{"t":1794964455384,"file":"Population.cpp","type":"insert","rangeStart":474,"rangeEnd":474,"text":"()","textLength":2,"docVersion":275}
+{"t":1794964456431,"file":"Population.cpp","type":"file-save"}
+{"t":1794964456558,"file":"Population.cpp","type":"insert","rangeStart":475,"rangeEnd":475,"text":"c","textLength":1,"docVersion":276}
+{"t":1794964457063,"file":"Population.cpp","type":"insert","rangeStart":476,"rangeEnd":476,"text":"i","textLength":1,"docVersion":277}
+{"t":1794964457602,"file":"Population.cpp","type":"replace","rangeStart":475,"rangeEnd":477,"text":"cities","textLength":6,"docVersion":278}
+{"t":1794964458229,"file":"Population.cpp","type":"insert","rangeStart":481,"rangeEnd":481,"text":",","textLength":1,"docVersion":279}
+{"t":1794964459264,"file":"Population.cpp","type":"file-save"}
+{"t":1794964459378,"file":"Population.cpp","type":"insert","rangeStart":482,"rangeEnd":482,"text":" ","textLength":1,"docVersion":280}
+{"t":1794964460060,"file":"Population.cpp","type":"insert","rangeStart":483,"rangeEnd":483,"text":"p","textLength":1,"docVersion":281}
+{"t":1794964460253,"file":"Population.cpp","type":"insert","rangeStart":484,"rangeEnd":484,"text":"o","textLength":1,"docVersion":282}
+{"t":1794964460450,"file":"Population.cpp","type":"insert","rangeStart":485,"rangeEnd":485,"text":"p","textLength":1,"docVersion":283}
+{"t":1794964461495,"file":"Population.cpp","type":"file-save"}
+{"t":1794964463241,"file":"Population.cpp","type":"replace","rangeStart":483,"rangeEnd":486,"text":"popSize","textLength":7,"docVersion":284}
+{"t":1794964464285,"file":"Population.cpp","type":"file-save"}
+{"t":1794964464681,"file":"Population.cpp","type":"insert","rangeStart":491,"rangeEnd":491,"text":";","textLength":1,"docVersion":285}
+{"t":1794964465718,"file":"Population.cpp","type":"file-save"}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":781,"rangeEnd":781,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":733,"rangeEnd":733,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":696,"rangeEnd":696,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":640,"rangeEnd":640,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":550,"rangeEnd":550,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964468155,"file":"Population.cpp","type":"insert","rangeStart":499,"rangeEnd":499,"text":"// ","textLength":3,"docVersion":286}
+{"t":1794964469246,"file":"Population.cpp","type":"file-save"}
+{"t":1794964469247,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964536535,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964548925,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964548941,"file":"Population.cpp","type":"window-focus"}
+{"t":1794964558516,"file":"Population.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":"\r\n// void Population::replaceTours(vector<Tour> &newTours);","textLength":59,"docVersion":287}
+{"t":1794964558516,"file":"Population.cpp","type":"delete","rangeStart":646,"rangeEnd":705,"text":"","textLength":0,"docVersion":287}
+{"t":1794964558922,"file":"Population.cpp","type":"insert","rangeStart":684,"rangeEnd":684,"text":"\r\n// const Tour Population::&getBestFitness() const; // Find the tour with the lowest fitness","textLength":93,"docVersion":288}
+{"t":1794964558922,"file":"Population.cpp","type":"delete","rangeStart":553,"rangeEnd":646,"text":"","textLength":0,"docVersion":288}
+{"t":1794964559168,"file":"Population.cpp","type":"insert","rangeStart":591,"rangeEnd":591,"text":"\r\n// const vector<Tour> Population::&getTours() const;","textLength":54,"docVersion":289}
+{"t":1794964559168,"file":"Population.cpp","type":"delete","rangeStart":499,"rangeEnd":553,"text":"","textLength":0,"docVersion":289}
+{"t":1794964560213,"file":"Population.cpp","type":"file-save"}
+{"t":1794964564596,"file":"Population.cpp","type":"delete","rangeStart":539,"rangeEnd":542,"text":"","textLength":0,"docVersion":290}
+{"t":1794964564596,"file":"Population.cpp","type":"delete","rangeStart":499,"rangeEnd":502,"text":"","textLength":0,"docVersion":290}
+{"t":1794964565644,"file":"Population.cpp","type":"file-save"}
+{"t":1794964572066,"file":"Population.cpp","type":"insert","rangeStart":533,"rangeEnd":533,"text":"{}","textLength":2,"docVersion":291}
+{"t":1794964572354,"file":"Population.cpp","type":"insert","rangeStart":534,"rangeEnd":534,"text":"\r\n    \r\n","textLength":8,"docVersion":292}
+{"t":1794964573395,"file":"Population.cpp","type":"file-save"}
+{"t":1794964573625,"file":"Population.cpp","type":"insert","rangeStart":540,"rangeEnd":540,"text":"r","textLength":1,"docVersion":293}
+{"t":1794964573756,"file":"Population.cpp","type":"insert","rangeStart":541,"rangeEnd":541,"text":"e","textLength":1,"docVersion":294}
+{"t":1794964574051,"file":"Population.cpp","type":"insert","rangeStart":542,"rangeEnd":542,"text":"t","textLength":1,"docVersion":295}
+{"t":1794964575018,"file":"Population.cpp","type":"replace","rangeStart":540,"rangeEnd":543,"text":"return","textLength":6,"docVersion":296}
+{"t":1794964575933,"file":"Population.cpp","type":"insert","rangeStart":546,"rangeEnd":546,"text":" ","textLength":1,"docVersion":297}
+{"t":1794964576976,"file":"Population.cpp","type":"file-save"}
+{"t":1794964577654,"file":"Population.cpp","type":"copy-command","size":7}
+{"t":1794964578492,"file":"Population.cpp","type":"paste-command","size":7}
+{"t":1794964578499,"file":"Population.cpp","type":"insert","rangeStart":547,"rangeEnd":547,"text":"popSize","textLength":7,"docVersion":298,"source":"paste-refactor"}
+{"t":1794964578556,"file":"Population.cpp","type":"insert","rangeStart":533,"rangeEnd":533,"text":" ","textLength":1,"docVersion":299}
+{"t":1794964579263,"file":"Population.cpp","type":"insert","rangeStart":555,"rangeEnd":555,"text":";","textLength":1,"docVersion":300}
+{"t":1794964580298,"file":"Population.cpp","type":"file-save"}
+{"t":1794964620946,"file":"Population.cpp","type":"replace","rangeStart":548,"rangeEnd":555,"text":"t","textLength":1,"docVersion":301}
+{"t":1794964621100,"file":"Population.cpp","type":"insert","rangeStart":549,"rangeEnd":549,"text":"o","textLength":1,"docVersion":302}
+{"t":1794964621374,"file":"Population.cpp","type":"insert","rangeStart":550,"rangeEnd":550,"text":"u","textLength":1,"docVersion":303}
+{"t":1794964621718,"file":"Population.cpp","type":"insert","rangeStart":551,"rangeEnd":551,"text":"r","textLength":1,"docVersion":304}
+{"t":1794964622735,"file":"Population.cpp","type":"file-save"}
+{"t":1794964622773,"file":"Population.cpp","type":"insert","rangeStart":552,"rangeEnd":552,"text":"s","textLength":1,"docVersion":305}
+{"t":1794964623544,"file":"Population.cpp","type":"insert","rangeStart":553,"rangeEnd":553,"text":".","textLength":1,"docVersion":306}
+{"t":1794964624578,"file":"Population.cpp","type":"file-save"}
+{"t":1794964625739,"file":"Population.cpp","type":"insert","rangeStart":554,"rangeEnd":554,"text":"s","textLength":1,"docVersion":307}
+{"t":1794964625991,"file":"Population.cpp","type":"insert","rangeStart":555,"rangeEnd":555,"text":"i","textLength":1,"docVersion":308}
+{"t":1794964626264,"file":"Population.cpp","type":"insert","rangeStart":556,"rangeEnd":556,"text":"z","textLength":1,"docVersion":309}
+{"t":1794964626561,"file":"Population.cpp","type":"insert","rangeStart":557,"rangeEnd":557,"text":"e","textLength":1,"docVersion":310}
+{"t":1794964626990,"file":"Population.cpp","type":"insert","rangeStart":558,"rangeEnd":558,"text":"()","textLength":2,"docVersion":311}
+{"t":1794964627183,"file":"Population.cpp","type":"insert","rangeStart":559,"rangeEnd":559,"text":"()","textLength":2,"docVersion":312}
+{"t":1794964627760,"file":"Population.cpp","type":"delete","rangeStart":559,"rangeEnd":561,"text":"","textLength":0,"docVersion":313}
+{"t":1794964628794,"file":"Population.cpp","type":"file-save"}
+{"t":1794964633975,"file":"Population.cpp","type":"copy-command","size":20}
+{"t":1794964636331,"file":"Population.cpp","type":"delete","rangeStart":615,"rangeEnd":616,"text":"","textLength":0,"docVersion":314}
+{"t":1794964637375,"file":"Population.cpp","type":"file-save"}
+{"t":1794964640110,"file":"Population.cpp","type":"delete","rangeStart":564,"rangeEnd":565,"text":"","textLength":0,"docVersion":315}
+{"t":1794964641158,"file":"Population.cpp","type":"file-save"}
+{"t":1794964641365,"file":"Population.cpp","type":"insert","rangeStart":564,"rangeEnd":564,"text":"\r\n","textLength":2,"docVersion":316}
+{"t":1794964642414,"file":"Population.cpp","type":"file-save"}
+{"t":1794964644431,"file":"Population.cpp","type":"insert","rangeStart":616,"rangeEnd":616,"text":" ","textLength":1,"docVersion":317}
+{"t":1794964644813,"file":"Population.cpp","type":"insert","rangeStart":617,"rangeEnd":617,"text":"{}","textLength":2,"docVersion":318}
+{"t":1794964645113,"file":"Population.cpp","type":"insert","rangeStart":618,"rangeEnd":618,"text":"\r\n    \r\n","textLength":8,"docVersion":319}
+{"t":1794964646165,"file":"Population.cpp","type":"file-save"}
+{"t":1794964648746,"file":"Population.cpp","type":"paste-command","size":20}
+{"t":1794964648756,"file":"Population.cpp","type":"insert","rangeStart":624,"rangeEnd":624,"text":"return tours.size();","textLength":20,"docVersion":320,"source":"paste-refactor"}
+{"t":1794964649802,"file":"Population.cpp","type":"file-save"}
+{"t":1794964651526,"file":"Population.cpp","type":"delete","rangeStart":636,"rangeEnd":644,"text":"","textLength":0,"docVersion":321}
+{"t":1794964651809,"file":"Population.cpp","type":"insert","rangeStart":636,"rangeEnd":636,"text":";","textLength":1,"docVersion":322}
+{"t":1794964652838,"file":"Population.cpp","type":"file-save"}
+{"t":1794964655692,"file":"Population.cpp","type":"cut-command","size":1}
+{"t":1794964655697,"file":"Population.cpp","type":"delete","rangeStart":599,"rangeEnd":600,"text":"","textLength":0,"docVersion":323}
+{"t":1794964656748,"file":"Population.cpp","type":"file-save"}
+{"t":1794964659653,"file":"Population.cpp","type":"paste-command","size":1}
+{"t":1794964659661,"file":"Population.cpp","type":"insert","rangeStart":586,"rangeEnd":586,"text":"&","textLength":1,"docVersion":324,"source":"paste-refactor"}
+{"t":1794964659711,"file":"Population.cpp","type":"replace","rangeStart":616,"rangeEnd":617,"text":"\r\n","textLength":2,"docVersion":325}
+{"t":1794964659711,"file":"Population.cpp","type":"insert","rangeStart":588,"rangeEnd":588,"text":"&","textLength":1,"docVersion":325}
+{"t":1794964659711,"file":"Population.cpp","type":"delete","rangeStart":586,"rangeEnd":587,"text":"","textLength":0,"docVersion":325}
+{"t":1794964660739,"file":"Population.cpp","type":"file-save"}
+{"t":1794964665005,"file":"Population.cpp","type":"insert","rangeStart":641,"rangeEnd":641,"text":"\r\n","textLength":2,"docVersion":326}
+{"t":1794964666057,"file":"Population.cpp","type":"file-save"}
+{"t":1794964666349,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964708927,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964721193,"file":"Population.cpp","type":"window-blur"}
+{"t":1794964721213,"file":"Population.cpp","type":"window-focus"}
+{"t":1794964727279,"file":"Population.cpp","type":"copy-command","size":106}
+{"t":1794964731882,"file":"Population.cpp","type":"delete","rangeStart":645,"rangeEnd":648,"text":"","textLength":0,"docVersion":327}
+{"t":1794964732926,"file":"Population.cpp","type":"file-save"}
+{"t":1794964736191,"file":"Population.cpp","type":"delete","rangeStart":691,"rangeEnd":692,"text":"","textLength":0,"docVersion":328}
+{"t":1794964737240,"file":"Population.cpp","type":"file-save"}
+{"t":1794964739810,"file":"Population.cpp","type":"insert","rangeStart":732,"rangeEnd":732,"text":"\r\n","textLength":2,"docVersion":329}
+{"t":1794964740564,"file":"Population.cpp","type":"insert","rangeStart":734,"rangeEnd":734,"text":"{}","textLength":2,"docVersion":330}
+{"t":1794964741046,"file":"Population.cpp","type":"insert","rangeStart":735,"rangeEnd":735,"text":"\r\n    \r\n","textLength":8,"docVersion":331}
+{"t":1794964742085,"file":"Population.cpp","type":"file-save"}
+{"t":1794964743601,"file":"Population.cpp","type":"paste-command","size":106}
+{"t":1794964743612,"file":"Population.cpp","type":"insert","rangeStart":741,"rangeEnd":741,"text":"    for (size_t i = 0; i < cities.size(); i++)\r\n    {\r\n        citiesAddress.push_back(&cities[i]);\r\n    }","textLength":106,"docVersion":332,"source":"paste-refactor"}
+{"t":1794964743680,"file":"Population.cpp","type":"delete","rangeStart":741,"rangeEnd":745,"text":"","textLength":0,"docVersion":333}
+{"t":1794964744723,"file":"Population.cpp","type":"file-save"}
+{"t":1794964748757,"file":"Population.cpp","type":"cut-command","size":1}
+{"t":1794964748785,"file":"Population.cpp","type":"delete","rangeStart":668,"rangeEnd":669,"text":"","textLength":0,"docVersion":334}
+{"t":1794964749818,"file":"Population.cpp","type":"file-save"}
+{"t":1794964750451,"file":"Population.cpp","type":"paste-command","size":1}
+{"t":1794964750461,"file":"Population.cpp","type":"insert","rangeStart":656,"rangeEnd":656,"text":"&","textLength":1,"docVersion":335,"source":"paste-refactor"}
+{"t":1794964751502,"file":"Population.cpp","type":"file-save"}
+{"t":1794964755004,"file":"Population.cpp","type":"copy-command","size":5}
+{"t":1794964755983,"file":"Population.cpp","type":"paste-command","size":5}
+{"t":1794964755991,"file":"Population.cpp","type":"replace","rangeStart":764,"rangeEnd":770,"text":"tours","textLength":5,"docVersion":336,"source":"paste-refactor"}
+{"t":1794964757044,"file":"Population.cpp","type":"file-save"}
+{"t":1794964758097,"file":"Population.cpp","type":"insert","rangeStart":735,"rangeEnd":735,"text":"\r\n    ","textLength":6,"docVersion":337}
+{"t":1794964759137,"file":"Population.cpp","type":"file-save"}
+{"t":1794964772207,"file":"Population.cpp","type":"insert","rangeStart":741,"rangeEnd":741,"text":"d","textLength":1,"docVersion":338}
+{"t":1794964772407,"file":"Population.cpp","type":"insert","rangeStart":742,"rangeEnd":742,"text":"o","textLength":1,"docVersion":339}
+{"t":1794964772627,"file":"Population.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":"u","textLength":1,"docVersion":340}
+{"t":1794964772889,"file":"Population.cpp","type":"insert","rangeStart":744,"rangeEnd":744,"text":"b","textLength":1,"docVersion":341}
+{"t":1794964773128,"file":"Population.cpp","type":"insert","rangeStart":745,"rangeEnd":745,"text":"l","textLength":1,"docVersion":342}
+{"t":1794964773411,"file":"Population.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"e","textLength":1,"docVersion":343}
+{"t":1794964774457,"file":"Population.cpp","type":"file-save"}
+{"t":1794964775752,"file":"Population.cpp","type":"insert","rangeStart":747,"rangeEnd":747,"text":" ","textLength":1,"docVersion":344}
+{"t":1794964776619,"file":"Population.cpp","type":"insert","rangeStart":748,"rangeEnd":748,"text":"s","textLength":1,"docVersion":345}
+{"t":1794964776822,"file":"Population.cpp","type":"insert","rangeStart":749,"rangeEnd":749,"text":"m","textLength":1,"docVersion":346}
+{"t":1794964777261,"file":"Population.cpp","type":"insert","rangeStart":750,"rangeEnd":750,"text":"a","textLength":1,"docVersion":347}
+{"t":1794964777494,"file":"Population.cpp","type":"insert","rangeStart":751,"rangeEnd":751,"text":"l","textLength":1,"docVersion":348}
+{"t":1794964777677,"file":"Population.cpp","type":"insert","rangeStart":752,"rangeEnd":752,"text":"l","textLength":1,"docVersion":349}
+{"t":1794964777848,"file":"Population.cpp","type":"insert","rangeStart":753,"rangeEnd":753,"text":"e","textLength":1,"docVersion":350}
+{"t":1794964778163,"file":"Population.cpp","type":"insert","rangeStart":754,"rangeEnd":754,"text":"s","textLength":1,"docVersion":351}
+{"t":1794964778658,"file":"Population.cpp","type":"insert","rangeStart":755,"rangeEnd":755,"text":"t","textLength":1,"docVersion":352}
+{"t":1794964779140,"file":"Population.cpp","type":"insert","rangeStart":756,"rangeEnd":756,"text":"F","textLength":1,"docVersion":353}
+{"t":1794964779384,"file":"Population.cpp","type":"insert","rangeStart":757,"rangeEnd":757,"text":"i","textLength":1,"docVersion":354}
+{"t":1794964779662,"file":"Population.cpp","type":"insert","rangeStart":758,"rangeEnd":758,"text":"t","textLength":1,"docVersion":355}
+{"t":1794964779947,"file":"Population.cpp","type":"insert","rangeStart":759,"rangeEnd":759,"text":"n","textLength":1,"docVersion":356}
+{"t":1794964780094,"file":"Population.cpp","type":"insert","rangeStart":760,"rangeEnd":760,"text":"e","textLength":1,"docVersion":357}
+{"t":1794964780330,"file":"Population.cpp","type":"insert","rangeStart":761,"rangeEnd":761,"text":"s","textLength":1,"docVersion":358}
+{"t":1794964780488,"file":"Population.cpp","type":"insert","rangeStart":762,"rangeEnd":762,"text":"s","textLength":1,"docVersion":359}
+{"t":1794964780693,"file":"Population.cpp","type":"insert","rangeStart":763,"rangeEnd":763,"text":" ","textLength":1,"docVersion":360}
+{"t":1794964780926,"file":"Population.cpp","type":"insert","rangeStart":764,"rangeEnd":764,"text":"=","textLength":1,"docVersion":361}
+{"t":1794964781078,"file":"Population.cpp","type":"insert","rangeStart":765,"rangeEnd":765,"text":" ","textLength":1,"docVersion":362}
+{"t":1794964781348,"file":"Population.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":"0","textLength":1,"docVersion":363}
+{"t":1794964782146,"file":"Population.cpp","type":"insert","rangeStart":767,"rangeEnd":767,"text":";","textLength":1,"docVersion":364}
+{"t":1794964783179,"file":"Population.cpp","type":"file-save"}
+{"t":1794964791329,"file":"Population.cpp","type":"delete","rangeStart":832,"rangeEnd":868,"text":"","textLength":0,"docVersion":365}
+{"t":1794964791714,"file":"Population.cpp","type":"insert","rangeStart":832,"rangeEnd":832,"text":"t","textLength":1,"docVersion":366}
+{"t":1794964791934,"file":"Population.cpp","type":"insert","rangeStart":833,"rangeEnd":833,"text":"o","textLength":1,"docVersion":367}
+{"t":1794964792183,"file":"Population.cpp","type":"insert","rangeStart":834,"rangeEnd":834,"text":"u","textLength":1,"docVersion":368}
+{"t":1794964792446,"file":"Population.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":"r","textLength":1,"docVersion":369}
+{"t":1794964793489,"file":"Population.cpp","type":"file-save"}
+{"t":1794964794109,"file":"Population.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"s","textLength":1,"docVersion":370}
+{"t":1794964794446,"file":"Population.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":".","textLength":1,"docVersion":371}
+{"t":1794964795471,"file":"Population.cpp","type":"file-save"}
+{"t":1794964796151,"file":"Population.cpp","type":"delete","rangeStart":837,"rangeEnd":838,"text":"","textLength":0,"docVersion":372}
+{"t":1794964796755,"file":"Population.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"[]","textLength":2,"docVersion":373}
+{"t":1794964797044,"file":"Population.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"1","textLength":1,"docVersion":374}
+{"t":1794964798091,"file":"Population.cpp","type":"file-save"}
+{"t":1794964798304,"file":"Population.cpp","type":"delete","rangeStart":838,"rangeEnd":839,"text":"","textLength":0,"docVersion":375}
+{"t":1794964798845,"file":"Population.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"i","textLength":1,"docVersion":376}
+{"t":1794964799875,"file":"Population.cpp","type":"file-save"}
+{"t":1794964800149,"file":"Population.cpp","type":"insert","rangeStart":840,"rangeEnd":840,"text":".","textLength":1,"docVersion":377}
+{"t":1794964800675,"file":"Population.cpp","type":"insert","rangeStart":841,"rangeEnd":841,"text":"g","textLength":1,"docVersion":378}
+{"t":1794964800881,"file":"Population.cpp","type":"insert","rangeStart":842,"rangeEnd":842,"text":"e","textLength":1,"docVersion":379}
+{"t":1794964801514,"file":"Population.cpp","type":"insert","rangeStart":843,"rangeEnd":843,"text":"t","textLength":1,"docVersion":380}
+{"t":1794964802541,"file":"Population.cpp","type":"file-save"}
+{"t":1794964803347,"file":"Population.cpp","type":"replace","rangeStart":841,"rangeEnd":844,"text":"getFitness","textLength":10,"docVersion":381}
+{"t":1794964804379,"file":"Population.cpp","type":"file-save"}
+{"t":1794964807785,"file":"Population.cpp","type":"copy-command","size":15}
+{"t":1794964809183,"file":"Population.cpp","type":"paste-command","size":15}
+{"t":1794964809191,"file":"Population.cpp","type":"insert","rangeStart":832,"rangeEnd":832,"text":"smallestFitness","textLength":15,"docVersion":382,"source":"paste-refactor"}
+{"t":1794964809944,"file":"Population.cpp","type":"insert","rangeStart":847,"rangeEnd":847,"text":" ","textLength":1,"docVersion":383}
+{"t":1794964810177,"file":"Population.cpp","type":"insert","rangeStart":848,"rangeEnd":848,"text":"=","textLength":1,"docVersion":384}
+{"t":1794964810297,"file":"Population.cpp","type":"insert","rangeStart":849,"rangeEnd":849,"text":" ","textLength":1,"docVersion":385}
+{"t":1794964811313,"file":"Population.cpp","type":"file-save"}
+{"t":1794964811931,"file":"Population.cpp","type":"insert","rangeStart":869,"rangeEnd":869,"text":";","textLength":1,"docVersion":386}
+{"t":1794964812976,"file":"Population.cpp","type":"file-save"}
+{"t":1794964813236,"file":"Population.cpp","type":"insert","rangeStart":870,"rangeEnd":870,"text":"\r\n        ","textLength":10,"docVersion":387}
+{"t":1794964814271,"file":"Population.cpp","type":"file-save"}
+{"t":1794964816654,"file":"Population.cpp","type":"delete","rangeStart":872,"rangeEnd":880,"text":"","textLength":0,"docVersion":388}
+{"t":1794964816654,"file":"Population.cpp","type":"insert","rangeStart":822,"rangeEnd":822,"text":"\r\n        ","textLength":10,"docVersion":388}
+{"t":1794964817490,"file":"Population.cpp","type":"insert","rangeStart":832,"rangeEnd":832,"text":"i","textLength":1,"docVersion":389}
+{"t":1794964817654,"file":"Population.cpp","type":"insert","rangeStart":833,"rangeEnd":833,"text":"f","textLength":1,"docVersion":390}
+{"t":1794964817823,"file":"Population.cpp","type":"insert","rangeStart":834,"rangeEnd":834,"text":" ","textLength":1,"docVersion":391}
+{"t":1794964818853,"file":"Population.cpp","type":"file-save"}
+{"t":1794964822402,"file":"Population.cpp","type":"copy-command","size":37}
+{"t":1794964823854,"file":"Population.cpp","type":"insert","rangeStart":835,"rangeEnd":835,"text":"()","textLength":2,"docVersion":392}
+{"t":1794964823999,"file":"Population.cpp","type":"replace","rangeStart":836,"rangeEnd":837,"text":")","textLength":1,"docVersion":393}
+{"t":1794964825042,"file":"Population.cpp","type":"file-save"}
+{"t":1794964825082,"file":"Population.cpp","type":"insert","rangeStart":837,"rangeEnd":837,"text":"{}","textLength":2,"docVersion":394}
+{"t":1794964825375,"file":"Population.cpp","type":"insert","rangeStart":838,"rangeEnd":838,"text":"\r\n            \r\n        ","textLength":24,"docVersion":395}
+{"t":1794964826408,"file":"Population.cpp","type":"file-save"}
+{"t":1794964827341,"file":"Population.cpp","type":"paste-command","size":37}
+{"t":1794964827349,"file":"Population.cpp","type":"delete","rangeStart":840,"rangeEnd":852,"text":"","textLength":0,"docVersion":396}
+{"t":1794964827349,"file":"Population.cpp","type":"insert","rangeStart":836,"rangeEnd":836,"text":"smallestFitness = tours[i].getFitness","textLength":37,"docVersion":396,"source":"paste-refactor"}
+{"t":1794964827411,"file":"Population.cpp","type":"insert","rangeStart":877,"rangeEnd":877,"text":"        {","textLength":9,"docVersion":397}
+{"t":1794964827411,"file":"Population.cpp","type":"delete","rangeStart":874,"rangeEnd":875,"text":"","textLength":0,"docVersion":397}
+{"t":1794964828444,"file":"Population.cpp","type":"file-save"}
+{"t":1794964830017,"file":"Population.cpp","type":"delete","rangeStart":852,"rangeEnd":853,"text":"","textLength":0,"docVersion":398}
+{"t":1794964830485,"file":"Population.cpp","type":"insert","rangeStart":852,"rangeEnd":852,"text":"<","textLength":1,"docVersion":399}
+{"t":1794964831525,"file":"Population.cpp","type":"file-save"}
+{"t":1794964856552,"file":"Population.cpp","type":"delete","rangeStart":766,"rangeEnd":767,"text":"","textLength":0,"docVersion":400}
+{"t":1794964857298,"file":"Population.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":"i","textLength":1,"docVersion":401}
+{"t":1794964857497,"file":"Population.cpp","type":"insert","rangeStart":767,"rangeEnd":767,"text":"n","textLength":1,"docVersion":402}
+{"t":1794964858549,"file":"Population.cpp","type":"insert","rangeStart":768,"rangeEnd":768,"text":"f","textLength":1,"docVersion":403}
+{"t":1794964858552,"file":"Population.cpp","type":"file-save"}
+{"t":1794964859393,"file":"Population.cpp","type":"delete","rangeStart":768,"rangeEnd":769,"text":"","textLength":0,"docVersion":404}
+{"t":1794964859593,"file":"Population.cpp","type":"delete","rangeStart":767,"rangeEnd":768,"text":"","textLength":0,"docVersion":405}
+{"t":1794964859832,"file":"Population.cpp","type":"delete","rangeStart":766,"rangeEnd":767,"text":"","textLength":0,"docVersion":406}
+{"t":1794964860539,"file":"Population.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":"9","textLength":1,"docVersion":407}
+{"t":1794964860746,"file":"Population.cpp","type":"insert","rangeStart":767,"rangeEnd":767,"text":"9","textLength":1,"docVersion":408}
+{"t":1794964860964,"file":"Population.cpp","type":"insert","rangeStart":768,"rangeEnd":768,"text":"9","textLength":1,"docVersion":409}
+{"t":1794964861201,"file":"Population.cpp","type":"insert","rangeStart":769,"rangeEnd":769,"text":"9","textLength":1,"docVersion":410}
+{"t":1794964862235,"file":"Population.cpp","type":"file-save"}
+{"t":1794964872560,"file":"Population.cpp","type":"insert","rangeStart":876,"rangeEnd":876,"text":"()","textLength":2,"docVersion":411}
+{"t":1794964872756,"file":"Population.cpp","type":"replace","rangeStart":877,"rangeEnd":878,"text":")","textLength":1,"docVersion":412}
+{"t":1794964873789,"file":"Population.cpp","type":"file-save"}
+{"t":1794964876875,"file":"Population.cpp","type":"insert","rangeStart":949,"rangeEnd":949,"text":"\r\n        }","textLength":11,"docVersion":413}
+{"t":1794964876875,"file":"Population.cpp","type":"replace","rangeStart":903,"rangeEnd":911,"text":"            ","textLength":12,"docVersion":413}
+{"t":1794964876875,"file":"Population.cpp","type":"delete","rangeStart":892,"rangeEnd":903,"text":"","textLength":0,"docVersion":413}
+{"t":1794964877915,"file":"Population.cpp","type":"file-save"}
+{"t":1794964884144,"file":"Population.cpp","type":"replace","rangeStart":855,"rangeEnd":856,"text":">","textLength":1,"docVersion":414}
+{"t":1794964885178,"file":"Population.cpp","type":"file-save"}
+{"t":1794964887710,"file":"Population.cpp","type":"insert","rangeStart":941,"rangeEnd":941,"text":"()","textLength":2,"docVersion":415}
+{"t":1794964887845,"file":"Population.cpp","type":"replace","rangeStart":942,"rangeEnd":943,"text":")","textLength":1,"docVersion":416}
+{"t":1794964888879,"file":"Population.cpp","type":"file-save"}
+{"t":1794964891628,"file":"Population.cpp","type":"insert","rangeStart":856,"rangeEnd":856,"text":">","textLength":1,"docVersion":417}
+{"t":1794964891628,"file":"Population.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":"<","textLength":1,"docVersion":417}
+{"t":1794964892654,"file":"Population.cpp","type":"file-save"}
+{"t":1794964893100,"file":"Population.cpp","type":"delete","rangeStart":856,"rangeEnd":857,"text":"","textLength":0,"docVersion":418}
+{"t":1794964894117,"file":"Population.cpp","type":"file-save"}
+{"t":1794964894383,"file":"Population.cpp","type":"delete","rangeStart":856,"rangeEnd":857,"text":"","textLength":0,"docVersion":419}
+{"t":1794964895427,"file":"Population.cpp","type":"file-save"}
+{"t":1794964900283,"file":"Population.cpp","type":"insert","rangeStart":818,"rangeEnd":818,"text":"\r\n    ","textLength":6,"docVersion":420}
+{"t":1794964901330,"file":"Population.cpp","type":"file-save"}
+{"t":1794964903682,"file":"Population.cpp","type":"delete","rangeStart":820,"rangeEnd":824,"text":"","textLength":0,"docVersion":421}
+{"t":1794964904098,"file":"Population.cpp","type":"delete","rangeStart":818,"rangeEnd":820,"text":"","textLength":0,"docVersion":422}
+{"t":1794964905148,"file":"Population.cpp","type":"file-save"}
+{"t":1794964919145,"file":"Population.cpp","type":"copy-command","size":21}
+{"t":1794964920945,"file":"Population.cpp","type":"paste-command","size":21}
+{"t":1794964920952,"file":"Population.cpp","type":"replace","rangeStart":766,"rangeEnd":770,"text":"tours[i].getFitness()","textLength":21,"docVersion":423,"source":"paste-refactor"}
+{"t":1794964922013,"file":"Population.cpp","type":"file-save"}
+{"t":1794964923490,"file":"Population.cpp","type":"replace","rangeStart":772,"rangeEnd":773,"text":"1","textLength":1,"docVersion":424}
+{"t":1794964924533,"file":"Population.cpp","type":"file-save"}
+{"t":1794964924575,"file":"Population.cpp","type":"delete","rangeStart":772,"rangeEnd":773,"text":"","textLength":0,"docVersion":425}
+{"t":1794964924929,"file":"Population.cpp","type":"insert","rangeStart":772,"rangeEnd":772,"text":"0","textLength":1,"docVersion":426}
+{"t":1794964925895,"file":"Population.cpp","type":"file-save"}
+{"t":1794964936745,"file":"Population.cpp","type":"delete","rangeStart":972,"rangeEnd":974,"text":"","textLength":0,"docVersion":427}
+{"t":1794964937778,"file":"Population.cpp","type":"file-save"}
+{"t":1794964939651,"file":"Population.cpp","type":"insert","rangeStart":979,"rangeEnd":979,"text":"\r\n    ","textLength":6,"docVersion":428}
+{"t":1794964939874,"file":"Population.cpp","type":"insert","rangeStart":985,"rangeEnd":985,"text":"r","textLength":1,"docVersion":429}
+{"t":1794964939980,"file":"Population.cpp","type":"insert","rangeStart":986,"rangeEnd":986,"text":"e","textLength":1,"docVersion":430}
+{"t":1794964940877,"file":"Population.cpp","type":"insert","rangeStart":987,"rangeEnd":987,"text":"t","textLength":1,"docVersion":431}
+{"t":1794964941092,"file":"Population.cpp","type":"insert","rangeStart":988,"rangeEnd":988,"text":"u","textLength":1,"docVersion":432}
+{"t":1794964941200,"file":"Population.cpp","type":"insert","rangeStart":989,"rangeEnd":989,"text":"r","textLength":1,"docVersion":433}
+{"t":1794964941363,"file":"Population.cpp","type":"insert","rangeStart":990,"rangeEnd":990,"text":"n","textLength":1,"docVersion":434}
+{"t":1794964941568,"file":"Population.cpp","type":"insert","rangeStart":991,"rangeEnd":991,"text":" ","textLength":1,"docVersion":435}
+{"t":1794964942190,"file":"Population.cpp","type":"insert","rangeStart":992,"rangeEnd":992,"text":"s","textLength":1,"docVersion":436}
+{"t":1794964942350,"file":"Population.cpp","type":"insert","rangeStart":993,"rangeEnd":993,"text":"m","textLength":1,"docVersion":437}
+{"t":1794964942478,"file":"Population.cpp","type":"insert","rangeStart":994,"rangeEnd":994,"text":"a","textLength":1,"docVersion":438}
+{"t":1794964942627,"file":"Population.cpp","type":"insert","rangeStart":995,"rangeEnd":995,"text":"l","textLength":1,"docVersion":439}
+{"t":1794964942812,"file":"Population.cpp","type":"insert","rangeStart":996,"rangeEnd":996,"text":"l","textLength":1,"docVersion":440}
+{"t":1794964943111,"file":"Population.cpp","type":"replace","rangeStart":992,"rangeEnd":997,"text":"smallestFitness","textLength":15,"docVersion":441}
+{"t":1794964943798,"file":"Population.cpp","type":"insert","rangeStart":1007,"rangeEnd":1007,"text":";","textLength":1,"docVersion":442}
+{"t":1794964944825,"file":"Population.cpp","type":"file-save"}
+{"t":1794964954010,"file":"Population.cpp","type":"replace","rangeStart":766,"rangeEnd":787,"text":"0","textLength":1,"docVersion":443}
+{"t":1794964955049,"file":"Population.cpp","type":"file-save"}
+{"t":1794964957172,"file":"Population.cpp","type":"copy-command","size":15}
+{"t":1794964960989,"file":"Population.cpp","type":"paste-command","size":15}
+{"t":1794964960996,"file":"Population.cpp","type":"replace","rangeStart":972,"rangeEnd":987,"text":"smallestFitness","textLength":15,"docVersion":444,"source":"paste-refactor"}
+{"t":1794964962031,"file":"Population.cpp","type":"file-save"}
+{"t":1794964962572,"file":"Population.cpp","type":"insert","rangeStart":972,"rangeEnd":972,"text":"t","textLength":1,"docVersion":445}
+{"t":1794964962795,"file":"Population.cpp","type":"insert","rangeStart":973,"rangeEnd":973,"text":"o","textLength":1,"docVersion":446}
+{"t":1794964963024,"file":"Population.cpp","type":"insert","rangeStart":974,"rangeEnd":974,"text":"u","textLength":1,"docVersion":447}
+{"t":1794964964062,"file":"Population.cpp","type":"file-save"}
+{"t":1794964964431,"file":"Population.cpp","type":"insert","rangeStart":975,"rangeEnd":975,"text":"r","textLength":1,"docVersion":448}
+{"t":1794964965346,"file":"Population.cpp","type":"insert","rangeStart":976,"rangeEnd":976,"text":"[","textLength":1,"docVersion":449}
+{"t":1794964966377,"file":"Population.cpp","type":"file-save"}
+{"t":1794964968305,"file":"Population.cpp","type":"insert","rangeStart":992,"rangeEnd":992,"text":"]","textLength":1,"docVersion":450}
+{"t":1794964969339,"file":"Population.cpp","type":"file-save"}
+{"t":1794964970167,"file":"Population.cpp","type":"insert","rangeStart":976,"rangeEnd":976,"text":"s","textLength":1,"docVersion":451}
+{"t":1794964971215,"file":"Population.cpp","type":"file-save"}
+{"t":1794964977575,"file":"Population.cpp","type":"replace","rangeStart":919,"rangeEnd":940,"text":"i","textLength":1,"docVersion":452}
+{"t":1794964978614,"file":"Population.cpp","type":"file-save"}
+{"t":1794964981325,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965010731,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965013467,"file":"Population.cpp","type":"replace","rangeStart":741,"rangeEnd":747,"text":"s","textLength":1,"docVersion":453}
+{"t":1794965013799,"file":"Population.cpp","type":"insert","rangeStart":742,"rangeEnd":742,"text":"i","textLength":1,"docVersion":454}
+{"t":1794965014134,"file":"Population.cpp","type":"insert","rangeStart":743,"rangeEnd":743,"text":"z","textLength":1,"docVersion":455}
+{"t":1794965014422,"file":"Population.cpp","type":"insert","rangeStart":744,"rangeEnd":744,"text":"e","textLength":1,"docVersion":456}
+{"t":1794965014826,"file":"Population.cpp","type":"insert","rangeStart":745,"rangeEnd":745,"text":"_","textLength":1,"docVersion":457}
+{"t":1794965015081,"file":"Population.cpp","type":"insert","rangeStart":746,"rangeEnd":746,"text":"t","textLength":1,"docVersion":458}
+{"t":1794965016194,"file":"Population.cpp","type":"file-save"}
+{"t":1794965033129,"file":"Population.cpp","type":"copy-command","size":21}
+{"t":1794965034399,"file":"Population.cpp","type":"paste-command","size":21}
+{"t":1794965034407,"file":"Population.cpp","type":"replace","rangeStart":836,"rangeEnd":851,"text":"tours[i].getFitness()","textLength":21,"docVersion":459,"source":"paste-refactor"}
+{"t":1794965035447,"file":"Population.cpp","type":"file-save"}
+{"t":1794965037339,"file":"Population.cpp","type":"copy-command","size":15}
+{"t":1794965038881,"file":"Population.cpp","type":"paste-command","size":15}
+{"t":1794965038887,"file":"Population.cpp","type":"replace","rangeStart":842,"rangeEnd":843,"text":"smallestFitness","textLength":15,"docVersion":460,"source":"paste-refactor"}
+{"t":1794965039924,"file":"Population.cpp","type":"file-save"}
+{"t":1794965041307,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965070016,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965072029,"file":"Population.cpp","type":"replace","rangeStart":872,"rangeEnd":873,"text":">","textLength":1,"docVersion":461}
+{"t":1794965073057,"file":"Population.cpp","type":"file-save"}
+{"t":1794965075975,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965079735,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965080713,"file":"Population.cpp","type":"replace","rangeStart":790,"rangeEnd":791,"text":"1","textLength":1,"docVersion":462}
+{"t":1794965081769,"file":"Population.cpp","type":"file-save"}
+{"t":1794965082049,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965121193,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965136592,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965136647,"file":"Population.hpp","type":"window-focus"}
+{"t":1794965143878,"file":"Population.hpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":"    ","textLength":4,"docVersion":6}
+{"t":1794965144716,"file":"Population.hpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"\r\n    ","textLength":6,"docVersion":7}
+{"t":1794965144716,"file":"Population.hpp","type":"delete","rangeStart":247,"rangeEnd":251,"text":"","textLength":0,"docVersion":7}
+{"t":1794965145756,"file":"Population.hpp","type":"file-save"}
+{"t":1794965146579,"file":"Population.hpp","type":"delete","rangeStart":249,"rangeEnd":253,"text":"","textLength":0,"docVersion":8}
+{"t":1794965146579,"file":"Population.hpp","type":"insert","rangeStart":247,"rangeEnd":247,"text":"    ","textLength":4,"docVersion":8}
+{"t":1794965147635,"file":"Population.hpp","type":"file-save"}
+{"t":1794965148614,"file":"Population.hpp","type":"insert","rangeStart":251,"rangeEnd":251,"text":"s","textLength":1,"docVersion":9}
+{"t":1794965148846,"file":"Population.hpp","type":"insert","rangeStart":252,"rangeEnd":252,"text":"i","textLength":1,"docVersion":10}
+{"t":1794965149094,"file":"Population.hpp","type":"insert","rangeStart":253,"rangeEnd":253,"text":"z","textLength":1,"docVersion":11}
+{"t":1794965149361,"file":"Population.hpp","type":"insert","rangeStart":254,"rangeEnd":254,"text":"e","textLength":1,"docVersion":12}
+{"t":1794965149781,"file":"Population.hpp","type":"insert","rangeStart":255,"rangeEnd":255,"text":"_","textLength":1,"docVersion":13}
+{"t":1794965150052,"file":"Population.hpp","type":"insert","rangeStart":256,"rangeEnd":256,"text":"t","textLength":1,"docVersion":14}
+{"t":1794965151088,"file":"Population.hpp","type":"file-save"}
+{"t":1794965151766,"file":"Population.hpp","type":"insert","rangeStart":257,"rangeEnd":257,"text":" ","textLength":1,"docVersion":15}
+{"t":1794965152327,"file":"Population.hpp","type":"insert","rangeStart":258,"rangeEnd":258,"text":"g","textLength":1,"docVersion":16}
+{"t":1794965152493,"file":"Population.hpp","type":"insert","rangeStart":259,"rangeEnd":259,"text":"e","textLength":1,"docVersion":17}
+{"t":1794965152681,"file":"Population.hpp","type":"insert","rangeStart":260,"rangeEnd":260,"text":"t","textLength":1,"docVersion":18}
+{"t":1794965153718,"file":"Population.hpp","type":"file-save"}
+{"t":1794965154800,"file":"Population.hpp","type":"insert","rangeStart":261,"rangeEnd":261,"text":"B","textLength":1,"docVersion":19}
+{"t":1794965155006,"file":"Population.hpp","type":"insert","rangeStart":262,"rangeEnd":262,"text":"e","textLength":1,"docVersion":20}
+{"t":1794965155181,"file":"Population.hpp","type":"insert","rangeStart":263,"rangeEnd":263,"text":"s","textLength":1,"docVersion":21}
+{"t":1794965155421,"file":"Population.hpp","type":"insert","rangeStart":264,"rangeEnd":264,"text":"t","textLength":1,"docVersion":22}
+{"t":1794965156477,"file":"Population.hpp","type":"file-save"}
+{"t":1794965157290,"file":"Population.hpp","type":"insert","rangeStart":265,"rangeEnd":265,"text":"I","textLength":1,"docVersion":23}
+{"t":1794965157472,"file":"Population.hpp","type":"insert","rangeStart":266,"rangeEnd":266,"text":"n","textLength":1,"docVersion":24}
+{"t":1794965157622,"file":"Population.hpp","type":"insert","rangeStart":267,"rangeEnd":267,"text":"d","textLength":1,"docVersion":25}
+{"t":1794965157830,"file":"Population.hpp","type":"insert","rangeStart":268,"rangeEnd":268,"text":"e","textLength":1,"docVersion":26}
+{"t":1794965158877,"file":"Population.hpp","type":"file-save"}
+{"t":1794965159097,"file":"Population.hpp","type":"insert","rangeStart":269,"rangeEnd":269,"text":"x","textLength":1,"docVersion":27}
+{"t":1794965160009,"file":"Population.hpp","type":"insert","rangeStart":270,"rangeEnd":270,"text":"()","textLength":2,"docVersion":28}
+{"t":1794965160160,"file":"Population.hpp","type":"replace","rangeStart":271,"rangeEnd":272,"text":")","textLength":1,"docVersion":29}
+{"t":1794965160414,"file":"Population.hpp","type":"insert","rangeStart":272,"rangeEnd":272,"text":" ","textLength":1,"docVersion":30}
+{"t":1794965160874,"file":"Population.hpp","type":"insert","rangeStart":273,"rangeEnd":273,"text":"c","textLength":1,"docVersion":31}
+{"t":1794965160984,"file":"Population.hpp","type":"insert","rangeStart":274,"rangeEnd":274,"text":"o","textLength":1,"docVersion":32}
+{"t":1794965161181,"file":"Population.hpp","type":"insert","rangeStart":275,"rangeEnd":275,"text":"n","textLength":1,"docVersion":33}
+{"t":1794965161353,"file":"Population.hpp","type":"insert","rangeStart":276,"rangeEnd":276,"text":"s","textLength":1,"docVersion":34}
+{"t":1794965161602,"file":"Population.hpp","type":"insert","rangeStart":277,"rangeEnd":277,"text":"t","textLength":1,"docVersion":35}
+{"t":1794965161893,"file":"Population.hpp","type":"insert","rangeStart":278,"rangeEnd":278,"text":";","textLength":1,"docVersion":36}
+{"t":1794965162941,"file":"Population.hpp","type":"file-save"}
+{"t":1794965179066,"file":"Population.cpp","type":"insert","rangeStart":643,"rangeEnd":643,"text":"\r\n","textLength":2,"docVersion":463}
+{"t":1794965180118,"file":"Population.cpp","type":"file-save"}
+{"t":1794965185306,"file":"Population.hpp","type":"copy-command","size":27}
+{"t":1794965187477,"file":"Population.cpp","type":"paste-command","size":27}
+{"t":1794965187486,"file":"Population.cpp","type":"insert","rangeStart":645,"rangeEnd":645,"text":"size_t getBestIndex() const","textLength":27,"docVersion":464,"source":"paste-refactor"}
+{"t":1794965187545,"file":"Population.cpp","type":"insert","rangeStart":674,"rangeEnd":674,"text":"    ","textLength":4,"docVersion":465}
+{"t":1794965188581,"file":"Population.cpp","type":"file-save"}
+{"t":1794965189232,"file":"Population.cpp","type":"delete","rangeStart":674,"rangeEnd":678,"text":"","textLength":0,"docVersion":466}
+{"t":1794965190274,"file":"Population.cpp","type":"file-save"}
+{"t":1794965190389,"file":"Population.cpp","type":"delete","rangeStart":645,"rangeEnd":672,"text":"","textLength":0,"docVersion":467}
+{"t":1794965191425,"file":"Population.cpp","type":"file-save"}
+{"t":1794965192522,"file":"Population.cpp","type":"insert","rangeStart":643,"rangeEnd":643,"text":"\r\n","textLength":2,"docVersion":468}
+{"t":1794965193024,"file":"Population.cpp","type":"paste-command","size":27}
+{"t":1794965193029,"file":"Population.cpp","type":"insert","rangeStart":645,"rangeEnd":645,"text":"size_t getBestIndex() const","textLength":27,"docVersion":469,"source":"paste-refactor"}
+{"t":1794965193100,"file":"Population.cpp","type":"insert","rangeStart":676,"rangeEnd":676,"text":"    ","textLength":4,"docVersion":470}
+{"t":1794965194130,"file":"Population.cpp","type":"file-save"}
+{"t":1794965197446,"file":"Population.cpp","type":"delete","rangeStart":676,"rangeEnd":680,"text":"","textLength":0,"docVersion":471}
+{"t":1794965198490,"file":"Population.cpp","type":"file-save"}
+{"t":1794965202060,"file":"Population.cpp","type":"insert","rangeStart":672,"rangeEnd":672,"text":"\r\n","textLength":2,"docVersion":472}
+{"t":1794965202648,"file":"Population.cpp","type":"insert","rangeStart":674,"rangeEnd":674,"text":"{}","textLength":2,"docVersion":473}
+{"t":1794965203375,"file":"Population.cpp","type":"insert","rangeStart":675,"rangeEnd":675,"text":"\r\n    \r\n","textLength":8,"docVersion":474}
+{"t":1794965204407,"file":"Population.cpp","type":"file-save"}
+{"t":1794965231696,"file":"Population.cpp","type":"insert","rangeStart":1002,"rangeEnd":1002,"text":"\r\n    size_t smallestFitness = 0;","textLength":33,"docVersion":475}
+{"t":1794965231696,"file":"Population.cpp","type":"delete","rangeStart":780,"rangeEnd":813,"text":"","textLength":0,"docVersion":475}
+{"t":1794965231696,"file":"Population.cpp","type":"delete","rangeStart":677,"rangeEnd":681,"text":"","textLength":0,"docVersion":475}
+{"t":1794965232118,"file":"Population.cpp","type":"insert","rangeStart":965,"rangeEnd":965,"text":"\r\n{","textLength":3,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"delete","rangeStart":960,"rangeEnd":964,"text":"","textLength":0,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"replace","rangeStart":949,"rangeEnd":957,"text":"    ","textLength":4,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"replace","rangeStart":915,"rangeEnd":927,"text":"        ","textLength":8,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"replace","rangeStart":904,"rangeEnd":912,"text":"    ","textLength":4,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"replace","rangeStart":830,"rangeEnd":838,"text":"    ","textLength":4,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"delete","rangeStart":823,"rangeEnd":827,"text":"","textLength":0,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"delete","rangeStart":776,"rangeEnd":780,"text":"","textLength":0,"docVersion":476}
+{"t":1794965232118,"file":"Population.cpp","type":"delete","rangeStart":773,"rangeEnd":776,"text":"","textLength":0,"docVersion":476}
+{"t":1794965232358,"file":"Population.cpp","type":"insert","rangeStart":934,"rangeEnd":934,"text":"\r\nconst Tour &Population::getBestFitness() const // Find the tour with the lowest fitness","textLength":89,"docVersion":477}
+{"t":1794965232358,"file":"Population.cpp","type":"delete","rangeStart":684,"rangeEnd":773,"text":"","textLength":0,"docVersion":477}
+{"t":1794965232514,"file":"Population.cpp","type":"insert","rangeStart":845,"rangeEnd":845,"text":"\r\n","textLength":2,"docVersion":478}
+{"t":1794965232514,"file":"Population.cpp","type":"delete","rangeStart":682,"rangeEnd":684,"text":"","textLength":0,"docVersion":478}
+{"t":1794965232718,"file":"Population.cpp","type":"insert","rangeStart":843,"rangeEnd":843,"text":"\r\n}","textLength":3,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"insert","rangeStart":842,"rangeEnd":842,"text":"    ","textLength":4,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"replace","rangeStart":835,"rangeEnd":839,"text":"        ","textLength":8,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"replace","rangeStart":805,"rangeEnd":813,"text":"            ","textLength":12,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"replace","rangeStart":798,"rangeEnd":802,"text":"        ","textLength":8,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"replace","rangeStart":728,"rangeEnd":732,"text":"        ","textLength":8,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"insert","rangeStart":725,"rangeEnd":725,"text":"    ","textLength":4,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"insert","rangeStart":682,"rangeEnd":682,"text":"    ","textLength":4,"docVersion":479}
+{"t":1794965232718,"file":"Population.cpp","type":"delete","rangeStart":679,"rangeEnd":682,"text":"","textLength":0,"docVersion":479}
+{"t":1794965233227,"file":"Population.cpp","type":"insert","rangeStart":868,"rangeEnd":868,"text":"\r\n","textLength":2,"docVersion":480}
+{"t":1794965233227,"file":"Population.cpp","type":"delete","rangeStart":677,"rangeEnd":679,"text":"","textLength":0,"docVersion":480}
+{"t":1794965234329,"file":"Population.cpp","type":"file-save"}
+{"t":1794965245412,"file":"Population.cpp","type":"copy-command","size":12}
+{"t":1794965249594,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794965249602,"file":"Population.cpp","type":"replace","rangeStart":1017,"rangeEnd":1032,"text":"getBestIndex","textLength":12,"docVersion":481,"source":"paste-refactor"}
+{"t":1794965250720,"file":"Population.cpp","type":"file-save"}
+{"t":1794965250787,"file":"Population.cpp","type":"insert","rangeStart":1029,"rangeEnd":1029,"text":"()","textLength":2,"docVersion":482}
+{"t":1794965250964,"file":"Population.cpp","type":"replace","rangeStart":1030,"rangeEnd":1031,"text":")","textLength":1,"docVersion":483}
+{"t":1794965252020,"file":"Population.cpp","type":"file-save"}
+{"t":1794965265659,"file":"Population.cpp","type":"insert","rangeStart":998,"rangeEnd":998,"text":"\r\n{","textLength":3,"docVersion":484}
+{"t":1794965265659,"file":"Population.cpp","type":"delete","rangeStart":967,"rangeEnd":971,"text":"","textLength":0,"docVersion":484}
+{"t":1794965265659,"file":"Population.cpp","type":"delete","rangeStart":964,"rangeEnd":967,"text":"","textLength":0,"docVersion":484}
+{"t":1794965265899,"file":"Population.cpp","type":"insert","rangeStart":991,"rangeEnd":991,"text":"\r\nconst Tour &Population::getBestFitness() const // Find the tour with the lowest fitness","textLength":89,"docVersion":485}
+{"t":1794965265899,"file":"Population.cpp","type":"delete","rangeStart":875,"rangeEnd":964,"text":"","textLength":0,"docVersion":485}
+{"t":1794965266081,"file":"Population.cpp","type":"insert","rangeStart":902,"rangeEnd":902,"text":"\r\n","textLength":2,"docVersion":486}
+{"t":1794965266081,"file":"Population.cpp","type":"delete","rangeStart":873,"rangeEnd":875,"text":"","textLength":0,"docVersion":486}
+{"t":1794965266292,"file":"Population.cpp","type":"insert","rangeStart":900,"rangeEnd":900,"text":"\r\n}","textLength":3,"docVersion":487}
+{"t":1794965266292,"file":"Population.cpp","type":"insert","rangeStart":873,"rangeEnd":873,"text":"    ","textLength":4,"docVersion":487}
+{"t":1794965266292,"file":"Population.cpp","type":"delete","rangeStart":870,"rangeEnd":873,"text":"","textLength":0,"docVersion":487}
+{"t":1794965266456,"file":"Population.cpp","type":"insert","rangeStart":901,"rangeEnd":901,"text":"\r\n","textLength":2,"docVersion":488}
+{"t":1794965266456,"file":"Population.cpp","type":"delete","rangeStart":868,"rangeEnd":870,"text":"","textLength":0,"docVersion":488}
+{"t":1794965266628,"file":"Population.cpp","type":"insert","rangeStart":899,"rangeEnd":899,"text":"\r\n    }","textLength":7,"docVersion":489}
+{"t":1794965266628,"file":"Population.cpp","type":"replace","rangeStart":868,"rangeEnd":872,"text":"        ","textLength":8,"docVersion":489}
+{"t":1794965266628,"file":"Population.cpp","type":"delete","rangeStart":861,"rangeEnd":868,"text":"","textLength":0,"docVersion":489}
+{"t":1794965266816,"file":"Population.cpp","type":"insert","rangeStart":896,"rangeEnd":896,"text":"\r\n        }","textLength":11,"docVersion":490}
+{"t":1794965266816,"file":"Population.cpp","type":"replace","rangeStart":861,"rangeEnd":869,"text":"            ","textLength":12,"docVersion":490}
+{"t":1794965266816,"file":"Population.cpp","type":"delete","rangeStart":850,"rangeEnd":861,"text":"","textLength":0,"docVersion":490}
+{"t":1794965266994,"file":"Population.cpp","type":"insert","rangeStart":889,"rangeEnd":889,"text":"\r\n            smallestFitness = i;","textLength":34,"docVersion":491}
+{"t":1794965266994,"file":"Population.cpp","type":"delete","rangeStart":816,"rangeEnd":850,"text":"","textLength":0,"docVersion":491}
+{"t":1794965267178,"file":"Population.cpp","type":"insert","rangeStart":855,"rangeEnd":855,"text":"\r\n        {","textLength":11,"docVersion":492}
+{"t":1794965267178,"file":"Population.cpp","type":"replace","rangeStart":816,"rangeEnd":828,"text":"        ","textLength":8,"docVersion":492}
+{"t":1794965267178,"file":"Population.cpp","type":"delete","rangeStart":805,"rangeEnd":816,"text":"","textLength":0,"docVersion":492}
+{"t":1794965267366,"file":"Population.cpp","type":"insert","rangeStart":840,"rangeEnd":840,"text":"\r\n        if (tours[smallestFitness].getFitness() > tours[i].getFitness())","textLength":74,"docVersion":493}
+{"t":1794965267366,"file":"Population.cpp","type":"delete","rangeStart":731,"rangeEnd":805,"text":"","textLength":0,"docVersion":493}
+{"t":1794965267641,"file":"Population.cpp","type":"insert","rangeStart":766,"rangeEnd":766,"text":"\r\n    {","textLength":7,"docVersion":494}
+{"t":1794965267641,"file":"Population.cpp","type":"replace","rangeStart":731,"rangeEnd":739,"text":"    ","textLength":4,"docVersion":494}
+{"t":1794965267641,"file":"Population.cpp","type":"delete","rangeStart":724,"rangeEnd":731,"text":"","textLength":0,"docVersion":494}
+{"t":1794965267973,"file":"Population.cpp","type":"insert","rangeStart":755,"rangeEnd":755,"text":"\r\n    for (size_t i = 1; i < tours.size(); i++)","textLength":47,"docVersion":495}
+{"t":1794965267973,"file":"Population.cpp","type":"delete","rangeStart":677,"rangeEnd":724,"text":"","textLength":0,"docVersion":495}
+{"t":1794965269013,"file":"Population.cpp","type":"file-save"}
+{"t":1794965305810,"file":"Population.cpp","type":"copy-command","size":12}
+{"t":1794965307028,"file":"Population.cpp","type":"paste-command","size":12}
+{"t":1794965307036,"file":"Population.cpp","type":"insert","rangeStart":652,"rangeEnd":652,"text":"Population::","textLength":12,"docVersion":496,"source":"paste-refactor"}
+{"t":1794965308067,"file":"Population.cpp","type":"file-save"}
+{"t":1794965313626,"file":"Population.cpp","type":"insert","rangeStart":911,"rangeEnd":911,"text":"\r\n    ","textLength":6,"docVersion":497}
+{"t":1794965314520,"file":"Population.cpp","type":"insert","rangeStart":917,"rangeEnd":917,"text":"r","textLength":1,"docVersion":498}
+{"t":1794965314638,"file":"Population.cpp","type":"insert","rangeStart":918,"rangeEnd":918,"text":"e","textLength":1,"docVersion":499}
+{"t":1794965315081,"file":"Population.cpp","type":"insert","rangeStart":919,"rangeEnd":919,"text":"t","textLength":1,"docVersion":500}
+{"t":1794965315591,"file":"Population.cpp","type":"replace","rangeStart":917,"rangeEnd":920,"text":"return","textLength":6,"docVersion":501}
+{"t":1794965316642,"file":"Population.cpp","type":"file-save"}
+{"t":1794965318449,"file":"Population.cpp","type":"copy-command","size":15}
+{"t":1794965319592,"file":"Population.cpp","type":"insert","rangeStart":923,"rangeEnd":923,"text":" ","textLength":1,"docVersion":502}
+{"t":1794965320034,"file":"Population.cpp","type":"paste-command","size":15}
+{"t":1794965320040,"file":"Population.cpp","type":"insert","rangeStart":924,"rangeEnd":924,"text":"smallestFitness","textLength":15,"docVersion":503,"source":"paste-refactor"}
+{"t":1794965320090,"file":"Population.cpp","type":"delete","rangeStart":941,"rangeEnd":943,"text":"","textLength":0,"docVersion":504}
+{"t":1794965320669,"file":"Population.cpp","type":"insert","rangeStart":939,"rangeEnd":939,"text":";","textLength":1,"docVersion":505}
+{"t":1794965321707,"file":"Population.cpp","type":"file-save"}
+{"t":1794965345224,"file":"Population.cpp","type":"insert","rangeStart":1075,"rangeEnd":1075,"text":"\r\n","textLength":2,"docVersion":506}
+{"t":1794965346260,"file":"Population.cpp","type":"file-save"}
+{"t":1794965352971,"file":"Population.cpp","type":"copy-command","size":42}
+{"t":1794965355987,"file":"Population.cpp","type":"replace","rangeStart":1189,"rangeEnd":1231,"text":"z","textLength":1,"docVersion":507}
+{"t":1794965357036,"file":"Population.cpp","type":"file-save"}
+{"t":1794965357994,"file":"Population.cpp","type":"copy-command","size":2}
+{"t":1794965358615,"file":"Population.cpp","type":"copy-command","size":2}
+{"t":1794965359547,"file":"Population.cpp","type":"replace","rangeStart":1189,"rangeEnd":1190,"text":"// void Population::moveBestTourToFront();","textLength":42,"docVersion":508}
+{"t":1794965359934,"file":"Population.cpp","type":"delete","rangeStart":1075,"rangeEnd":1077,"text":"","textLength":0,"docVersion":509}
+{"t":1794965360964,"file":"Population.cpp","type":"file-save"}
+{"t":1794965365943,"file":"Population.cpp","type":"delete","rangeStart":1189,"rangeEnd":1190,"text":"","textLength":0,"docVersion":510}
+{"t":1794965366121,"file":"Population.cpp","type":"delete","rangeStart":1188,"rangeEnd":1189,"text":"","textLength":0,"docVersion":511}
+{"t":1794965366390,"file":"Population.cpp","type":"delete","rangeStart":1187,"rangeEnd":1188,"text":"","textLength":0,"docVersion":512}
+{"t":1794965367420,"file":"Population.cpp","type":"file-save"}
+{"t":1794965369144,"file":"Population.cpp","type":"insert","rangeStart":1075,"rangeEnd":1075,"text":"\r\n","textLength":2,"docVersion":513}
+{"t":1794965370170,"file":"Population.cpp","type":"file-save"}
+{"t":1794965371659,"file":"Population.cpp","type":"insert","rangeStart":1228,"rangeEnd":1228,"text":"\r\n// const Tour Population::&getRandomTour() const;","textLength":51,"docVersion":514}
+{"t":1794965371659,"file":"Population.cpp","type":"delete","rangeStart":1138,"rangeEnd":1189,"text":"","textLength":0,"docVersion":514}
+{"t":1794965371838,"file":"Population.cpp","type":"insert","rangeStart":1177,"rangeEnd":1177,"text":"\r\n// void Population::replaceTours(vector<Tour> &newTours);","textLength":59,"docVersion":515}
+{"t":1794965371838,"file":"Population.cpp","type":"delete","rangeStart":1079,"rangeEnd":1138,"text":"","textLength":0,"docVersion":515}
+{"t":1794965372296,"file":"Population.cpp","type":"insert","rangeStart":1118,"rangeEnd":1118,"text":"\r\n","textLength":2,"docVersion":516}
+{"t":1794965372296,"file":"Population.cpp","type":"delete","rangeStart":1077,"rangeEnd":1079,"text":"","textLength":0,"docVersion":516}
+{"t":1794965373164,"file":"Population.cpp","type":"delete","rangeStart":1116,"rangeEnd":1118,"text":"","textLength":0,"docVersion":517}
+{"t":1794965373164,"file":"Population.cpp","type":"insert","rangeStart":1077,"rangeEnd":1077,"text":"\r\n","textLength":2,"docVersion":517}
+{"t":1794965374203,"file":"Population.cpp","type":"file-save"}
+{"t":1794965375021,"file":"Population.cpp","type":"delete","rangeStart":1117,"rangeEnd":1118,"text":"","textLength":0,"docVersion":518}
+{"t":1794965375371,"file":"Population.cpp","type":"insert","rangeStart":1117,"rangeEnd":1117,"text":"{}","textLength":2,"docVersion":519}
+{"t":1794965375651,"file":"Population.cpp","type":"insert","rangeStart":1118,"rangeEnd":1118,"text":"\r\n    \r\n","textLength":8,"docVersion":520}
+{"t":1794965376693,"file":"Population.cpp","type":"file-save"}
+{"t":1794965389745,"file":"Tour.cpp","type":"copy-command","size":20}
+{"t":1794965393701,"file":"Tour.cpp","type":"copy-command","size":18}
+{"t":1794965397854,"file":"Population.cpp","type":"delete","rangeStart":1120,"rangeEnd":1124,"text":"","textLength":0,"docVersion":521}
+{"t":1794965397854,"file":"Population.cpp","type":"insert","rangeStart":25,"rangeEnd":25,"text":"\r\n","textLength":2,"docVersion":521}
+{"t":1794965398063,"file":"Population.cpp","type":"paste-command","size":18}
+{"t":1794965398070,"file":"Population.cpp","type":"insert","rangeStart":27,"rangeEnd":27,"text":"#include <utility>","textLength":18,"docVersion":522,"source":"paste-refactor"}
+{"t":1794965399115,"file":"Population.cpp","type":"file-save"}
+{"t":1794965401618,"file":"Population.cpp","type":"insert","rangeStart":1140,"rangeEnd":1140,"text":"    ","textLength":4,"docVersion":523}
+{"t":1794965402657,"file":"Population.cpp","type":"file-save"}
+{"t":1794965403431,"file":"Population.cpp","type":"insert","rangeStart":1144,"rangeEnd":1144,"text":"s","textLength":1,"docVersion":524}
+{"t":1794965403772,"file":"Population.cpp","type":"insert","rangeStart":1145,"rangeEnd":1145,"text":"t","textLength":1,"docVersion":525}
+{"t":1794965404815,"file":"Population.cpp","type":"file-save"}
+{"t":1794965406317,"file":"Population.cpp","type":"insert","rangeStart":1146,"rangeEnd":1146,"text":"d","textLength":1,"docVersion":526}
+{"t":1794965406748,"file":"Population.cpp","type":"insert","rangeStart":1147,"rangeEnd":1147,"text":":","textLength":1,"docVersion":527}
+{"t":1794965406898,"file":"Population.cpp","type":"insert","rangeStart":1148,"rangeEnd":1148,"text":":","textLength":1,"docVersion":528}
+{"t":1794965407647,"file":"Population.cpp","type":"insert","rangeStart":1149,"rangeEnd":1149,"text":"s","textLength":1,"docVersion":529}
+{"t":1794965407849,"file":"Population.cpp","type":"insert","rangeStart":1150,"rangeEnd":1150,"text":"w","textLength":1,"docVersion":530}
+{"t":1794965408059,"file":"Population.cpp","type":"insert","rangeStart":1151,"rangeEnd":1151,"text":"a","textLength":1,"docVersion":531}
+{"t":1794965408713,"file":"Population.cpp","type":"replace","rangeStart":1149,"rangeEnd":1152,"text":"swap","textLength":4,"docVersion":532}
+{"t":1794965409756,"file":"Population.cpp","type":"file-save"}
+{"t":1794965410547,"file":"Population.cpp","type":"insert","rangeStart":1153,"rangeEnd":1153,"text":"()","textLength":2,"docVersion":533}
+{"t":1794965411315,"file":"Population.cpp","type":"insert","rangeStart":1154,"rangeEnd":1154,"text":"t","textLength":1,"docVersion":534}
+{"t":1794965411514,"file":"Population.cpp","type":"insert","rangeStart":1155,"rangeEnd":1155,"text":"o","textLength":1,"docVersion":535}
+{"t":1794965411939,"file":"Population.cpp","type":"insert","rangeStart":1156,"rangeEnd":1156,"text":"u","textLength":1,"docVersion":536}
+{"t":1794965412976,"file":"Population.cpp","type":"file-save"}
+{"t":1794965413660,"file":"Population.cpp","type":"replace","rangeStart":1154,"rangeEnd":1157,"text":"tours","textLength":5,"docVersion":537}
+{"t":1794965414044,"file":"Population.cpp","type":"insert","rangeStart":1159,"rangeEnd":1159,"text":"[]","textLength":2,"docVersion":538}
+{"t":1794965415092,"file":"Population.cpp","type":"file-save"}
+{"t":1794965415224,"file":"Population.cpp","type":"insert","rangeStart":1160,"rangeEnd":1160,"text":"0","textLength":1,"docVersion":539}
+{"t":1794965416266,"file":"Population.cpp","type":"file-save"}
+{"t":1794965418069,"file":"Population.cpp","type":"insert","rangeStart":1162,"rangeEnd":1162,"text":",","textLength":1,"docVersion":540}
+{"t":1794965418242,"file":"Population.cpp","type":"insert","rangeStart":1163,"rangeEnd":1163,"text":" ","textLength":1,"docVersion":541}
+{"t":1794965419082,"file":"Population.cpp","type":"insert","rangeStart":1164,"rangeEnd":1164,"text":"t","textLength":1,"docVersion":542}
+{"t":1794965419247,"file":"Population.cpp","type":"insert","rangeStart":1165,"rangeEnd":1165,"text":"o","textLength":1,"docVersion":543}
+{"t":1794965419501,"file":"Population.cpp","type":"insert","rangeStart":1166,"rangeEnd":1166,"text":"u","textLength":1,"docVersion":544}
+{"t":1794965419811,"file":"Population.cpp","type":"insert","rangeStart":1167,"rangeEnd":1167,"text":"r","textLength":1,"docVersion":545}
+{"t":1794965420091,"file":"Population.cpp","type":"insert","rangeStart":1168,"rangeEnd":1168,"text":"s","textLength":1,"docVersion":546}
+{"t":1794965421133,"file":"Population.cpp","type":"file-save"}
+{"t":1794965421923,"file":"Population.cpp","type":"insert","rangeStart":1169,"rangeEnd":1169,"text":"[]","textLength":2,"docVersion":547}
+{"t":1794965422553,"file":"Population.cpp","type":"insert","rangeStart":1170,"rangeEnd":1170,"text":"g","textLength":1,"docVersion":548}
+{"t":1794965423595,"file":"Population.cpp","type":"file-save"}
+{"t":1794965423596,"file":"Population.cpp","type":"insert","rangeStart":1171,"rangeEnd":1171,"text":"e","textLength":1,"docVersion":549}
+{"t":1794965424624,"file":"Population.cpp","type":"file-save"}
+{"t":1794965426867,"file":"Population.cpp","type":"replace","rangeStart":1170,"rangeEnd":1172,"text":"getBestIndex","textLength":12,"docVersion":550}
+{"t":1794965427913,"file":"Population.cpp","type":"file-save"}
+{"t":1794965428894,"file":"Population.cpp","type":"insert","rangeStart":1182,"rangeEnd":1182,"text":"()","textLength":2,"docVersion":551}
+{"t":1794965429066,"file":"Population.cpp","type":"replace","rangeStart":1183,"rangeEnd":1184,"text":")","textLength":1,"docVersion":552}
+{"t":1794965430102,"file":"Population.cpp","type":"file-save"}
+{"t":1794965434938,"file":"Population.cpp","type":"insert","rangeStart":1189,"rangeEnd":1189,"text":"\r\n","textLength":2,"docVersion":553}
+{"t":1794965435985,"file":"Population.cpp","type":"file-save"}
+{"t":1794965437735,"file":"Population.cpp","type":"insert","rangeStart":1186,"rangeEnd":1186,"text":";","textLength":1,"docVersion":554}
+{"t":1794965438787,"file":"Population.cpp","type":"file-save"}
+{"t":1794965449223,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965454795,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965456715,"file":"Population.cpp","type":"delete","rangeStart":1253,"rangeEnd":1256,"text":"","textLength":0,"docVersion":555}
+{"t":1794965456715,"file":"Population.cpp","type":"delete","rangeStart":1194,"rangeEnd":1197,"text":"","textLength":0,"docVersion":555}
+{"t":1794965457769,"file":"Population.cpp","type":"file-save"}
+{"t":1794965460028,"file":"Population.cpp","type":"delete","rangeStart":1247,"rangeEnd":1248,"text":"","textLength":0,"docVersion":556}
+{"t":1794965460826,"file":"Population.cpp","type":"insert","rangeStart":1247,"rangeEnd":1247,"text":"{}","textLength":2,"docVersion":557}
+{"t":1794965461091,"file":"Population.cpp","type":"insert","rangeStart":1248,"rangeEnd":1248,"text":"\r\n    \r\n","textLength":8,"docVersion":558}
+{"t":1794965462124,"file":"Population.cpp","type":"file-save"}
+{"t":1794965467291,"file":"Population.cpp","type":"delete","rangeStart":1304,"rangeEnd":1305,"text":"","textLength":0,"docVersion":559}
+{"t":1794965467291,"file":"Population.cpp","type":"delete","rangeStart":1250,"rangeEnd":1254,"text":"","textLength":0,"docVersion":559}
+{"t":1794965468065,"file":"Population.cpp","type":"insert","rangeStart":1300,"rangeEnd":1300,"text":"{}","textLength":2,"docVersion":560}
+{"t":1794965468345,"file":"Population.cpp","type":"insert","rangeStart":1301,"rangeEnd":1301,"text":"\r\n    \r\n","textLength":8,"docVersion":561}
+{"t":1794965469363,"file":"Population.cpp","type":"file-save"}
+{"t":1794965470835,"file":"Population.cpp","type":"delete","rangeStart":1303,"rangeEnd":1307,"text":"","textLength":0,"docVersion":562}
+{"t":1794965470836,"file":"Population.cpp","type":"delete","rangeStart":1278,"rangeEnd":1279,"text":"","textLength":0,"docVersion":562}
+{"t":1794965471863,"file":"Population.cpp","type":"file-save"}
+{"t":1794965474744,"file":"Population.cpp","type":"insert","rangeStart":1266,"rangeEnd":1266,"text":"&","textLength":1,"docVersion":563}
+{"t":1794965475802,"file":"Population.cpp","type":"file-save"}
+{"t":1794965479780,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965503635,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965504510,"file":"Population.cpp","type":"insert","rangeStart":1248,"rangeEnd":1248,"text":"\r\n    ","textLength":6,"docVersion":564}
+{"t":1794965505562,"file":"Population.cpp","type":"file-save"}
+{"t":1794965510446,"file":"Population.cpp","type":"insert","rangeStart":1254,"rangeEnd":1254,"text":"\r\n    ","textLength":6,"docVersion":565}
+{"t":1794965510446,"file":"Population.cpp","type":"delete","rangeStart":1250,"rangeEnd":1254,"text":"","textLength":0,"docVersion":565}
+{"t":1794965510678,"file":"Population.cpp","type":"insert","rangeStart":1256,"rangeEnd":1256,"text":"t","textLength":1,"docVersion":566}
+{"t":1794965510881,"file":"Population.cpp","type":"insert","rangeStart":1257,"rangeEnd":1257,"text":"o","textLength":1,"docVersion":567}
+{"t":1794965511112,"file":"Population.cpp","type":"insert","rangeStart":1258,"rangeEnd":1258,"text":"u","textLength":1,"docVersion":568}
+{"t":1794965511651,"file":"Population.cpp","type":"insert","rangeStart":1259,"rangeEnd":1259,"text":"r","textLength":1,"docVersion":569}
+{"t":1794965511933,"file":"Population.cpp","type":"insert","rangeStart":1260,"rangeEnd":1260,"text":"s","textLength":1,"docVersion":570}
+{"t":1794965512649,"file":"Population.cpp","type":"insert","rangeStart":1261,"rangeEnd":1261,"text":" ","textLength":1,"docVersion":571}
+{"t":1794965512842,"file":"Population.cpp","type":"insert","rangeStart":1262,"rangeEnd":1262,"text":"=","textLength":1,"docVersion":572}
+{"t":1794965512933,"file":"Population.cpp","type":"insert","rangeStart":1263,"rangeEnd":1263,"text":" ","textLength":1,"docVersion":573}
+{"t":1794965513978,"file":"Population.cpp","type":"file-save"}
+{"t":1794965524462,"file":"Population.cpp","type":"insert","rangeStart":1264,"rangeEnd":1264,"text":"&","textLength":1,"docVersion":574}
+{"t":1794965525509,"file":"Population.cpp","type":"insert","rangeStart":1265,"rangeEnd":1265,"text":"n","textLength":1,"docVersion":575}
+{"t":1794965525518,"file":"Population.cpp","type":"file-save"}
+{"t":1794965525620,"file":"Population.cpp","type":"insert","rangeStart":1266,"rangeEnd":1266,"text":"e","textLength":1,"docVersion":576}
+{"t":1794965525766,"file":"Population.cpp","type":"insert","rangeStart":1267,"rangeEnd":1267,"text":"w","textLength":1,"docVersion":577}
+{"t":1794965526814,"file":"Population.cpp","type":"file-save"}
+{"t":1794965527542,"file":"Population.cpp","type":"insert","rangeStart":1268,"rangeEnd":1268,"text":"T","textLength":1,"docVersion":578}
+{"t":1794965527730,"file":"Population.cpp","type":"insert","rangeStart":1269,"rangeEnd":1269,"text":"o","textLength":1,"docVersion":579}
+{"t":1794965527952,"file":"Population.cpp","type":"insert","rangeStart":1270,"rangeEnd":1270,"text":"u","textLength":1,"docVersion":580}
+{"t":1794965528196,"file":"Population.cpp","type":"insert","rangeStart":1271,"rangeEnd":1271,"text":"r","textLength":1,"docVersion":581}
+{"t":1794965528440,"file":"Population.cpp","type":"insert","rangeStart":1272,"rangeEnd":1272,"text":"s","textLength":1,"docVersion":582}
+{"t":1794965529485,"file":"Population.cpp","type":"file-save"}
+{"t":1794965529814,"file":"Population.cpp","type":"insert","rangeStart":1273,"rangeEnd":1273,"text":";","textLength":1,"docVersion":583}
+{"t":1794965530851,"file":"Population.cpp","type":"file-save"}
+{"t":1794965531674,"file":"Population.cpp","type":"delete","rangeStart":1248,"rangeEnd":1250,"text":"","textLength":0,"docVersion":584}
+{"t":1794965532694,"file":"Population.cpp","type":"file-save"}
+{"t":1794965533750,"file":"Population.cpp","type":"delete","rangeStart":1272,"rangeEnd":1274,"text":"","textLength":0,"docVersion":585}
+{"t":1794965534797,"file":"Population.cpp","type":"file-save"}
+{"t":1794965537455,"file":"Population.cpp","type":"delete","rangeStart":1262,"rangeEnd":1263,"text":"","textLength":0,"docVersion":586}
+{"t":1794965538494,"file":"Population.cpp","type":"file-save"}
+{"t":1794965551082,"file":"Tour.cpp","type":"copy-command","size":131}
+{"t":1794965557158,"file":"Population.cpp","type":"insert","rangeStart":1322,"rangeEnd":1322,"text":"\r\n    ","textLength":6,"docVersion":587}
+{"t":1794965557387,"file":"Population.cpp","type":"paste-command","size":131}
+{"t":1794965557394,"file":"Population.cpp","type":"insert","rangeStart":1328,"rangeEnd":1328,"text":"    static std::mt19937 rng(std::random_device{}());\r\n    std::shuffle(cities.begin(), cities.end(), rng);\r\n    calculateFitness();","textLength":131,"docVersion":588,"source":"paste-refactor"}
+{"t":1794965557459,"file":"Population.cpp","type":"delete","rangeStart":1459,"rangeEnd":1461,"text":"","textLength":0,"docVersion":589}
+{"t":1794965557459,"file":"Population.cpp","type":"delete","rangeStart":1328,"rangeEnd":1332,"text":"","textLength":0,"docVersion":589}
+{"t":1794965558480,"file":"Population.cpp","type":"file-save"}
+{"t":1794965560717,"file":"Population.cpp","type":"insert","rangeStart":45,"rangeEnd":45,"text":"\r\n","textLength":2,"docVersion":590}
+{"t":1794965561382,"file":"Population.cpp","type":"insert","rangeStart":47,"rangeEnd":47,"text":"#","textLength":1,"docVersion":591}
+{"t":1794965561587,"file":"Population.cpp","type":"insert","rangeStart":48,"rangeEnd":48,"text":"i","textLength":1,"docVersion":592}
+{"t":1794965561773,"file":"Population.cpp","type":"insert","rangeStart":49,"rangeEnd":49,"text":"n","textLength":1,"docVersion":593}
+{"t":1794965561926,"file":"Population.cpp","type":"insert","rangeStart":50,"rangeEnd":50,"text":"c","textLength":1,"docVersion":594}
+{"t":1794965562581,"file":"Population.cpp","type":"replace","rangeStart":48,"rangeEnd":51,"text":"include","textLength":7,"docVersion":595}
+{"t":1794965563471,"file":"Population.cpp","type":"insert","rangeStart":55,"rangeEnd":55,"text":" ","textLength":1,"docVersion":596}
+{"t":1794965564160,"file":"Population.cpp","type":"insert","rangeStart":56,"rangeEnd":56,"text":"<","textLength":1,"docVersion":597}
+{"t":1794965565193,"file":"Population.cpp","type":"file-save"}
+{"t":1794965565222,"file":"Population.cpp","type":"insert","rangeStart":57,"rangeEnd":57,"text":"r","textLength":1,"docVersion":598}
+{"t":1794965565380,"file":"Population.cpp","type":"insert","rangeStart":58,"rangeEnd":58,"text":"a","textLength":1,"docVersion":599}
+{"t":1794965565598,"file":"Population.cpp","type":"insert","rangeStart":59,"rangeEnd":59,"text":"n","textLength":1,"docVersion":600}
+{"t":1794965565780,"file":"Population.cpp","type":"insert","rangeStart":60,"rangeEnd":60,"text":"d","textLength":1,"docVersion":601}
+{"t":1794965565914,"file":"Population.cpp","type":"insert","rangeStart":61,"rangeEnd":61,"text":"o","textLength":1,"docVersion":602}
+{"t":1794965566130,"file":"Population.cpp","type":"insert","rangeStart":62,"rangeEnd":62,"text":"m","textLength":1,"docVersion":603}
+{"t":1794965566571,"file":"Population.cpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":"?","textLength":1,"docVersion":604}
+{"t":1794965566947,"file":"Population.cpp","type":"delete","rangeStart":63,"rangeEnd":64,"text":"","textLength":0,"docVersion":605}
+{"t":1794965567583,"file":"Population.cpp","type":"insert","rangeStart":63,"rangeEnd":63,"text":">","textLength":1,"docVersion":606}
+{"t":1794965568600,"file":"Population.cpp","type":"file-save"}
+{"t":1794965600629,"file":"Population.cpp","type":"delete","rangeStart":1397,"rangeEnd":1474,"text":"","textLength":0,"docVersion":607}
+{"t":1794965601660,"file":"Population.cpp","type":"file-save"}
+{"t":1794965601803,"file":"Population.cpp","type":"insert","rangeStart":1397,"rangeEnd":1397,"text":"    ","textLength":4,"docVersion":608}
+{"t":1794965602830,"file":"Population.cpp","type":"file-save"}
+{"t":1794965615209,"file":"Population.cpp","type":"insert","rangeStart":1401,"rangeEnd":1401,"text":"s","textLength":1,"docVersion":609}
+{"t":1794965615475,"file":"Population.cpp","type":"insert","rangeStart":1402,"rangeEnd":1402,"text":"t","textLength":1,"docVersion":610}
+{"t":1794965615798,"file":"Population.cpp","type":"insert","rangeStart":1403,"rangeEnd":1403,"text":"d","textLength":1,"docVersion":611}
+{"t":1794965616342,"file":"Population.cpp","type":"insert","rangeStart":1404,"rangeEnd":1404,"text":":","textLength":1,"docVersion":612}
+{"t":1794965616517,"file":"Population.cpp","type":"insert","rangeStart":1405,"rangeEnd":1405,"text":":","textLength":1,"docVersion":613}
+{"t":1794965617542,"file":"Population.cpp","type":"file-save"}
+{"t":1794965617896,"file":"Population.cpp","type":"insert","rangeStart":1406,"rangeEnd":1406,"text":"u","textLength":1,"docVersion":614}
+{"t":1794965618046,"file":"Population.cpp","type":"insert","rangeStart":1407,"rangeEnd":1407,"text":"n","textLength":1,"docVersion":615}
+{"t":1794965618231,"file":"Population.cpp","type":"insert","rangeStart":1408,"rangeEnd":1408,"text":"i","textLength":1,"docVersion":616}
+{"t":1794965618466,"file":"Population.cpp","type":"insert","rangeStart":1409,"rangeEnd":1409,"text":"f","textLength":1,"docVersion":617}
+{"t":1794965619504,"file":"Population.cpp","type":"file-save"}
+{"t":1794965620623,"file":"Population.cpp","type":"replace","rangeStart":1406,"rangeEnd":1410,"text":"uniform_int_distribution","textLength":24,"docVersion":618}
+{"t":1794965621664,"file":"Population.cpp","type":"file-save"}
+{"t":1794965622200,"file":"Population.cpp","type":"insert","rangeStart":1430,"rangeEnd":1430,"text":"<","textLength":1,"docVersion":619}
+{"t":1794965623252,"file":"Population.cpp","type":"file-save"}
+{"t":1794965623285,"file":"Population.cpp","type":"insert","rangeStart":1431,"rangeEnd":1431,"text":"s","textLength":1,"docVersion":620}
+{"t":1794965623494,"file":"Population.cpp","type":"insert","rangeStart":1432,"rangeEnd":1432,"text":"i","textLength":1,"docVersion":621}
+{"t":1794965624523,"file":"Population.cpp","type":"file-save"}
+{"t":1794965624728,"file":"Population.cpp","type":"insert","rangeStart":1433,"rangeEnd":1433,"text":"z","textLength":1,"docVersion":622}
+{"t":1794965624997,"file":"Population.cpp","type":"insert","rangeStart":1434,"rangeEnd":1434,"text":"e","textLength":1,"docVersion":623}
+{"t":1794965626029,"file":"Population.cpp","type":"file-save"}
+{"t":1794965626294,"file":"Population.cpp","type":"replace","rangeStart":1431,"rangeEnd":1435,"text":"size_t","textLength":6,"docVersion":624}
+{"t":1794965627342,"file":"Population.cpp","type":"file-save"}
+{"t":1794965627379,"file":"Population.cpp","type":"insert","rangeStart":1437,"rangeEnd":1437,"text":">","textLength":1,"docVersion":625}
+{"t":1794965628424,"file":"Population.cpp","type":"file-save"}
+{"t":1794965629562,"file":"Population.cpp","type":"insert","rangeStart":1438,"rangeEnd":1438,"text":" ","textLength":1,"docVersion":626}
+{"t":1794965629961,"file":"Population.cpp","type":"insert","rangeStart":1439,"rangeEnd":1439,"text":"d","textLength":1,"docVersion":627}
+{"t":1794965630169,"file":"Population.cpp","type":"insert","rangeStart":1440,"rangeEnd":1440,"text":"i","textLength":1,"docVersion":628}
+{"t":1794965630307,"file":"Population.cpp","type":"insert","rangeStart":1441,"rangeEnd":1441,"text":"s","textLength":1,"docVersion":629}
+{"t":1794965630580,"file":"Population.cpp","type":"insert","rangeStart":1442,"rangeEnd":1442,"text":"t","textLength":1,"docVersion":630}
+{"t":1794965631614,"file":"Population.cpp","type":"file-save"}
+{"t":1794965632903,"file":"Population.cpp","type":"insert","rangeStart":1443,"rangeEnd":1443,"text":"()","textLength":2,"docVersion":631}
+{"t":1794965633615,"file":"Population.cpp","type":"insert","rangeStart":1444,"rangeEnd":1444,"text":"0","textLength":1,"docVersion":632}
+{"t":1794965633904,"file":"Population.cpp","type":"insert","rangeStart":1445,"rangeEnd":1445,"text":",","textLength":1,"docVersion":633}
+{"t":1794965634205,"file":"Population.cpp","type":"insert","rangeStart":1446,"rangeEnd":1446,"text":" ","textLength":1,"docVersion":634}
+{"t":1794965635232,"file":"Population.cpp","type":"file-save"}
+{"t":1794965635268,"file":"Population.cpp","type":"insert","rangeStart":1447,"rangeEnd":1447,"text":"t","textLength":1,"docVersion":635}
+{"t":1794965635422,"file":"Population.cpp","type":"insert","rangeStart":1448,"rangeEnd":1448,"text":"o","textLength":1,"docVersion":636}
+{"t":1794965635643,"file":"Population.cpp","type":"insert","rangeStart":1449,"rangeEnd":1449,"text":"u","textLength":1,"docVersion":637}
+{"t":1794965636666,"file":"Population.cpp","type":"file-save"}
+{"t":1794965636917,"file":"Population.cpp","type":"insert","rangeStart":1450,"rangeEnd":1450,"text":"r","textLength":1,"docVersion":638}
+{"t":1794965637209,"file":"Population.cpp","type":"insert","rangeStart":1451,"rangeEnd":1451,"text":"s","textLength":1,"docVersion":639}
+{"t":1794965638245,"file":"Population.cpp","type":"file-save"}
+{"t":1794965639281,"file":"Population.cpp","type":"insert","rangeStart":1452,"rangeEnd":1452,"text":".","textLength":1,"docVersion":640}
+{"t":1794965639512,"file":"Population.cpp","type":"insert","rangeStart":1453,"rangeEnd":1453,"text":"s","textLength":1,"docVersion":641}
+{"t":1794965640563,"file":"Population.cpp","type":"file-save"}
+{"t":1794965640645,"file":"Population.cpp","type":"replace","rangeStart":1453,"rangeEnd":1454,"text":"size","textLength":4,"docVersion":642}
+{"t":1794965641698,"file":"Population.cpp","type":"file-save"}
+{"t":1794965642652,"file":"Population.cpp","type":"insert","rangeStart":1457,"rangeEnd":1457,"text":"()","textLength":2,"docVersion":643}
+{"t":1794965642831,"file":"Population.cpp","type":"replace","rangeStart":1458,"rangeEnd":1459,"text":")","textLength":1,"docVersion":644}
+{"t":1794965643784,"file":"Population.cpp","type":"insert","rangeStart":1459,"rangeEnd":1459,"text":" ","textLength":1,"docVersion":645}
+{"t":1794965644154,"file":"Population.cpp","type":"insert","rangeStart":1460,"rangeEnd":1460,"text":"-","textLength":1,"docVersion":646}
+{"t":1794965644441,"file":"Population.cpp","type":"insert","rangeStart":1461,"rangeEnd":1461,"text":"1","textLength":1,"docVersion":647}
+{"t":1794965645555,"file":"Population.cpp","type":"file-save"}
+{"t":1794965647069,"file":"Population.cpp","type":"insert","rangeStart":1463,"rangeEnd":1463,"text":";","textLength":1,"docVersion":648}
+{"t":1794965647720,"file":"Population.cpp","type":"insert","rangeStart":1464,"rangeEnd":1464,"text":"\r\n    ","textLength":6,"docVersion":649}
+{"t":1794965648763,"file":"Population.cpp","type":"file-save"}
+{"t":1794965649076,"file":"Population.cpp","type":"insert","rangeStart":1470,"rangeEnd":1470,"text":"r","textLength":1,"docVersion":650}
+{"t":1794965649151,"file":"Population.cpp","type":"insert","rangeStart":1471,"rangeEnd":1471,"text":"e","textLength":1,"docVersion":651}
+{"t":1794965649391,"file":"Population.cpp","type":"insert","rangeStart":1472,"rangeEnd":1472,"text":"t","textLength":1,"docVersion":652}
+{"t":1794965649607,"file":"Population.cpp","type":"insert","rangeStart":1473,"rangeEnd":1473,"text":"u","textLength":1,"docVersion":653}
+{"t":1794965650071,"file":"Population.cpp","type":"insert","rangeStart":1474,"rangeEnd":1474,"text":"r","textLength":1,"docVersion":654}
+{"t":1794965650230,"file":"Population.cpp","type":"insert","rangeStart":1475,"rangeEnd":1475,"text":"n","textLength":1,"docVersion":655}
+{"t":1794965650421,"file":"Population.cpp","type":"insert","rangeStart":1476,"rangeEnd":1476,"text":" ","textLength":1,"docVersion":656}
+{"t":1794965650907,"file":"Population.cpp","type":"insert","rangeStart":1477,"rangeEnd":1477,"text":"t","textLength":1,"docVersion":657}
+{"t":1794965651042,"file":"Population.cpp","type":"insert","rangeStart":1478,"rangeEnd":1478,"text":"o","textLength":1,"docVersion":658}
+{"t":1794965651268,"file":"Population.cpp","type":"insert","rangeStart":1479,"rangeEnd":1479,"text":"u","textLength":1,"docVersion":659}
+{"t":1794965651523,"file":"Population.cpp","type":"insert","rangeStart":1480,"rangeEnd":1480,"text":"r","textLength":1,"docVersion":660}
+{"t":1794965651769,"file":"Population.cpp","type":"insert","rangeStart":1481,"rangeEnd":1481,"text":"s","textLength":1,"docVersion":661}
+{"t":1794965652814,"file":"Population.cpp","type":"file-save"}
+{"t":1794965654315,"file":"Population.cpp","type":"insert","rangeStart":1482,"rangeEnd":1482,"text":"{}","textLength":2,"docVersion":662}
+{"t":1794965655357,"file":"Population.cpp","type":"file-save"}
+{"t":1794965656575,"file":"Population.cpp","type":"delete","rangeStart":1482,"rangeEnd":1484,"text":"","textLength":0,"docVersion":663}
+{"t":1794965657166,"file":"Population.cpp","type":"insert","rangeStart":1482,"rangeEnd":1482,"text":"[]","textLength":2,"docVersion":664}
+{"t":1794965658090,"file":"Population.cpp","type":"insert","rangeStart":1483,"rangeEnd":1483,"text":"d","textLength":1,"docVersion":665}
+{"t":1794965658281,"file":"Population.cpp","type":"insert","rangeStart":1484,"rangeEnd":1484,"text":"i","textLength":1,"docVersion":666}
+{"t":1794965658425,"file":"Population.cpp","type":"insert","rangeStart":1485,"rangeEnd":1485,"text":"s","textLength":1,"docVersion":667}
+{"t":1794965658704,"file":"Population.cpp","type":"insert","rangeStart":1486,"rangeEnd":1486,"text":"t","textLength":1,"docVersion":668}
+{"t":1794965659463,"file":"Population.cpp","type":"insert","rangeStart":1488,"rangeEnd":1488,"text":";","textLength":1,"docVersion":669}
+{"t":1794965660495,"file":"Population.cpp","type":"file-save"}
+{"t":1794965678490,"file":"Population.cpp","type":"insert","rangeStart":1307,"rangeEnd":1307,"text":" ","textLength":1,"docVersion":670}
+{"t":1794965679537,"file":"Population.cpp","type":"file-save"}
+{"t":1794965680536,"file":"Population.cpp","type":"delete","rangeStart":1305,"rangeEnd":1306,"text":"","textLength":0,"docVersion":671}
+{"t":1794965681582,"file":"Population.cpp","type":"file-save"}
+{"t":1794965689369,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965713435,"file":"Population.cpp","type":"window-focus"}
+{"t":1794965714326,"file":"Population.cpp","type":"insert","rangeStart":1487,"rangeEnd":1487,"text":"()","textLength":2,"docVersion":672}
+{"t":1794965714463,"file":"Population.cpp","type":"replace","rangeStart":1488,"rangeEnd":1489,"text":")","textLength":1,"docVersion":673}
+{"t":1794965714753,"file":"Population.cpp","type":"insert","rangeStart":1489,"rangeEnd":1489,"text":"r","textLength":1,"docVersion":674}
+{"t":1794965714884,"file":"Population.cpp","type":"insert","rangeStart":1490,"rangeEnd":1490,"text":"a","textLength":1,"docVersion":675}
+{"t":1794965715177,"file":"Population.cpp","type":"insert","rangeStart":1491,"rangeEnd":1491,"text":"g","textLength":1,"docVersion":676}
+{"t":1794965716215,"file":"Population.cpp","type":"file-save"}
+{"t":1794965718107,"file":"Population.cpp","type":"insert","rangeStart":1488,"rangeEnd":1488,"text":"r","textLength":1,"docVersion":677}
+{"t":1794965718202,"file":"Population.cpp","type":"insert","rangeStart":1489,"rangeEnd":1489,"text":"a","textLength":1,"docVersion":678}
+{"t":1794965718430,"file":"Population.cpp","type":"insert","rangeStart":1490,"rangeEnd":1490,"text":"g","textLength":1,"docVersion":679}
+{"t":1794965719461,"file":"Population.cpp","type":"file-save"}
+{"t":1794965723667,"file":"Population.cpp","type":"delete","rangeStart":1489,"rangeEnd":1490,"text":"","textLength":0,"docVersion":680}
+{"t":1794965723978,"file":"Population.cpp","type":"insert","rangeStart":1489,"rangeEnd":1489,"text":"n","textLength":1,"docVersion":681}
+{"t":1794965725012,"file":"Population.cpp","type":"file-save"}
+{"t":1794965725946,"file":"Population.cpp","type":"delete","rangeStart":1492,"rangeEnd":1495,"text":"","textLength":0,"docVersion":682}
+{"t":1794965727007,"file":"Population.cpp","type":"file-save"}
+{"t":1794965729113,"file":"Population.cpp","type":"insert","rangeStart":1395,"rangeEnd":1395,"text":" ","textLength":1,"docVersion":683}
+{"t":1794965729481,"file":"Population.cpp","type":"insert","rangeStart":1396,"rangeEnd":1396,"text":"/","textLength":1,"docVersion":684}
+{"t":1794965729653,"file":"Population.cpp","type":"insert","rangeStart":1397,"rangeEnd":1397,"text":"/","textLength":1,"docVersion":685}
+{"t":1794965730473,"file":"Population.cpp","type":"insert","rangeStart":1398,"rangeEnd":1398,"text":"g","textLength":1,"docVersion":686}
+{"t":1794965730600,"file":"Population.cpp","type":"insert","rangeStart":1399,"rangeEnd":1399,"text":"e","textLength":1,"docVersion":687}
+{"t":1794965730756,"file":"Population.cpp","type":"insert","rangeStart":1400,"rangeEnd":1400,"text":"n","textLength":1,"docVersion":688}
+{"t":1794965730899,"file":"Population.cpp","type":"insert","rangeStart":1401,"rangeEnd":1401,"text":"e","textLength":1,"docVersion":689}
+{"t":1794965731038,"file":"Population.cpp","type":"insert","rangeStart":1402,"rangeEnd":1402,"text":"r","textLength":1,"docVersion":690}
+{"t":1794965731197,"file":"Population.cpp","type":"insert","rangeStart":1403,"rangeEnd":1403,"text":"a","textLength":1,"docVersion":691}
+{"t":1794965731388,"file":"Population.cpp","type":"insert","rangeStart":1404,"rangeEnd":1404,"text":"t","textLength":1,"docVersion":692}
+{"t":1794965731505,"file":"Population.cpp","type":"insert","rangeStart":1405,"rangeEnd":1405,"text":"e","textLength":1,"docVersion":693}
+{"t":1794965731816,"file":"Population.cpp","type":"insert","rangeStart":1406,"rangeEnd":1406,"text":" ","textLength":1,"docVersion":694}
+{"t":1794965732065,"file":"Population.cpp","type":"insert","rangeStart":1407,"rangeEnd":1407,"text":"s","textLength":1,"docVersion":695}
+{"t":1794965732360,"file":"Population.cpp","type":"insert","rangeStart":1408,"rangeEnd":1408,"text":"e","textLength":1,"docVersion":696}
+{"t":1794965732520,"file":"Population.cpp","type":"insert","rangeStart":1409,"rangeEnd":1409,"text":"e","textLength":1,"docVersion":697}
+{"t":1794965732721,"file":"Population.cpp","type":"insert","rangeStart":1410,"rangeEnd":1410,"text":"d","textLength":1,"docVersion":698}
+{"t":1794965733755,"file":"Population.cpp","type":"file-save"}
+{"t":1794965734009,"file":"Population.cpp","type":"insert","rangeStart":1480,"rangeEnd":1480,"text":" ","textLength":1,"docVersion":699}
+{"t":1794965734634,"file":"Population.cpp","type":"insert","rangeStart":1481,"rangeEnd":1481,"text":"/","textLength":1,"docVersion":700}
+{"t":1794965734779,"file":"Population.cpp","type":"insert","rangeStart":1482,"rangeEnd":1482,"text":"/","textLength":1,"docVersion":701}
+{"t":1794965735511,"file":"Population.cpp","type":"insert","rangeStart":1483,"rangeEnd":1483,"text":"g","textLength":1,"docVersion":702}
+{"t":1794965735626,"file":"Population.cpp","type":"insert","rangeStart":1484,"rangeEnd":1484,"text":"e","textLength":1,"docVersion":703}
+{"t":1794965735795,"file":"Population.cpp","type":"insert","rangeStart":1485,"rangeEnd":1485,"text":"t","textLength":1,"docVersion":704}
+{"t":1794965735967,"file":"Population.cpp","type":"insert","rangeStart":1486,"rangeEnd":1486,"text":" ","textLength":1,"docVersion":705}
+{"t":1794965736034,"file":"Population.cpp","type":"insert","rangeStart":1487,"rangeEnd":1487,"text":"t","textLength":1,"docVersion":706}
+{"t":1794965736198,"file":"Population.cpp","type":"insert","rangeStart":1488,"rangeEnd":1488,"text":"h","textLength":1,"docVersion":707}
+{"t":1794965736275,"file":"Population.cpp","type":"insert","rangeStart":1489,"rangeEnd":1489,"text":"e","textLength":1,"docVersion":708}
+{"t":1794965736433,"file":"Population.cpp","type":"insert","rangeStart":1490,"rangeEnd":1490,"text":" ","textLength":1,"docVersion":709}
+{"t":1794965737030,"file":"Population.cpp","type":"insert","rangeStart":1491,"rangeEnd":1491,"text":"r","textLength":1,"docVersion":710}
+{"t":1794965737139,"file":"Population.cpp","type":"insert","rangeStart":1492,"rangeEnd":1492,"text":"a","textLength":1,"docVersion":711}
+{"t":1794965737283,"file":"Population.cpp","type":"insert","rangeStart":1493,"rangeEnd":1493,"text":"n","textLength":1,"docVersion":712}
+{"t":1794965737770,"file":"Population.cpp","type":"insert","rangeStart":1494,"rangeEnd":1494,"text":"d","textLength":1,"docVersion":713}
+{"t":1794965737869,"file":"Population.cpp","type":"insert","rangeStart":1495,"rangeEnd":1495,"text":"o","textLength":1,"docVersion":714}
+{"t":1794965738074,"file":"Population.cpp","type":"insert","rangeStart":1496,"rangeEnd":1496,"text":"m","textLength":1,"docVersion":715}
+{"t":1794965738231,"file":"Population.cpp","type":"insert","rangeStart":1497,"rangeEnd":1497,"text":" ","textLength":1,"docVersion":716}
+{"t":1794965738505,"file":"Population.cpp","type":"insert","rangeStart":1498,"rangeEnd":1498,"text":"d","textLength":1,"docVersion":717}
+{"t":1794965738984,"file":"Population.cpp","type":"delete","rangeStart":1498,"rangeEnd":1499,"text":"","textLength":0,"docVersion":718}
+{"t":1794965740011,"file":"Population.cpp","type":"file-save"}
+{"t":1794965740065,"file":"Population.cpp","type":"insert","rangeStart":1498,"rangeEnd":1498,"text":"i","textLength":1,"docVersion":719}
+{"t":1794965740304,"file":"Population.cpp","type":"insert","rangeStart":1499,"rangeEnd":1499,"text":"n","textLength":1,"docVersion":720}
+{"t":1794965740526,"file":"Population.cpp","type":"insert","rangeStart":1500,"rangeEnd":1500,"text":"d","textLength":1,"docVersion":721}
+{"t":1794965740787,"file":"Population.cpp","type":"insert","rangeStart":1501,"rangeEnd":1501,"text":"e","textLength":1,"docVersion":722}
+{"t":1794965741467,"file":"Population.cpp","type":"insert","rangeStart":1502,"rangeEnd":1502,"text":"x","textLength":1,"docVersion":723}
+{"t":1794965742502,"file":"Population.cpp","type":"file-save"}
+{"t":1794965746675,"file":"Population.cpp","type":"window-blur"}
+{"t":1794965750794,"file":"Population.cpp","type":"window-focus"}
