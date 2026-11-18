@@ -7,6 +7,7 @@ class Population {
     vector<Tour> tours;
 
     void generateTours(vector<City>& cities, int popSize); // Use shuffle on cities to generate popSize number of tours
+    size_t getBestIndex() const;
 
 public:
     static const int POPULATION_SIZE = 30;  
