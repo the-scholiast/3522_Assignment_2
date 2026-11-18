@@ -1,7 +1,6 @@
-class Population;
-class GeneticAlgorithm;
-#include <vector>
-class City;
+#include "Population.hpp";
+#include "GeneticAlgorithm.hpp";
+#include "City.hpp";
 using namespace std;
 
 class FittestTourFinder {

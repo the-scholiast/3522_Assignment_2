@@ -5,5 +5,6 @@
 
 int main() {
     srand(time(0));
-
+    
+    FittestTourFinder::getFittestTourFinder().execute();
 }
