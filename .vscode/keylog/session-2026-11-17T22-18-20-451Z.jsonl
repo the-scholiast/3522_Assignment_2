@@ -1780,3 +1780,15 @@
 {"t":1794963281679,"file":"Tour.cpp","type":"window-focus"}
 {"t":1794963292285,"file":"Tour.cpp","type":"window-blur"}
 {"t":1794963310776,"file":"Tour.cpp","type":"window-focus"}
+{"t":1794963321625,"file":"GeneticAlgorithm.cpp","type":"file-created","size":610}
+{"t":1794963321632,"file":"main.cpp","type":"file-created","size":114}
+{"t":1794963321640,"file":"Tour.hpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"    Tour();\r\n","textLength":13,"docVersion":5}
+{"t":1794963326946,"file":"Tour.cpp","type":"window-blur"}
+{"t":1794963328450,"file":"Tour.cpp","type":"window-focus"}
+{"t":1794963337287,"file":"vscode.git.Git.log","type":"copy-command","size":60}
+{"t":1794963407988,"file":"Population.hpp","type":"file-open"}
+{"t":1794963427520,"file":"Population.hpp","type":"replace","rangeStart":408,"rangeEnd":412,"text":"T","textLength":1,"docVersion":2}
+{"t":1794963427746,"file":"Population.hpp","type":"insert","rangeStart":409,"rangeEnd":409,"text":"o","textLength":1,"docVersion":3}
+{"t":1794963427961,"file":"Population.hpp","type":"insert","rangeStart":410,"rangeEnd":410,"text":"u","textLength":1,"docVersion":4}
+{"t":1794963428242,"file":"Population.hpp","type":"insert","rangeStart":411,"rangeEnd":411,"text":"r","textLength":1,"docVersion":5}
+{"t":1794963429277,"file":"Population.hpp","type":"file-save"}

@@ -12,7 +12,7 @@ public:
     static const int POPULATION_SIZE = 30;  
     
     Population(vector<City>& cities, int popSize); // Use generateTours in here
-    const vector<City>& getTours() const;
+    const vector<Tour>& getTours() const;
     const Tour& getBestFitness() const; // Find the tour with the lowest fitness
     void replaceTours(vector<Tour>& newTours);
     int getPopSize() const;
