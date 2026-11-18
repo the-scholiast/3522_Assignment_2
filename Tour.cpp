@@ -49,7 +49,7 @@ void Tour::printCities() const{
     cout << ")" << endl;
 }
 
-const int Tour::getCitiesSize() const {
+int Tour::getCitiesSize() const {
     return cities.size();
 }
 

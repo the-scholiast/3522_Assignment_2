@@ -1,6 +1,6 @@
-#include "Population.hpp";
-#include "GeneticAlgorithm.hpp";
-#include "City.hpp";
+#include "Population.hpp"
+#include "GeneticAlgorithm.hpp"
+#include "City.hpp"
 using namespace std;
 
 class FittestTourFinder {
