@@ -13,7 +13,7 @@ FittestTourFinder& FittestTourFinder::getFittestTourFinder() {
 
 void FittestTourFinder::generateCities() {
     for (int i = 0; i < CITY_COUNT; i++) {
-        string cityName = "City" + static_cast<char>('A' + i);
+        string cityName = string("City") + static_cast<char>('A' + i);
         int randomXCoordinate = rand() % 1001;
         int randomYCoordinate = rand() % 1001;
 
