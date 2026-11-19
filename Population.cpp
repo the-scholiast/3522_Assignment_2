@@ -57,9 +57,8 @@ void Population::replaceTours(vector<Tour> &newTours){
 }
 
 const Tour& Population::getRandomTour() const{
-    static std::mt19937 rng(std::random_device{}()); //generate seed
-    std::uniform_int_distribution<size_t> dist(0, tours.size() -1); //get the random index
-    return tours[dist(rng)];
+    size_t index = static_cast<size_t>(std::rand()) % tours.size();
+    return tours[index];
 }
 
 const Tour& Population::getBestNonElite() {
