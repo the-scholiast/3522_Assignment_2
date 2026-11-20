@@ -67,7 +67,10 @@ void GeneticAlgorithm::createNewPopulation() {
 
     // Mutate all non-best tours
     for (int i = 1; i < tempTours.size(); i++) {
-        mutate(tempTours[i]);
+        double mutateProb = static_cast<double>(rand()) / RAND_MAX;
+        if (mutateProb < MUTATION_PERCENT) {
+            mutate(tempTours[i]);
+        }
     }
 
     population.replaceTours(tempTours);

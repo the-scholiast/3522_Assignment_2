@@ -10,7 +10,7 @@ class Population {
     size_t getBestIndex() const;
 
 public:
-    static const int POPULATION_SIZE = 30;  
+    static const int POPULATION_SIZE = 32;  
     
     Population(vector<City>& cities, int popSize); // Use generateTours in here
     const vector<Tour>& getTours() const;

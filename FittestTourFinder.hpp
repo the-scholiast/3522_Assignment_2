@@ -18,10 +18,11 @@ class FittestTourFinder {
     void initializeAlgo();
 
 public:
-    static const int CITY_COUNT = 20; 
+    static const int CITY_COUNT = 32; 
     static FittestTourFinder& getFittestTourFinder();
     ~FittestTourFinder();
     FittestTourFinder(const FittestTourFinder&) = delete;
     FittestTourFinder& operator=(const FittestTourFinder&) = delete;
     void execute();
+    void generateFixedCities();
 };

@@ -1,0 +1,603 @@
+{"t":1795206237289,"file":"","type":"session-start"}
+{"t":1795206237477,"file":"FittestTourFinder.hpp","type":"file-preexisting","size":682}
+{"t":1795206237477,"file":"FittestTourFinder.cpp","type":"file-preexisting","size":1090}
+{"t":1795206237477,"file":"main.cpp","type":"file-preexisting","size":167}
+{"t":1795206237477,"file":"GeneticAlgorithm.hpp","type":"file-preexisting","size":1124}
+{"t":1795206237477,"file":"CMakeLists.txt","type":"file-preexisting","size":377}
+{"t":1795206237477,"file":"City.hpp","type":"file-preexisting","size":409}
+{"t":1795206237477,"file":".coderewind-record","type":"file-preexisting","size":0}
+{"t":1795206237477,"file":".~lock.README.md#","type":"file-preexisting","size":113}
+{"t":1795206237477,"file":"Population.hpp","type":"file-preexisting","size":758}
+{"t":1795206237477,"file":"Tour.hpp","type":"file-preexisting","size":686}
+{"t":1795206237477,"file":".gitignore","type":"file-preexisting","size":6}
+{"t":1795206237477,"file":"Population.cpp","type":"file-preexisting","size":1764}
+{"t":1795206237477,"file":".coderewindignore","type":"file-preexisting","size":10}
+{"t":1795206237477,"file":"Tour.cpp","type":"file-preexisting","size":1217}
+{"t":1795206237477,"file":"City.cpp","type":"file-preexisting","size":567}
+{"t":1795206237477,"file":"GeneticAlgorithm.cpp","type":"file-preexisting","size":4505}
+{"t":1795206249501,"file":"FittestTourFinder.cpp","type":"file-open"}
+{"t":1795206251779,"file":"FittestTourFinder.hpp","type":"file-open"}
+{"t":1795206264593,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206265375,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206270161,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206306021,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206396037,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206399682,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206407143,"file":"main.cpp","type":"file-open"}
+{"t":1795206454237,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206487821,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206490007,"file":"FittestTourFinder.cpp","type":"copy-command","size":1090}
+{"t":1795206490580,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206491803,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206492733,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206495992,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206500441,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206559684,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206580892,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206583971,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206584123,"file":"FittestTourFinder.hpp","type":"file-open"}
+{"t":1795206586597,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":679,"rangeEnd":679,"text":"\n    ","textLength":5,"docVersion":2}
+{"t":1795206586937,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206587616,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206588306,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206588594,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":684,"rangeEnd":684,"text":"v","textLength":1,"docVersion":3}
+{"t":1795206588728,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":685,"rangeEnd":685,"text":"o","textLength":1,"docVersion":4}
+{"t":1795206588873,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":686,"rangeEnd":686,"text":"i","textLength":1,"docVersion":5}
+{"t":1795206589020,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":687,"rangeEnd":687,"text":"d","textLength":1,"docVersion":6}
+{"t":1795206589205,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":688,"rangeEnd":688,"text":" ","textLength":1,"docVersion":7}
+{"t":1795206589521,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206590219,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206590575,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206592402,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206593747,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206594039,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":689,"rangeEnd":689,"text":"g","textLength":1,"docVersion":8}
+{"t":1795206594305,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":690,"rangeEnd":690,"text":"e","textLength":1,"docVersion":9}
+{"t":1795206594451,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":691,"rangeEnd":691,"text":"n","textLength":1,"docVersion":10}
+{"t":1795206594537,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":692,"rangeEnd":692,"text":"e","textLength":1,"docVersion":11}
+{"t":1795206594678,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":693,"rangeEnd":693,"text":"r","textLength":1,"docVersion":12}
+{"t":1795206594842,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":694,"rangeEnd":694,"text":"a","textLength":1,"docVersion":13}
+{"t":1795206594957,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":695,"rangeEnd":695,"text":"t","textLength":1,"docVersion":14}
+{"t":1795206595079,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":696,"rangeEnd":696,"text":"e","textLength":1,"docVersion":15}
+{"t":1795206595531,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206596098,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206596384,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206596688,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":697,"rangeEnd":697,"text":"F","textLength":1,"docVersion":16}
+{"t":1795206596891,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":698,"rangeEnd":698,"text":"i","textLength":1,"docVersion":17}
+{"t":1795206597359,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":699,"rangeEnd":699,"text":"x","textLength":1,"docVersion":18}
+{"t":1795206597645,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":700,"rangeEnd":700,"text":"e","textLength":1,"docVersion":19}
+{"t":1795206597770,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":701,"rangeEnd":701,"text":"d","textLength":1,"docVersion":20}
+{"t":1795206598121,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":702,"rangeEnd":702,"text":"C","textLength":1,"docVersion":21}
+{"t":1795206598310,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":703,"rangeEnd":703,"text":"i","textLength":1,"docVersion":22}
+{"t":1795206598475,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":704,"rangeEnd":704,"text":"t","textLength":1,"docVersion":23}
+{"t":1795206598579,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":705,"rangeEnd":705,"text":"i","textLength":1,"docVersion":24}
+{"t":1795206598674,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":706,"rangeEnd":706,"text":"e","textLength":1,"docVersion":25}
+{"t":1795206598769,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":707,"rangeEnd":707,"text":"s","textLength":1,"docVersion":26}
+{"t":1795206599207,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795206599785,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206599795,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795206600258,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":708,"rangeEnd":708,"text":"()","textLength":2,"docVersion":27}
+{"t":1795206600356,"file":"FittestTourFinder.hpp","type":"replace","rangeStart":709,"rangeEnd":710,"text":")","textLength":1,"docVersion":28}
+{"t":1795206600631,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":710,"rangeEnd":710,"text":" ","textLength":1,"docVersion":29}
+{"t":1795206600932,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":711,"rangeEnd":711,"text":"{}","textLength":2,"docVersion":30}
+{"t":1795206601949,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206602647,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":712,"rangeEnd":713,"text":"","textLength":0,"docVersion":31}
+{"t":1795206602815,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":711,"rangeEnd":712,"text":"","textLength":0,"docVersion":32}
+{"t":1795206602984,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":710,"rangeEnd":711,"text":"","textLength":0,"docVersion":33}
+{"t":1795206603788,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":710,"rangeEnd":710,"text":";","textLength":1,"docVersion":34}
+{"t":1795206604817,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206611235,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1090,"rangeEnd":1090,"text":"\n","textLength":1,"docVersion":2}
+{"t":1795206611403,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1091,"rangeEnd":1091,"text":"\n","textLength":1,"docVersion":3}
+{"t":1795206611900,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1092,"rangeEnd":1092,"text":"v","textLength":1,"docVersion":4}
+{"t":1795206612007,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1093,"rangeEnd":1093,"text":"o","textLength":1,"docVersion":5}
+{"t":1795206612174,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1094,"rangeEnd":1094,"text":"i","textLength":1,"docVersion":6}
+{"t":1795206612302,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1095,"rangeEnd":1095,"text":"d","textLength":1,"docVersion":7}
+{"t":1795206612728,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1096,"rangeEnd":1096,"text":" ","textLength":1,"docVersion":8}
+{"t":1795206613128,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1097,"rangeEnd":1097,"text":"F","textLength":1,"docVersion":9}
+{"t":1795206613316,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1098,"rangeEnd":1098,"text":"i","textLength":1,"docVersion":10}
+{"t":1795206613518,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1099,"rangeEnd":1099,"text":"t","textLength":1,"docVersion":11}
+{"t":1795206613701,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1100,"rangeEnd":1100,"text":"t","textLength":1,"docVersion":12}
+{"t":1795206614154,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1101,"rangeEnd":1101,"text":"e","textLength":1,"docVersion":13}
+{"t":1795206614296,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1102,"rangeEnd":1102,"text":"s","textLength":1,"docVersion":14}
+{"t":1795206614427,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1103,"rangeEnd":1103,"text":"t","textLength":1,"docVersion":15}
+{"t":1795206614908,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1104,"rangeEnd":1104,"text":"T","textLength":1,"docVersion":16}
+{"t":1795206615132,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1105,"rangeEnd":1105,"text":"o","textLength":1,"docVersion":17}
+{"t":1795206615306,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1106,"rangeEnd":1106,"text":"u","textLength":1,"docVersion":18}
+{"t":1795206615436,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1107,"rangeEnd":1107,"text":"r","textLength":1,"docVersion":19}
+{"t":1795206615766,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1108,"rangeEnd":1108,"text":"F","textLength":1,"docVersion":20}
+{"t":1795206615920,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1109,"rangeEnd":1109,"text":"i","textLength":1,"docVersion":21}
+{"t":1795206616080,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1110,"rangeEnd":1110,"text":"n","textLength":1,"docVersion":22}
+{"t":1795206616139,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1111,"rangeEnd":1111,"text":"d","textLength":1,"docVersion":23}
+{"t":1795206616258,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1112,"rangeEnd":1112,"text":"e","textLength":1,"docVersion":24}
+{"t":1795206616355,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1113,"rangeEnd":1113,"text":"r","textLength":1,"docVersion":25}
+{"t":1795206616727,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1114,"rangeEnd":1114,"text":":","textLength":1,"docVersion":26}
+{"t":1795206616886,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1115,"rangeEnd":1115,"text":":","textLength":1,"docVersion":27}
+{"t":1795206617911,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206619471,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1116,"rangeEnd":1116,"text":"generateFixedCities","textLength":19,"docVersion":28}
+{"t":1795206620379,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1135,"rangeEnd":1135,"text":"()","textLength":2,"docVersion":29}
+{"t":1795206620476,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1136,"rangeEnd":1137,"text":")","textLength":1,"docVersion":30}
+{"t":1795206620738,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1137,"rangeEnd":1137,"text":" ","textLength":1,"docVersion":31}
+{"t":1795206621149,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1138,"rangeEnd":1138,"text":"{}","textLength":2,"docVersion":32}
+{"t":1795206621369,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1139,"rangeEnd":1139,"text":"\n    \n","textLength":6,"docVersion":33}
+{"t":1795206622382,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206625510,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206636602,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206637600,"file":"FittestTourFinder.cpp","type":"paste-command","size":498}
+{"t":1795206637637,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1144,"rangeEnd":1144,"text":"    const int coordinates[CITY_COUNT][2] = {\n        {900, 500}, {892, 578}, {870, 653}, {833, 722},\n        {783, 783}, {722, 833}, {653, 870}, {578, 892},\n        {500, 900}, {422, 892}, {347, 870}, {278, 833},\n        {217, 783}, {167, 722}, {130, 653}, {108, 578},\n        {100, 500}, {108, 422}, {130, 347}, {167, 278},\n        {217, 217}, {278, 167}, {347, 130}, {422, 108},\n        {500, 100}, {578, 108}, {653, 130}, {722, 167},\n        {783, 217}, {833, 278}, {870, 347}, {892, 422}\n    };","textLength":498,"docVersion":34,"source":"paste-external"}
+{"t":1795206638659,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1636,"rangeEnd":1640,"text":"","textLength":0,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1581,"rangeEnd":1589,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1525,"rangeEnd":1533,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1469,"rangeEnd":1477,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1413,"rangeEnd":1421,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1357,"rangeEnd":1365,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1301,"rangeEnd":1309,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1245,"rangeEnd":1253,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1189,"rangeEnd":1197,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206642578,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1140,"rangeEnd":1148,"text":"    ","textLength":4,"docVersion":35}
+{"t":1795206643596,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206654855,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1166,"rangeEnd":1176,"text":"3","textLength":1,"docVersion":36}
+{"t":1795206654988,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1167,"rangeEnd":1167,"text":"2","textLength":1,"docVersion":37}
+{"t":1795206656016,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206656876,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1166,"rangeEnd":1168,"text":"CITY_COUNT","textLength":10,"docVersion":38}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1600,"rangeEnd":1600,"text":"    ","textLength":4,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1549,"rangeEnd":1553,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1497,"rangeEnd":1501,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1445,"rangeEnd":1449,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1393,"rangeEnd":1397,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1341,"rangeEnd":1345,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1289,"rangeEnd":1293,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1237,"rangeEnd":1241,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1185,"rangeEnd":1189,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206657162,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1140,"rangeEnd":1144,"text":"        ","textLength":8,"docVersion":39}
+{"t":1795206658178,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1636,"rangeEnd":1640,"text":"","textLength":0,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1581,"rangeEnd":1589,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1525,"rangeEnd":1533,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1469,"rangeEnd":1477,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1413,"rangeEnd":1421,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1357,"rangeEnd":1365,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1301,"rangeEnd":1309,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1245,"rangeEnd":1253,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1189,"rangeEnd":1197,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206659220,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1140,"rangeEnd":1148,"text":"    ","textLength":4,"docVersion":40}
+{"t":1795206660248,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206665726,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1599,"rangeEnd":1600,"text":"","textLength":0,"docVersion":41}
+{"t":1795206666755,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206684757,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":449,"rangeEnd":450,"text":"","textLength":0,"docVersion":35}
+{"t":1795206684923,"file":"FittestTourFinder.hpp","type":"delete","rangeStart":448,"rangeEnd":449,"text":"","textLength":0,"docVersion":36}
+{"t":1795206685245,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":448,"rangeEnd":448,"text":"3","textLength":1,"docVersion":37}
+{"t":1795206685368,"file":"FittestTourFinder.hpp","type":"insert","rangeStart":449,"rangeEnd":449,"text":"2","textLength":1,"docVersion":38}
+{"t":1795206686390,"file":"FittestTourFinder.hpp","type":"file-save"}
+{"t":1795206695537,"file":"GeneticAlgorithm.hpp","type":"file-open"}
+{"t":1795206699254,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795206704148,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795206705735,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795206712640,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795206769129,"file":"FittestTourFinder.cpp","type":"copy-command","size":294}
+{"t":1795206772665,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1601,"rangeEnd":1601,"text":"\n    ","textLength":5,"docVersion":42}
+{"t":1795206772890,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1606,"rangeEnd":1606,"text":"\n    ","textLength":5,"docVersion":43}
+{"t":1795206772890,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1602,"rangeEnd":1606,"text":"","textLength":0,"docVersion":43}
+{"t":1795206773328,"file":"FittestTourFinder.cpp","type":"paste-command","size":294}
+{"t":1795206773341,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1607,"rangeEnd":1607,"text":"    for (int i = 0; i < CITY_COUNT; i++) {\n        string cityName = string(\"City\") + static_cast<char>('A' + i);\n        int randomXCoordinate = rand() % 1001;\n        int randomYCoordinate = rand() % 1001;\n\n        cities.push_back(City(cityName, randomXCoordinate, randomYCoordinate));\n    }","textLength":294,"docVersion":44,"source":"paste-refactor"}
+{"t":1795206774360,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1896,"rangeEnd":1900,"text":"","textLength":0,"docVersion":45}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1816,"rangeEnd":1824,"text":"    ","textLength":4,"docVersion":45}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1768,"rangeEnd":1776,"text":"    ","textLength":4,"docVersion":45}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1721,"rangeEnd":1729,"text":"    ","textLength":4,"docVersion":45}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1650,"rangeEnd":1658,"text":"    ","textLength":4,"docVersion":45}
+{"t":1795206776818,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1603,"rangeEnd":1611,"text":"    ","textLength":4,"docVersion":45}
+{"t":1795206777844,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206782474,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1876,"rangeEnd":1877,"text":"","textLength":0,"docVersion":46}
+{"t":1795206783516,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206786976,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1875,"rangeEnd":1876,"text":"","textLength":0,"docVersion":47}
+{"t":1795206787999,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206788034,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1875,"rangeEnd":1875,"text":"}","textLength":1,"docVersion":48}
+{"t":1795206789062,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206789930,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1875,"rangeEnd":1875,"text":"\n","textLength":1,"docVersion":49}
+{"t":1795206790949,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206793335,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1875,"rangeEnd":1876,"text":"","textLength":0,"docVersion":50}
+{"t":1795206794354,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206797038,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1875,"rangeEnd":1875,"text":"\n","textLength":1,"docVersion":51}
+{"t":1795206797471,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1876,"rangeEnd":1876,"text":"    ","textLength":4,"docVersion":52}
+{"t":1795206798500,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206801571,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1646,"rangeEnd":1875,"text":"q","textLength":1,"docVersion":53}
+{"t":1795206802588,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206803474,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1646,"rangeEnd":1647,"text":"    string cityName = string(\"City\") + static_cast<char>('A' + i);\n    int randomXCoordinate = rand() % 1001;\n    int randomYCoordinate = rand() % 1001;\n\n    cities.push_back(City(cityName, randomXCoordinate, randomYCoordinate));","textLength":229,"docVersion":54}
+{"t":1795206804155,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1800,"rangeEnd":1804,"text":"","textLength":0,"docVersion":55}
+{"t":1795206804155,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1756,"rangeEnd":1760,"text":"","textLength":0,"docVersion":55}
+{"t":1795206804155,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1713,"rangeEnd":1717,"text":"","textLength":0,"docVersion":55}
+{"t":1795206804155,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1646,"rangeEnd":1650,"text":"","textLength":0,"docVersion":55}
+{"t":1795206805179,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206805283,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1788,"rangeEnd":1788,"text":"    ","textLength":4,"docVersion":56}
+{"t":1795206805283,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1748,"rangeEnd":1748,"text":"    ","textLength":4,"docVersion":56}
+{"t":1795206805283,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1709,"rangeEnd":1709,"text":"    ","textLength":4,"docVersion":56}
+{"t":1795206805283,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1646,"rangeEnd":1646,"text":"    ","textLength":4,"docVersion":56}
+{"t":1795206805700,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1800,"rangeEnd":1804,"text":"        ","textLength":8,"docVersion":57}
+{"t":1795206805700,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1756,"rangeEnd":1760,"text":"        ","textLength":8,"docVersion":57}
+{"t":1795206805700,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1713,"rangeEnd":1717,"text":"        ","textLength":8,"docVersion":57}
+{"t":1795206805700,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1646,"rangeEnd":1650,"text":"        ","textLength":8,"docVersion":57}
+{"t":1795206806715,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206809176,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1599,"rangeEnd":1599,"text":"\n","textLength":1,"docVersion":58}
+{"t":1795206809579,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1600,"rangeEnd":1600,"text":"    ","textLength":4,"docVersion":59}
+{"t":1795206810598,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1549,"rangeEnd":1553,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1497,"rangeEnd":1501,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1445,"rangeEnd":1449,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1393,"rangeEnd":1397,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1341,"rangeEnd":1345,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1289,"rangeEnd":1293,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1237,"rangeEnd":1241,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206815886,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1185,"rangeEnd":1189,"text":"        ","textLength":8,"docVersion":60}
+{"t":1795206816919,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206826359,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1754,"rangeEnd":1847,"text":"","textLength":0,"docVersion":61}
+{"t":1795206826970,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1753,"rangeEnd":1754,"text":"","textLength":0,"docVersion":62}
+{"t":1795206827988,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206828684,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1753,"rangeEnd":1753,"text":"\n","textLength":1,"docVersion":63}
+{"t":1795206829700,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206832576,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1796,"rangeEnd":1813,"text":"c","textLength":1,"docVersion":64}
+{"t":1795206832883,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1797,"rangeEnd":1797,"text":"o","textLength":1,"docVersion":65}
+{"t":1795206833041,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1798,"rangeEnd":1798,"text":"o","textLength":1,"docVersion":66}
+{"t":1795206833169,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1799,"rangeEnd":1799,"text":"r","textLength":1,"docVersion":67}
+{"t":1795206833420,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1800,"rangeEnd":1800,"text":"d","textLength":1,"docVersion":68}
+{"t":1795206833524,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1801,"rangeEnd":1801,"text":"i","textLength":1,"docVersion":69}
+{"t":1795206833661,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1802,"rangeEnd":1802,"text":"n","textLength":1,"docVersion":70}
+{"t":1795206833798,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1803,"rangeEnd":1803,"text":"a","textLength":1,"docVersion":71}
+{"t":1795206833910,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1804,"rangeEnd":1804,"text":"t","textLength":1,"docVersion":72}
+{"t":1795206834024,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1805,"rangeEnd":1805,"text":"e","textLength":1,"docVersion":73}
+{"t":1795206834158,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1806,"rangeEnd":1806,"text":"s","textLength":1,"docVersion":74}
+{"t":1795206835179,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206836965,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1807,"rangeEnd":1807,"text":"[]","textLength":2,"docVersion":75}
+{"t":1795206837989,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206838833,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206841557,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206842344,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1808,"rangeEnd":1808,"text":"i","textLength":1,"docVersion":76}
+{"t":1795206843368,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206844913,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1810,"rangeEnd":1810,"text":"[]","textLength":2,"docVersion":77}
+{"t":1795206845554,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206845931,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206846598,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206847103,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1811,"rangeEnd":1811,"text":"0","textLength":1,"docVersion":78}
+{"t":1795206848131,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206848281,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795206850373,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206852650,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":1815,"rangeEnd":1832,"text":"c","textLength":1,"docVersion":79}
+{"t":1795206852856,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1816,"rangeEnd":1816,"text":"o","textLength":1,"docVersion":80}
+{"t":1795206853004,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1817,"rangeEnd":1817,"text":"o","textLength":1,"docVersion":81}
+{"t":1795206853159,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1818,"rangeEnd":1818,"text":"r","textLength":1,"docVersion":82}
+{"t":1795206853392,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1819,"rangeEnd":1819,"text":"d","textLength":1,"docVersion":83}
+{"t":1795206853497,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1820,"rangeEnd":1820,"text":"i","textLength":1,"docVersion":84}
+{"t":1795206853627,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1821,"rangeEnd":1821,"text":"n","textLength":1,"docVersion":85}
+{"t":1795206853717,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1822,"rangeEnd":1822,"text":"a","textLength":1,"docVersion":86}
+{"t":1795206853851,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1823,"rangeEnd":1823,"text":"t","textLength":1,"docVersion":87}
+{"t":1795206853949,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1824,"rangeEnd":1824,"text":"e","textLength":1,"docVersion":88}
+{"t":1795206854080,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1825,"rangeEnd":1825,"text":"s","textLength":1,"docVersion":89}
+{"t":1795206854498,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1826,"rangeEnd":1826,"text":"[]","textLength":2,"docVersion":90}
+{"t":1795206855468,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1827,"rangeEnd":1827,"text":"i","textLength":1,"docVersion":91}
+{"t":1795206856488,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206857705,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1829,"rangeEnd":1829,"text":"[]","textLength":2,"docVersion":92}
+{"t":1795206857903,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1830,"rangeEnd":1830,"text":"1","textLength":1,"docVersion":93}
+{"t":1795206858924,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206923973,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206963899,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795206964066,"file":"main.cpp","type":"file-open"}
+{"t":1795206974604,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":902,"rangeEnd":902,"text":"// ","textLength":3,"docVersion":94}
+{"t":1795206975636,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206976497,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":897,"rangeEnd":897,"text":"\n    ","textLength":5,"docVersion":95}
+{"t":1795206977517,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206977872,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":898,"rangeEnd":902,"text":"","textLength":0,"docVersion":96}
+{"t":1795206978415,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":897,"rangeEnd":898,"text":"","textLength":0,"docVersion":97}
+{"t":1795206979436,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206979944,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":922,"rangeEnd":922,"text":"\n    ","textLength":5,"docVersion":98}
+{"t":1795206980635,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":927,"rangeEnd":927,"text":"g","textLength":1,"docVersion":99}
+{"t":1795206980925,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":928,"rangeEnd":928,"text":"e","textLength":1,"docVersion":100}
+{"t":1795206981135,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":929,"rangeEnd":929,"text":"n","textLength":1,"docVersion":101}
+{"t":1795206981355,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":930,"rangeEnd":930,"text":"e","textLength":1,"docVersion":102}
+{"t":1795206981487,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":931,"rangeEnd":931,"text":"r","textLength":1,"docVersion":103}
+{"t":1795206982244,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":927,"rangeEnd":932,"text":"generateFixedCities","textLength":19,"docVersion":104}
+{"t":1795206983046,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":946,"rangeEnd":946,"text":"()","textLength":2,"docVersion":105}
+{"t":1795206983136,"file":"FittestTourFinder.cpp","type":"replace","rangeStart":947,"rangeEnd":948,"text":")","textLength":1,"docVersion":106}
+{"t":1795206983712,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":948,"rangeEnd":948,"text":";","textLength":1,"docVersion":107}
+{"t":1795206984738,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795206995826,"file":"City.cpp","type":"file-open"}
+{"t":1795207020407,"file":"GeneticAlgorithm.hpp","type":"file-open"}
+{"t":1795207023216,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207024866,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207026070,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207029097,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207031983,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207032784,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207033212,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":219,"rangeEnd":220,"text":"","textLength":0,"docVersion":2}
+{"t":1795207033448,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":218,"rangeEnd":219,"text":"","textLength":0,"docVersion":3}
+{"t":1795207034180,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":217,"rangeEnd":218,"text":"","textLength":0,"docVersion":4}
+{"t":1795207034511,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":217,"rangeEnd":217,"text":"5","textLength":1,"docVersion":5}
+{"t":1795207034672,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":".","textLength":1,"docVersion":6}
+{"t":1795207034857,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":"5","textLength":1,"docVersion":7}
+{"t":1795207035535,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207035865,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207037187,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207039312,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":171,"rangeEnd":172,"text":"","textLength":0,"docVersion":8}
+{"t":1795207039504,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":170,"rangeEnd":171,"text":"","textLength":0,"docVersion":9}
+{"t":1795207039876,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"8","textLength":1,"docVersion":10}
+{"t":1795207040904,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207041541,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207042580,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207043425,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":170,"rangeEnd":171,"text":"","textLength":0,"docVersion":11}
+{"t":1795207043643,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"6","textLength":1,"docVersion":12}
+{"t":1795207044674,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207044796,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207047096,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207049600,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207051683,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207052190,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":259,"rangeEnd":260,"text":"","textLength":0,"docVersion":13}
+{"t":1795207052373,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":259,"rangeEnd":259,"text":"2","textLength":1,"docVersion":14}
+{"t":1795207052712,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":260,"rangeEnd":260,"text":"0","textLength":1,"docVersion":15}
+{"t":1795207053531,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207053722,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207055787,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207065789,"file":"Population.hpp","type":"file-open"}
+{"t":1795207068623,"file":"Population.hpp","type":"delete","rangeStart":320,"rangeEnd":321,"text":"","textLength":0,"docVersion":2}
+{"t":1795207068762,"file":"Population.hpp","type":"insert","rangeStart":320,"rangeEnd":320,"text":"2","textLength":1,"docVersion":3}
+{"t":1795207069787,"file":"Population.hpp","type":"file-save"}
+{"t":1795207114560,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":170,"rangeEnd":171,"text":"","textLength":0,"docVersion":16}
+{"t":1795207114729,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"8","textLength":1,"docVersion":17}
+{"t":1795207115750,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207145320,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207151632,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207159328,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207159884,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207177648,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207178974,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207193025,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207202019,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207203875,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207211961,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207215419,"file":"FittestTourFinder.hpp","type":"copy-command","size":714}
+{"t":1795207215938,"file":"FittestTourFinder.hpp","type":"window-blur"}
+{"t":1795207218284,"file":"FittestTourFinder.hpp","type":"window-focus"}
+{"t":1795207221087,"file":"GeneticAlgorithm.hpp","type":"copy-command","size":1124}
+{"t":1795207221606,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207224774,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207227692,"file":"Population.hpp","type":"copy-command","size":758}
+{"t":1795207228350,"file":"Population.hpp","type":"window-blur"}
+{"t":1795207230722,"file":"Population.hpp","type":"window-focus"}
+{"t":1795207233835,"file":"FittestTourFinder.cpp","type":"copy-command","size":1873}
+{"t":1795207234554,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207238691,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207240542,"file":"FittestTourFinder.cpp","type":"copy-command","size":1873}
+{"t":1795207241385,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207245010,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207255892,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207303901,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207354420,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207356537,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207369792,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1776,"rangeEnd":1777,"text":"","textLength":0,"docVersion":108}
+{"t":1795207369964,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1775,"rangeEnd":1776,"text":"","textLength":0,"docVersion":109}
+{"t":1795207370138,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1774,"rangeEnd":1775,"text":"","textLength":0,"docVersion":110}
+{"t":1795207370909,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1774,"rangeEnd":1774,"text":"i","textLength":1,"docVersion":111}
+{"t":1795207371926,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795207372752,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207373610,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207375466,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1778,"rangeEnd":1779,"text":"","textLength":0,"docVersion":112}
+{"t":1795207375695,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1778,"rangeEnd":1778,"text":"1","textLength":1,"docVersion":113}
+{"t":1795207376716,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795207380219,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207389501,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207396104,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":218,"rangeEnd":219,"text":"","textLength":0,"docVersion":18}
+{"t":1795207396638,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":"0","textLength":1,"docVersion":19}
+{"t":1795207397654,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207398790,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":170,"rangeEnd":171,"text":"","textLength":0,"docVersion":20}
+{"t":1795207398936,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"2","textLength":1,"docVersion":21}
+{"t":1795207399956,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207419962,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207423269,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207430276,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1772,"rangeEnd":1773,"text":"","textLength":0,"docVersion":114}
+{"t":1795207430443,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1771,"rangeEnd":1772,"text":"","textLength":0,"docVersion":115}
+{"t":1795207430589,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1770,"rangeEnd":1771,"text":"","textLength":0,"docVersion":116}
+{"t":1795207430766,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1769,"rangeEnd":1770,"text":"","textLength":0,"docVersion":117}
+{"t":1795207430906,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1768,"rangeEnd":1769,"text":"","textLength":0,"docVersion":118}
+{"t":1795207431064,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1767,"rangeEnd":1768,"text":"","textLength":0,"docVersion":119}
+{"t":1795207431218,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1766,"rangeEnd":1767,"text":"","textLength":0,"docVersion":120}
+{"t":1795207431372,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1765,"rangeEnd":1766,"text":"","textLength":0,"docVersion":121}
+{"t":1795207431537,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1764,"rangeEnd":1765,"text":"","textLength":0,"docVersion":122}
+{"t":1795207431690,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1763,"rangeEnd":1764,"text":"","textLength":0,"docVersion":123}
+{"t":1795207431852,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1762,"rangeEnd":1763,"text":"","textLength":0,"docVersion":124}
+{"t":1795207432012,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1761,"rangeEnd":1762,"text":"","textLength":0,"docVersion":125}
+{"t":1795207432174,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1760,"rangeEnd":1761,"text":"","textLength":0,"docVersion":126}
+{"t":1795207432343,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1759,"rangeEnd":1760,"text":"","textLength":0,"docVersion":127}
+{"t":1795207432508,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1758,"rangeEnd":1759,"text":"","textLength":0,"docVersion":128}
+{"t":1795207432687,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1757,"rangeEnd":1758,"text":"","textLength":0,"docVersion":129}
+{"t":1795207432866,"file":"FittestTourFinder.cpp","type":"delete","rangeStart":1756,"rangeEnd":1757,"text":"","textLength":0,"docVersion":130}
+{"t":1795207433090,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1756,"rangeEnd":1756,"text":"t","textLength":1,"docVersion":131}
+{"t":1795207433424,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1757,"rangeEnd":1757,"text":"o","textLength":1,"docVersion":132}
+{"t":1795207433796,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1758,"rangeEnd":1758,"text":"_","textLength":1,"docVersion":133}
+{"t":1795207433971,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1759,"rangeEnd":1759,"text":"s","textLength":1,"docVersion":134}
+{"t":1795207434132,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1760,"rangeEnd":1760,"text":"t","textLength":1,"docVersion":135}
+{"t":1795207434236,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1761,"rangeEnd":1761,"text":"r","textLength":1,"docVersion":136}
+{"t":1795207434343,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1762,"rangeEnd":1762,"text":"i","textLength":1,"docVersion":137}
+{"t":1795207434494,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1763,"rangeEnd":1763,"text":"n","textLength":1,"docVersion":138}
+{"t":1795207434594,"file":"FittestTourFinder.cpp","type":"insert","rangeStart":1764,"rangeEnd":1764,"text":"g","textLength":1,"docVersion":139}
+{"t":1795207435612,"file":"FittestTourFinder.cpp","type":"file-save"}
+{"t":1795207449051,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207449835,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207457415,"file":"FittestTourFinder.cpp","type":"window-blur"}
+{"t":1795207459981,"file":"FittestTourFinder.cpp","type":"window-focus"}
+{"t":1795207465141,"file":"GeneticAlgorithm.hpp","type":"copy-command","size":1124}
+{"t":1795207465680,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207516538,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207531779,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207534511,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207536803,"file":"README.md","type":"copy-command","size":9009}
+{"t":1795207537338,"file":"README.md","type":"window-blur"}
+{"t":1795207568066,"file":"README.md","type":"window-focus"}
+{"t":1795207579089,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":172,"rangeEnd":172,"text":"\n    ","textLength":5,"docVersion":22}
+{"t":1795207579811,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":177,"rangeEnd":177,"text":"s","textLength":1,"docVersion":23}
+{"t":1795207580029,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":178,"rangeEnd":178,"text":"t","textLength":1,"docVersion":24}
+{"t":1795207580154,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":179,"rangeEnd":179,"text":"a","textLength":1,"docVersion":25}
+{"t":1795207580294,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":180,"rangeEnd":180,"text":"t","textLength":1,"docVersion":26}
+{"t":1795207580802,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":181,"rangeEnd":181,"text":"i","textLength":1,"docVersion":27}
+{"t":1795207580955,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":182,"rangeEnd":182,"text":"c","textLength":1,"docVersion":28}
+{"t":1795207581102,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":183,"rangeEnd":183,"text":" ","textLength":1,"docVersion":29}
+{"t":1795207581292,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":184,"rangeEnd":184,"text":"c","textLength":1,"docVersion":30}
+{"t":1795207581405,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":185,"rangeEnd":185,"text":"o","textLength":1,"docVersion":31}
+{"t":1795207581560,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":186,"rangeEnd":186,"text":"n","textLength":1,"docVersion":32}
+{"t":1795207581640,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":187,"rangeEnd":187,"text":"s","textLength":1,"docVersion":33}
+{"t":1795207581789,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":188,"rangeEnd":188,"text":"t","textLength":1,"docVersion":34}
+{"t":1795207582026,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":189,"rangeEnd":189,"text":"e","textLength":1,"docVersion":35}
+{"t":1795207582288,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":190,"rangeEnd":190,"text":"x","textLength":1,"docVersion":36}
+{"t":1795207582395,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":191,"rangeEnd":191,"text":"p","textLength":1,"docVersion":37}
+{"t":1795207582546,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":192,"rangeEnd":192,"text":"r","textLength":1,"docVersion":38}
+{"t":1795207582723,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":193,"rangeEnd":193,"text":" ","textLength":1,"docVersion":39}
+{"t":1795207582949,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":194,"rangeEnd":194,"text":"d","textLength":1,"docVersion":40}
+{"t":1795207583065,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":195,"rangeEnd":195,"text":"o","textLength":1,"docVersion":41}
+{"t":1795207583233,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":196,"rangeEnd":196,"text":"u","textLength":1,"docVersion":42}
+{"t":1795207583327,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":197,"rangeEnd":197,"text":"b","textLength":1,"docVersion":43}
+{"t":1795207583461,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":198,"rangeEnd":198,"text":"l","textLength":1,"docVersion":44}
+{"t":1795207583592,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":199,"rangeEnd":199,"text":"e","textLength":1,"docVersion":45}
+{"t":1795207583717,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":200,"rangeEnd":200,"text":" ","textLength":1,"docVersion":46}
+{"t":1795207584095,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":201,"rangeEnd":201,"text":"M","textLength":1,"docVersion":47}
+{"t":1795207584434,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":202,"rangeEnd":202,"text":"U","textLength":1,"docVersion":48}
+{"t":1795207584560,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":203,"rangeEnd":203,"text":"T","textLength":1,"docVersion":49}
+{"t":1795207584731,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":204,"rangeEnd":204,"text":"A","textLength":1,"docVersion":50}
+{"t":1795207584899,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":205,"rangeEnd":205,"text":"T","textLength":1,"docVersion":51}
+{"t":1795207585059,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":206,"rangeEnd":206,"text":"I","textLength":1,"docVersion":52}
+{"t":1795207585166,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":207,"rangeEnd":207,"text":"O","textLength":1,"docVersion":53}
+{"t":1795207585303,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":208,"rangeEnd":208,"text":"N","textLength":1,"docVersion":54}
+{"t":1795207585833,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":209,"rangeEnd":209,"text":"_","textLength":1,"docVersion":55}
+{"t":1795207586494,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207586849,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207587451,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207587867,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":210,"rangeEnd":210,"text":"P","textLength":1,"docVersion":56}
+{"t":1795207588089,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":211,"rangeEnd":211,"text":"E","textLength":1,"docVersion":57}
+{"t":1795207588262,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":212,"rangeEnd":212,"text":"R","textLength":1,"docVersion":58}
+{"t":1795207588591,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":213,"rangeEnd":213,"text":"C","textLength":1,"docVersion":59}
+{"t":1795207589092,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":214,"rangeEnd":214,"text":"E","textLength":1,"docVersion":60}
+{"t":1795207589260,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":215,"rangeEnd":215,"text":"N","textLength":1,"docVersion":61}
+{"t":1795207589391,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":216,"rangeEnd":216,"text":"T","textLength":1,"docVersion":62}
+{"t":1795207589687,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":217,"rangeEnd":217,"text":" ","textLength":1,"docVersion":63}
+{"t":1795207589860,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":218,"rangeEnd":218,"text":"=","textLength":1,"docVersion":64}
+{"t":1795207589999,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":219,"rangeEnd":219,"text":" ","textLength":1,"docVersion":65}
+{"t":1795207590819,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":220,"rangeEnd":220,"text":"0","textLength":1,"docVersion":66}
+{"t":1795207591455,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":221,"rangeEnd":221,"text":".","textLength":1,"docVersion":67}
+{"t":1795207592121,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":222,"rangeEnd":222,"text":"6","textLength":1,"docVersion":68}
+{"t":1795207592421,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":223,"rangeEnd":223,"text":";","textLength":1,"docVersion":69}
+{"t":1795207593444,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207596820,"file":"GeneticAlgorithm.hpp","type":"delete","rangeStart":170,"rangeEnd":171,"text":"","textLength":0,"docVersion":70}
+{"t":1795207597040,"file":"GeneticAlgorithm.hpp","type":"insert","rangeStart":170,"rangeEnd":170,"text":"8","textLength":1,"docVersion":71}
+{"t":1795207598056,"file":"GeneticAlgorithm.hpp","type":"file-save"}
+{"t":1795207598252,"file":"GeneticAlgorithm.hpp","type":"window-blur"}
+{"t":1795207640420,"file":"GeneticAlgorithm.hpp","type":"window-focus"}
+{"t":1795207645461,"file":"Population.cpp","type":"file-open"}
+{"t":1795207658292,"file":"GeneticAlgorithm.cpp","type":"file-open"}
+{"t":1795207669368,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207673691,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207719902,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207721365,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207721787,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2071,"rangeEnd":2071,"text":"\n        ","textLength":9,"docVersion":2}
+{"t":1795207722694,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2080,"rangeEnd":2080,"text":"d","textLength":1,"docVersion":3}
+{"t":1795207723258,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2081,"rangeEnd":2081,"text":"o","textLength":1,"docVersion":4}
+{"t":1795207723469,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2082,"rangeEnd":2082,"text":"u","textLength":1,"docVersion":5}
+{"t":1795207723616,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2083,"rangeEnd":2083,"text":"b","textLength":1,"docVersion":6}
+{"t":1795207723721,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2084,"rangeEnd":2084,"text":"l","textLength":1,"docVersion":7}
+{"t":1795207723869,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2085,"rangeEnd":2085,"text":"e","textLength":1,"docVersion":8}
+{"t":1795207723991,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2086,"rangeEnd":2086,"text":" ","textLength":1,"docVersion":9}
+{"t":1795207724620,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2087,"rangeEnd":2087,"text":"m","textLength":1,"docVersion":10}
+{"t":1795207724815,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2088,"rangeEnd":2088,"text":"u","textLength":1,"docVersion":11}
+{"t":1795207724930,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2089,"rangeEnd":2089,"text":"t","textLength":1,"docVersion":12}
+{"t":1795207725061,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2090,"rangeEnd":2090,"text":"a","textLength":1,"docVersion":13}
+{"t":1795207725173,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2091,"rangeEnd":2091,"text":"t","textLength":1,"docVersion":14}
+{"t":1795207725275,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2092,"rangeEnd":2092,"text":"e","textLength":1,"docVersion":15}
+{"t":1795207725627,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2093,"rangeEnd":2093,"text":"_","textLength":1,"docVersion":16}
+{"t":1795207726124,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":2093,"rangeEnd":2094,"text":"","textLength":0,"docVersion":17}
+{"t":1795207726470,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2093,"rangeEnd":2093,"text":"P","textLength":1,"docVersion":18}
+{"t":1795207726706,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2094,"rangeEnd":2094,"text":"r","textLength":1,"docVersion":19}
+{"t":1795207726814,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2095,"rangeEnd":2095,"text":"o","textLength":1,"docVersion":20}
+{"t":1795207726974,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2096,"rangeEnd":2096,"text":"b","textLength":1,"docVersion":21}
+{"t":1795207727189,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2097,"rangeEnd":2097,"text":" ","textLength":1,"docVersion":22}
+{"t":1795207727347,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2098,"rangeEnd":2098,"text":"=","textLength":1,"docVersion":23}
+{"t":1795207727448,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2099,"rangeEnd":2099,"text":" ","textLength":1,"docVersion":24}
+{"t":1795207728014,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207728469,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207729442,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207729941,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2100,"rangeEnd":2100,"text":"s","textLength":1,"docVersion":25}
+{"t":1795207730096,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2101,"rangeEnd":2101,"text":"t","textLength":1,"docVersion":26}
+{"t":1795207730221,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2102,"rangeEnd":2102,"text":"a","textLength":1,"docVersion":27}
+{"t":1795207730325,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2103,"rangeEnd":2103,"text":"t","textLength":1,"docVersion":28}
+{"t":1795207730784,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2104,"rangeEnd":2104,"text":"i","textLength":1,"docVersion":29}
+{"t":1795207730977,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2105,"rangeEnd":2105,"text":"c","textLength":1,"docVersion":30}
+{"t":1795207732000,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207732869,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2100,"rangeEnd":2106,"text":"static_cast","textLength":11,"docVersion":31}
+{"t":1795207733280,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207733885,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207734240,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207734875,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2111,"rangeEnd":2111,"text":"<","textLength":1,"docVersion":32}
+{"t":1795207735138,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2112,"rangeEnd":2112,"text":"d","textLength":1,"docVersion":33}
+{"t":1795207735234,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2113,"rangeEnd":2113,"text":"o","textLength":1,"docVersion":34}
+{"t":1795207735428,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2114,"rangeEnd":2114,"text":"u","textLength":1,"docVersion":35}
+{"t":1795207735554,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2115,"rangeEnd":2115,"text":"b","textLength":1,"docVersion":36}
+{"t":1795207736372,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2116,"rangeEnd":2116,"text":"l","textLength":1,"docVersion":37}
+{"t":1795207736524,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2117,"rangeEnd":2117,"text":"e","textLength":1,"docVersion":38}
+{"t":1795207736840,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2118,"rangeEnd":2118,"text":">","textLength":1,"docVersion":39}
+{"t":1795207737445,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2119,"rangeEnd":2119,"text":"{}","textLength":2,"docVersion":40}
+{"t":1795207737839,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":2119,"rangeEnd":2121,"text":"","textLength":0,"docVersion":41}
+{"t":1795207738298,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2119,"rangeEnd":2119,"text":"()","textLength":2,"docVersion":42}
+{"t":1795207738977,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2120,"rangeEnd":2120,"text":"r","textLength":1,"docVersion":43}
+{"t":1795207739099,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2121,"rangeEnd":2121,"text":"a","textLength":1,"docVersion":44}
+{"t":1795207740066,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2122,"rangeEnd":2122,"text":"n","textLength":1,"docVersion":45}
+{"t":1795207741081,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207741262,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2123,"rangeEnd":2123,"text":"d","textLength":1,"docVersion":46}
+{"t":1795207741596,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2124,"rangeEnd":2124,"text":"()","textLength":2,"docVersion":47}
+{"t":1795207741675,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2125,"rangeEnd":2126,"text":")","textLength":1,"docVersion":48}
+{"t":1795207742692,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207743615,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2127,"rangeEnd":2127,"text":" ","textLength":1,"docVersion":49}
+{"t":1795207743902,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2128,"rangeEnd":2128,"text":"/","textLength":1,"docVersion":50}
+{"t":1795207744095,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2129,"rangeEnd":2129,"text":" ","textLength":1,"docVersion":51}
+{"t":1795207744742,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207745118,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207745927,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207746719,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207747235,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207748337,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2130,"rangeEnd":2130,"text":"R","textLength":1,"docVersion":52}
+{"t":1795207748465,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2131,"rangeEnd":2131,"text":"A","textLength":1,"docVersion":53}
+{"t":1795207748658,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2132,"rangeEnd":2132,"text":"N","textLength":1,"docVersion":54}
+{"t":1795207749134,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2130,"rangeEnd":2133,"text":"RAND_MAX","textLength":8,"docVersion":55}
+{"t":1795207749849,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2138,"rangeEnd":2138,"text":";","textLength":1,"docVersion":56}
+{"t":1795207750873,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207751030,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2139,"rangeEnd":2139,"text":"\n        ","textLength":9,"docVersion":57}
+{"t":1795207751784,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2148,"rangeEnd":2148,"text":"i","textLength":1,"docVersion":58}
+{"t":1795207751957,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2149,"rangeEnd":2149,"text":"f","textLength":1,"docVersion":59}
+{"t":1795207752091,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2150,"rangeEnd":2150,"text":" ","textLength":1,"docVersion":60}
+{"t":1795207752680,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2151,"rangeEnd":2151,"text":"()","textLength":2,"docVersion":61}
+{"t":1795207753115,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2152,"rangeEnd":2152,"text":"m","textLength":1,"docVersion":62}
+{"t":1795207753364,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2153,"rangeEnd":2153,"text":"u","textLength":1,"docVersion":63}
+{"t":1795207754277,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2154,"rangeEnd":2154,"text":"t","textLength":1,"docVersion":64}
+{"t":1795207755285,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207755742,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2152,"rangeEnd":2155,"text":"mutateProb","textLength":10,"docVersion":65}
+{"t":1795207756307,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2162,"rangeEnd":2162,"text":" ","textLength":1,"docVersion":66}
+{"t":1795207756599,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2163,"rangeEnd":2163,"text":"<","textLength":1,"docVersion":67}
+{"t":1795207756785,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2164,"rangeEnd":2164,"text":" ","textLength":1,"docVersion":68}
+{"t":1795207757801,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207757938,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2165,"rangeEnd":2165,"text":"M","textLength":1,"docVersion":69}
+{"t":1795207758205,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2166,"rangeEnd":2166,"text":"U","textLength":1,"docVersion":70}
+{"t":1795207758392,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2167,"rangeEnd":2167,"text":"T","textLength":1,"docVersion":71}
+{"t":1795207758546,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2168,"rangeEnd":2168,"text":"A","textLength":1,"docVersion":72}
+{"t":1795207758671,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2169,"rangeEnd":2169,"text":"T","textLength":1,"docVersion":73}
+{"t":1795207759686,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207759934,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2165,"rangeEnd":2170,"text":"MUTATION_PERCENT","textLength":16,"docVersion":74}
+{"t":1795207760950,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207761424,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2182,"rangeEnd":2182,"text":" ","textLength":1,"docVersion":75}
+{"t":1795207761812,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2183,"rangeEnd":2183,"text":"{}","textLength":2,"docVersion":76}
+{"t":1795207762054,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2184,"rangeEnd":2184,"text":"\n            \n        ","textLength":22,"docVersion":77}
+{"t":1795207763071,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207766298,"file":"GeneticAlgorithm.cpp","type":"insert","rangeStart":2237,"rangeEnd":2237,"text":"\n        }","textLength":10,"docVersion":78}
+{"t":1795207766298,"file":"GeneticAlgorithm.cpp","type":"replace","rangeStart":2208,"rangeEnd":2216,"text":"            ","textLength":12,"docVersion":78}
+{"t":1795207766298,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":2198,"rangeEnd":2208,"text":"","textLength":0,"docVersion":78}
+{"t":1795207766298,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":2185,"rangeEnd":2197,"text":"","textLength":0,"docVersion":78}
+{"t":1795207767317,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207768500,"file":"GeneticAlgorithm.cpp","type":"delete","rangeStart":2184,"rangeEnd":2185,"text":"","textLength":0,"docVersion":79}
+{"t":1795207769527,"file":"GeneticAlgorithm.cpp","type":"file-save"}
+{"t":1795207772481,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207775779,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207781655,"file":"GeneticAlgorithm.cpp","type":"window-blur"}
+{"t":1795207815512,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207878114,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
+{"t":1795207882070,"file":"GeneticAlgorithm.cpp","type":"window-focus"}
