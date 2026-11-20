@@ -30,9 +30,10 @@ void Tour::swapCities(int index1, int index2){
 }
 
 void Tour::shuffleCities(){
-    static std::mt19937 rng(std::random_device{}());
-    std::shuffle(cities.begin(), cities.end(), rng);
-    calculateFitness();
+    for (size_t i = cities.size() - 1; i > 0; --i) {
+        size_t j = static_cast<size_t>(std::rand()) %(i + 1);
+        std::swap(cities[i], cities[j]);
+    }
 }
 
 vector<City *> Tour::getCities() const{
