@@ -6,8 +6,8 @@ class GeneticAlgorithm {
     static const int RANDOM_SIZE = 5;
     static constexpr double MUTATION_RATE = 0.8;
     static constexpr double MUTATION_PERCENT = 0.6;
-    static constexpr double TARGET_RATIO = 5.0;
-    static const int MAX_ITERATIONS = 20000;
+    static constexpr double TARGET_RATIO = 5.2;
+    static const int MAX_ITERATIONS = 30000;
 
     Population& population;
     Tour baseTour;

@@ -58,10 +58,14 @@ void GeneticAlgorithm::createNewPopulation() {
 
     // Fill temp tours with crossover tours
     while (tempTours.size() < population.getPopSize()) {
-        const Tour& tour1 = randomBestTour();
-        const Tour& tour2 = randomBestTour();
+        const Tour* tour1 = &randomBestTour();
+        const Tour* tour2 = &randomBestTour();
 
-        Tour crossoverTour = crossover(tour1, tour2);
+        while (tour1->getCities() == tour2->getCities()) {
+            tour2 = &randomBestTour();
+        }
+
+        Tour crossoverTour = crossover(*tour1, *tour2);
         tempTours.push_back(crossoverTour);
     }
 

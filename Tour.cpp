@@ -34,6 +34,7 @@ void Tour::shuffleCities(){
         size_t j = static_cast<size_t>(std::rand()) %(i + 1);
         std::swap(cities[i], cities[j]);
     }
+    calculateFitness();
 }
 
 vector<City *> Tour::getCities() const{
